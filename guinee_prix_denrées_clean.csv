@@ -1,0 +1,4696 @@
+date,marche,denree,unite,prix_gnf
+2019-01-06,Conakry (Madina),huile,GNF/L,8873.0
+2019-01-13,Conakry (Madina),huile,GNF/L,9137.0
+2019-01-20,Conakry (Madina),huile,GNF/L,8988.0
+2019-01-27,Conakry (Madina),huile,GNF/L,8737.0
+2019-02-03,Conakry (Madina),huile,GNF/L,9038.0
+2019-02-10,Conakry (Madina),huile,GNF/L,9237.0
+2019-02-17,Conakry (Madina),huile,GNF/L,8826.0
+2019-02-24,Conakry (Madina),huile,GNF/L,9137.0
+2019-03-03,Conakry (Madina),huile,GNF/L,8981.0
+2019-03-10,Conakry (Madina),huile,GNF/L,9100.0
+2019-03-17,Conakry (Madina),huile,GNF/L,8970.0
+2019-03-24,Conakry (Madina),huile,GNF/L,9156.0
+2019-03-31,Conakry (Madina),huile,GNF/L,9125.0
+2019-04-07,Conakry (Madina),huile,GNF/L,9366.0
+2019-04-14,Conakry (Madina),huile,GNF/L,9641.0
+2019-04-21,Conakry (Madina),huile,GNF/L,9649.0
+2019-04-28,Conakry (Madina),huile,GNF/L,9350.0
+2019-05-05,Conakry (Madina),huile,GNF/L,9180.0
+2019-05-12,Conakry (Madina),huile,GNF/L,9467.0
+2019-05-19,Conakry (Madina),huile,GNF/L,9553.0
+2019-05-26,Conakry (Madina),huile,GNF/L,9309.0
+2019-06-02,Conakry (Madina),huile,GNF/L,9897.0
+2019-06-09,Conakry (Madina),huile,GNF/L,9948.0
+2019-06-16,Conakry (Madina),huile,GNF/L,9945.0
+2019-06-23,Conakry (Madina),huile,GNF/L,10055.0
+2019-06-30,Conakry (Madina),huile,GNF/L,9805.0
+2019-07-07,Conakry (Madina),huile,GNF/L,10022.0
+2019-07-14,Conakry (Madina),huile,GNF/L,9976.0
+2019-07-21,Conakry (Madina),huile,GNF/L,10013.0
+2019-07-28,Conakry (Madina),huile,GNF/L,9742.0
+2019-08-04,Conakry (Madina),huile,GNF/L,9624.0
+2019-08-11,Conakry (Madina),huile,GNF/L,9921.0
+2019-08-18,Conakry (Madina),huile,GNF/L,9709.0
+2019-08-25,Conakry (Madina),huile,GNF/L,9919.0
+2019-09-01,Conakry (Madina),huile,GNF/L,9655.0
+2019-09-08,Conakry (Madina),huile,GNF/L,9680.0
+2019-09-15,Conakry (Madina),huile,GNF/L,9961.0
+2019-09-22,Conakry (Madina),huile,GNF/L,9565.0
+2019-09-29,Conakry (Madina),huile,GNF/L,9889.0
+2019-10-06,Conakry (Madina),huile,GNF/L,9626.0
+2019-10-13,Conakry (Madina),huile,GNF/L,9363.0
+2019-10-20,Conakry (Madina),huile,GNF/L,9638.0
+2019-10-27,Conakry (Madina),huile,GNF/L,9347.0
+2019-11-03,Conakry (Madina),huile,GNF/L,9168.0
+2019-11-10,Conakry (Madina),huile,GNF/L,9643.0
+2019-11-17,Conakry (Madina),huile,GNF/L,9434.0
+2019-11-24,Conakry (Madina),huile,GNF/L,9212.0
+2019-12-01,Conakry (Madina),huile,GNF/L,9646.0
+2019-12-08,Conakry (Madina),huile,GNF/L,9660.0
+2019-12-15,Conakry (Madina),huile,GNF/L,9405.0
+2019-12-22,Conakry (Madina),huile,GNF/L,9536.0
+2019-12-29,Conakry (Madina),huile,GNF/L,9792.0
+2020-01-05,Conakry (Madina),huile,GNF/L,9657.0
+2020-01-12,Conakry (Madina),huile,GNF/L,9694.0
+2020-01-19,Conakry (Madina),huile,GNF/L,9929.0
+2020-01-26,Conakry (Madina),huile,GNF/L,
+2020-02-02,Conakry (Madina),huile,GNF/L,9719.0
+2020-02-09,Conakry (Madina),huile,GNF/L,9834.0
+2020-02-16,Conakry (Madina),huile,GNF/L,
+2020-02-23,Conakry (Madina),huile,GNF/L,10301.0
+2020-03-01,Conakry (Madina),huile,GNF/L,11254.0
+2020-03-08,Conakry (Madina),huile,GNF/L,10740.0
+2020-03-15,Conakry (Madina),huile,GNF/L,10934.0
+2020-03-22,Conakry (Madina),huile,GNF/L,11094.0
+2020-03-29,Conakry (Madina),huile,GNF/L,10500.0
+2020-04-05,Conakry (Madina),huile,GNF/L,11312.0
+2020-04-12,Conakry (Madina),huile,GNF/L,10859.0
+2020-04-19,Conakry (Madina),huile,GNF/L,11018.0
+2020-04-26,Conakry (Madina),huile,GNF/L,11170.0
+2020-05-03,Conakry (Madina),huile,GNF/L,11265.0
+2020-05-10,Conakry (Madina),huile,GNF/L,11272.0
+2020-05-17,Conakry (Madina),huile,GNF/L,10775.0
+2020-05-24,Conakry (Madina),huile,GNF/L,
+2020-05-31,Conakry (Madina),huile,GNF/L,11699.0
+2020-06-07,Conakry (Madina),huile,GNF/L,11848.0
+2020-06-14,Conakry (Madina),huile,GNF/L,12006.0
+2020-06-21,Conakry (Madina),huile,GNF/L,11829.0
+2020-06-28,Conakry (Madina),huile,GNF/L,11796.0
+2020-07-05,Conakry (Madina),huile,GNF/L,11750.0
+2020-07-12,Conakry (Madina),huile,GNF/L,11343.0
+2020-07-19,Conakry (Madina),huile,GNF/L,11799.0
+2020-07-26,Conakry (Madina),huile,GNF/L,11806.0
+2020-08-02,Conakry (Madina),huile,GNF/L,11530.0
+2020-08-09,Conakry (Madina),huile,GNF/L,11829.0
+2020-08-16,Conakry (Madina),huile,GNF/L,11954.0
+2020-08-23,Conakry (Madina),huile,GNF/L,11734.0
+2020-08-30,Conakry (Madina),huile,GNF/L,11113.0
+2020-09-06,Conakry (Madina),huile,GNF/L,11461.0
+2020-09-13,Conakry (Madina),huile,GNF/L,12011.0
+2020-09-20,Conakry (Madina),huile,GNF/L,10882.0
+2020-09-27,Conakry (Madina),huile,GNF/L,10630.0
+2020-10-04,Conakry (Madina),huile,GNF/L,11018.0
+2020-10-11,Conakry (Madina),huile,GNF/L,10714.0
+2020-10-18,Conakry (Madina),huile,GNF/L,11055.0
+2020-10-25,Conakry (Madina),huile,GNF/L,10831.0
+2020-11-01,Conakry (Madina),huile,GNF/L,10825.0
+2020-11-08,Conakry (Madina),huile,GNF/L,10841.0
+2020-11-15,Conakry (Madina),huile,GNF/L,11148.0
+2020-11-22,Conakry (Madina),huile,GNF/L,11214.0
+2020-11-29,Conakry (Madina),huile,GNF/L,11095.0
+2020-12-06,Conakry (Madina),huile,GNF/L,10324.0
+2020-12-13,Conakry (Madina),huile,GNF/L,
+2020-12-20,Conakry (Madina),huile,GNF/L,11303.0
+2020-12-27,Conakry (Madina),huile,GNF/L,11360.0
+2021-01-03,Conakry (Madina),huile,GNF/L,11032.0
+2021-01-10,Conakry (Madina),huile,GNF/L,11281.0
+2021-01-17,Conakry (Madina),huile,GNF/L,11291.0
+2021-01-24,Conakry (Madina),huile,GNF/L,11649.0
+2021-01-31,Conakry (Madina),huile,GNF/L,10935.0
+2021-02-07,Conakry (Madina),huile,GNF/L,11057.0
+2021-02-14,Conakry (Madina),huile,GNF/L,11236.0
+2021-02-21,Conakry (Madina),huile,GNF/L,11174.0
+2021-02-28,Conakry (Madina),huile,GNF/L,11099.0
+2021-03-07,Conakry (Madina),huile,GNF/L,10665.0
+2021-03-14,Conakry (Madina),huile,GNF/L,11388.0
+2021-03-21,Conakry (Madina),huile,GNF/L,11746.0
+2021-03-28,Conakry (Madina),huile,GNF/L,11663.0
+2021-04-04,Conakry (Madina),huile,GNF/L,12354.0
+2021-04-11,Conakry (Madina),huile,GNF/L,11963.0
+2021-04-18,Conakry (Madina),huile,GNF/L,12300.0
+2021-04-25,Conakry (Madina),huile,GNF/L,12132.0
+2021-05-02,Conakry (Madina),huile,GNF/L,12242.0
+2021-05-09,Conakry (Madina),huile,GNF/L,12075.0
+2021-05-16,Conakry (Madina),huile,GNF/L,12674.0
+2021-05-23,Conakry (Madina),huile,GNF/L,12252.0
+2021-05-30,Conakry (Madina),huile,GNF/L,12238.0
+2021-06-06,Conakry (Madina),huile,GNF/L,12545.0
+2021-06-13,Conakry (Madina),huile,GNF/L,12444.0
+2021-06-20,Conakry (Madina),huile,GNF/L,12382.0
+2021-06-27,Conakry (Madina),huile,GNF/L,13010.0
+2021-07-04,Conakry (Madina),huile,GNF/L,12440.0
+2021-07-11,Conakry (Madina),huile,GNF/L,12421.0
+2021-07-18,Conakry (Madina),huile,GNF/L,
+2021-07-25,Conakry (Madina),huile,GNF/L,12854.0
+2021-08-01,Conakry (Madina),huile,GNF/L,12361.0
+2021-08-08,Conakry (Madina),huile,GNF/L,12125.0
+2021-08-15,Conakry (Madina),huile,GNF/L,12758.0
+2021-08-22,Conakry (Madina),huile,GNF/L,12058.0
+2021-08-29,Conakry (Madina),huile,GNF/L,13028.0
+2021-09-05,Conakry (Madina),huile,GNF/L,12627.0
+2021-09-12,Conakry (Madina),huile,GNF/L,12705.0
+2021-09-19,Conakry (Madina),huile,GNF/L,12126.0
+2021-09-26,Conakry (Madina),huile,GNF/L,12063.0
+2021-10-03,Conakry (Madina),huile,GNF/L,12248.0
+2021-10-10,Conakry (Madina),huile,GNF/L,12130.0
+2021-10-17,Conakry (Madina),huile,GNF/L,11878.0
+2021-10-24,Conakry (Madina),huile,GNF/L,12052.0
+2021-10-31,Conakry (Madina),huile,GNF/L,12652.0
+2021-11-07,Conakry (Madina),huile,GNF/L,12040.0
+2021-11-14,Conakry (Madina),huile,GNF/L,11966.0
+2021-11-21,Conakry (Madina),huile,GNF/L,12161.0
+2021-11-28,Conakry (Madina),huile,GNF/L,11986.0
+2021-12-05,Conakry (Madina),huile,GNF/L,11855.0
+2021-12-12,Conakry (Madina),huile,GNF/L,11494.0
+2021-12-19,Conakry (Madina),huile,GNF/L,
+2021-12-26,Conakry (Madina),huile,GNF/L,12410.0
+2022-01-02,Conakry (Madina),huile,GNF/L,
+2022-01-09,Conakry (Madina),huile,GNF/L,12312.0
+2022-01-16,Conakry (Madina),huile,GNF/L,12275.0
+2022-01-23,Conakry (Madina),huile,GNF/L,12947.0
+2022-01-30,Conakry (Madina),huile,GNF/L,12723.0
+2022-02-06,Conakry (Madina),huile,GNF/L,12922.0
+2022-02-13,Conakry (Madina),huile,GNF/L,12773.0
+2022-02-20,Conakry (Madina),huile,GNF/L,12764.0
+2022-02-27,Conakry (Madina),huile,GNF/L,13181.0
+2022-03-06,Conakry (Madina),huile,GNF/L,13129.0
+2022-03-13,Conakry (Madina),huile,GNF/L,
+2022-03-20,Conakry (Madina),huile,GNF/L,13827.0
+2022-03-27,Conakry (Madina),huile,GNF/L,13826.0
+2022-04-03,Conakry (Madina),huile,GNF/L,14156.0
+2022-04-10,Conakry (Madina),huile,GNF/L,14660.0
+2022-04-17,Conakry (Madina),huile,GNF/L,14972.0
+2022-04-24,Conakry (Madina),huile,GNF/L,14512.0
+2022-05-01,Conakry (Madina),huile,GNF/L,14526.0
+2022-05-08,Conakry (Madina),huile,GNF/L,14955.0
+2022-05-15,Conakry (Madina),huile,GNF/L,15283.0
+2022-05-22,Conakry (Madina),huile,GNF/L,15330.0
+2022-05-29,Conakry (Madina),huile,GNF/L,15704.0
+2022-06-05,Conakry (Madina),huile,GNF/L,15500.0
+2022-06-12,Conakry (Madina),huile,GNF/L,15358.0
+2022-06-19,Conakry (Madina),huile,GNF/L,15577.0
+2022-06-26,Conakry (Madina),huile,GNF/L,14806.0
+2022-07-03,Conakry (Madina),huile,GNF/L,15016.0
+2022-07-10,Conakry (Madina),huile,GNF/L,14968.0
+2022-07-17,Conakry (Madina),huile,GNF/L,15274.0
+2022-07-24,Conakry (Madina),huile,GNF/L,15246.0
+2022-07-31,Conakry (Madina),huile,GNF/L,
+2022-08-07,Conakry (Madina),huile,GNF/L,15509.0
+2022-08-14,Conakry (Madina),huile,GNF/L,15115.0
+2022-08-21,Conakry (Madina),huile,GNF/L,15250.0
+2022-08-28,Conakry (Madina),huile,GNF/L,15369.0
+2022-09-04,Conakry (Madina),huile,GNF/L,15245.0
+2022-09-11,Conakry (Madina),huile,GNF/L,15545.0
+2022-09-18,Conakry (Madina),huile,GNF/L,14872.0
+2022-09-25,Conakry (Madina),huile,GNF/L,15033.0
+2022-10-02,Conakry (Madina),huile,GNF/L,14823.0
+2022-10-09,Conakry (Madina),huile,GNF/L,14265.0
+2022-10-16,Conakry (Madina),huile,GNF/L,14160.0
+2022-10-23,Conakry (Madina),huile,GNF/L,14867.0
+2022-10-30,Conakry (Madina),huile,GNF/L,14846.0
+2022-11-06,Conakry (Madina),huile,GNF/L,14689.0
+2022-11-13,Conakry (Madina),huile,GNF/L,14314.0
+2022-11-20,Conakry (Madina),huile,GNF/L,14688.0
+2022-11-27,Conakry (Madina),huile,GNF/L,14137.0
+2022-12-04,Conakry (Madina),huile,GNF/L,14899.0
+2022-12-11,Conakry (Madina),huile,GNF/L,14772.0
+2022-12-18,Conakry (Madina),huile,GNF/L,14570.0
+2022-12-25,Conakry (Madina),huile,GNF/L,14918.0
+2023-01-01,Conakry (Madina),huile,GNF/L,15256.0
+2023-01-08,Conakry (Madina),huile,GNF/L,15290.0
+2023-01-15,Conakry (Madina),huile,GNF/L,15577.0
+2023-01-22,Conakry (Madina),huile,GNF/L,15263.0
+2023-01-29,Conakry (Madina),huile,GNF/L,15605.0
+2023-02-05,Conakry (Madina),huile,GNF/L,14203.0
+2023-02-12,Conakry (Madina),huile,GNF/L,14060.0
+2023-02-19,Conakry (Madina),huile,GNF/L,14191.0
+2023-02-26,Conakry (Madina),huile,GNF/L,
+2023-03-05,Conakry (Madina),huile,GNF/L,14727.0
+2023-03-12,Conakry (Madina),huile,GNF/L,14578.0
+2023-03-19,Conakry (Madina),huile,GNF/L,14215.0
+2023-03-26,Conakry (Madina),huile,GNF/L,14839.0
+2023-04-02,Conakry (Madina),huile,GNF/L,14567.0
+2023-04-09,Conakry (Madina),huile,GNF/L,14964.0
+2023-04-16,Conakry (Madina),huile,GNF/L,14563.0
+2023-04-23,Conakry (Madina),huile,GNF/L,14707.0
+2023-04-30,Conakry (Madina),huile,GNF/L,15101.0
+2023-05-07,Conakry (Madina),huile,GNF/L,15194.0
+2023-05-14,Conakry (Madina),huile,GNF/L,14934.0
+2023-05-21,Conakry (Madina),huile,GNF/L,14970.0
+2023-05-28,Conakry (Madina),huile,GNF/L,15277.0
+2023-06-04,Conakry (Madina),huile,GNF/L,15122.0
+2023-06-11,Conakry (Madina),huile,GNF/L,15018.0
+2023-06-18,Conakry (Madina),huile,GNF/L,15352.0
+2023-06-25,Conakry (Madina),huile,GNF/L,15973.0
+2023-07-02,Conakry (Madina),huile,GNF/L,15550.0
+2023-07-09,Conakry (Madina),huile,GNF/L,15777.0
+2023-07-16,Conakry (Madina),huile,GNF/L,16178.0
+2023-07-23,Conakry (Madina),huile,GNF/L,16381.0
+2023-07-30,Conakry (Madina),huile,GNF/L,15663.0
+2023-08-06,Conakry (Madina),huile,GNF/L,15677.0
+2023-08-13,Conakry (Madina),huile,GNF/L,16145.0
+2023-08-20,Conakry (Madina),huile,GNF/L,
+2023-08-27,Conakry (Madina),huile,GNF/L,15907.0
+2023-09-03,Conakry (Madina),huile,GNF/L,15438.0
+2023-09-10,Conakry (Madina),huile,GNF/L,
+2023-09-17,Conakry (Madina),huile,GNF/L,
+2023-09-24,Conakry (Madina),huile,GNF/L,15142.0
+2023-10-01,Conakry (Madina),huile,GNF/L,14851.0
+2023-10-08,Conakry (Madina),huile,GNF/L,15193.0
+2023-10-15,Conakry (Madina),huile,GNF/L,15429.0
+2023-10-22,Conakry (Madina),huile,GNF/L,15513.0
+2023-10-29,Conakry (Madina),huile,GNF/L,15303.0
+2023-11-05,Conakry (Madina),huile,GNF/L,16244.0
+2023-11-12,Conakry (Madina),huile,GNF/L,15956.0
+2023-11-19,Conakry (Madina),huile,GNF/L,16355.0
+2023-11-26,Conakry (Madina),huile,GNF/L,16765.0
+2023-12-03,Conakry (Madina),huile,GNF/L,17009.0
+2023-12-10,Conakry (Madina),huile,GNF/L,16164.0
+2023-12-17,Conakry (Madina),huile,GNF/L,15949.0
+2023-12-24,Conakry (Madina),huile,GNF/L,16294.0
+2023-12-31,Conakry (Madina),huile,GNF/L,16448.0
+2024-01-07,Conakry (Madina),huile,GNF/L,16290.0
+2024-01-14,Conakry (Madina),huile,GNF/L,16397.0
+2024-01-21,Conakry (Madina),huile,GNF/L,16924.0
+2024-01-28,Conakry (Madina),huile,GNF/L,16462.0
+2024-02-04,Conakry (Madina),huile,GNF/L,16531.0
+2024-02-11,Conakry (Madina),huile,GNF/L,17268.0
+2024-02-18,Conakry (Madina),huile,GNF/L,17480.0
+2024-02-25,Conakry (Madina),huile,GNF/L,16810.0
+2024-03-03,Conakry (Madina),huile,GNF/L,16368.0
+2024-03-10,Conakry (Madina),huile,GNF/L,16286.0
+2024-03-17,Conakry (Madina),huile,GNF/L,16843.0
+2024-03-24,Conakry (Madina),huile,GNF/L,16829.0
+2024-03-31,Conakry (Madina),huile,GNF/L,17300.0
+2024-04-07,Conakry (Madina),huile,GNF/L,17071.0
+2024-04-14,Conakry (Madina),huile,GNF/L,17444.0
+2024-04-21,Conakry (Madina),huile,GNF/L,17280.0
+2024-04-28,Conakry (Madina),huile,GNF/L,17273.0
+2024-05-05,Conakry (Madina),huile,GNF/L,17187.0
+2024-05-12,Conakry (Madina),huile,GNF/L,17215.0
+2024-05-19,Conakry (Madina),huile,GNF/L,17121.0
+2024-05-26,Conakry (Madina),huile,GNF/L,16824.0
+2024-06-02,Conakry (Madina),huile,GNF/L,17378.0
+2024-06-09,Conakry (Madina),huile,GNF/L,17460.0
+2024-06-16,Conakry (Madina),huile,GNF/L,17499.0
+2024-06-23,Conakry (Madina),huile,GNF/L,16945.0
+2024-06-30,Conakry (Madina),huile,GNF/L,17617.0
+2024-07-07,Conakry (Madina),huile,GNF/L,17089.0
+2024-07-14,Conakry (Madina),huile,GNF/L,17816.0
+2024-07-21,Conakry (Madina),huile,GNF/L,18137.0
+2024-07-28,Conakry (Madina),huile,GNF/L,18223.0
+2024-08-04,Conakry (Madina),huile,GNF/L,18178.0
+2024-08-11,Conakry (Madina),huile,GNF/L,17131.0
+2024-08-18,Conakry (Madina),huile,GNF/L,17347.0
+2024-08-25,Conakry (Madina),huile,GNF/L,17139.0
+2024-09-01,Conakry (Madina),huile,GNF/L,16984.0
+2024-09-08,Conakry (Madina),huile,GNF/L,17048.0
+2024-09-15,Conakry (Madina),huile,GNF/L,16960.0
+2024-09-22,Conakry (Madina),huile,GNF/L,17408.0
+2024-09-29,Conakry (Madina),huile,GNF/L,17640.0
+2024-10-06,Conakry (Madina),huile,GNF/L,16993.0
+2024-10-13,Conakry (Madina),huile,GNF/L,17327.0
+2024-10-20,Conakry (Madina),huile,GNF/L,
+2024-10-27,Conakry (Madina),huile,GNF/L,17223.0
+2024-11-03,Conakry (Madina),huile,GNF/L,17177.0
+2024-11-10,Conakry (Madina),huile,GNF/L,17633.0
+2024-11-17,Conakry (Madina),huile,GNF/L,17484.0
+2024-11-24,Conakry (Madina),huile,GNF/L,
+2024-12-01,Conakry (Madina),huile,GNF/L,15787.0
+2024-12-08,Conakry (Madina),huile,GNF/L,16578.0
+2024-12-15,Conakry (Madina),huile,GNF/L,17302.0
+2024-12-22,Conakry (Madina),huile,GNF/L,17136.0
+2024-12-29,Conakry (Madina),huile,GNF/L,17627.0
+2019-01-06,Kankan,huile,GNF/L,9619.0
+2019-01-13,Kankan,huile,GNF/L,10078.0
+2019-01-20,Kankan,huile,GNF/L,10265.0
+2019-01-27,Kankan,huile,GNF/L,9757.0
+2019-02-03,Kankan,huile,GNF/L,10035.0
+2019-02-10,Kankan,huile,GNF/L,10108.0
+2019-02-17,Kankan,huile,GNF/L,10040.0
+2019-02-24,Kankan,huile,GNF/L,9970.0
+2019-03-03,Kankan,huile,GNF/L,10197.0
+2019-03-10,Kankan,huile,GNF/L,10336.0
+2019-03-17,Kankan,huile,GNF/L,10205.0
+2019-03-24,Kankan,huile,GNF/L,10625.0
+2019-03-31,Kankan,huile,GNF/L,10126.0
+2019-04-07,Kankan,huile,GNF/L,10940.0
+2019-04-14,Kankan,huile,GNF/L,10547.0
+2019-04-21,Kankan,huile,GNF/L,10557.0
+2019-04-28,Kankan,huile,GNF/L,10359.0
+2019-05-05,Kankan,huile,GNF/L,10344.0
+2019-05-12,Kankan,huile,GNF/L,10583.0
+2019-05-19,Kankan,huile,GNF/L,10468.0
+2019-05-26,Kankan,huile,GNF/L,10748.0
+2019-06-02,Kankan,huile,GNF/L,
+2019-06-09,Kankan,huile,GNF/L,10908.0
+2019-06-16,Kankan,huile,GNF/L,10623.0
+2019-06-23,Kankan,huile,GNF/L,10903.0
+2019-06-30,Kankan,huile,GNF/L,11022.0
+2019-07-07,Kankan,huile,GNF/L,
+2019-07-14,Kankan,huile,GNF/L,10923.0
+2019-07-21,Kankan,huile,GNF/L,11643.0
+2019-07-28,Kankan,huile,GNF/L,10887.0
+2019-08-04,Kankan,huile,GNF/L,10688.0
+2019-08-11,Kankan,huile,GNF/L,10860.0
+2019-08-18,Kankan,huile,GNF/L,10915.0
+2019-08-25,Kankan,huile,GNF/L,11099.0
+2019-09-01,Kankan,huile,GNF/L,10979.0
+2019-09-08,Kankan,huile,GNF/L,11090.0
+2019-09-15,Kankan,huile,GNF/L,10886.0
+2019-09-22,Kankan,huile,GNF/L,10654.0
+2019-09-29,Kankan,huile,GNF/L,10693.0
+2019-10-06,Kankan,huile,GNF/L,10136.0
+2019-10-13,Kankan,huile,GNF/L,
+2019-10-20,Kankan,huile,GNF/L,10369.0
+2019-10-27,Kankan,huile,GNF/L,10797.0
+2019-11-03,Kankan,huile,GNF/L,10567.0
+2019-11-10,Kankan,huile,GNF/L,10584.0
+2019-11-17,Kankan,huile,GNF/L,10662.0
+2019-11-24,Kankan,huile,GNF/L,10587.0
+2019-12-01,Kankan,huile,GNF/L,10364.0
+2019-12-08,Kankan,huile,GNF/L,10913.0
+2019-12-15,Kankan,huile,GNF/L,10656.0
+2019-12-22,Kankan,huile,GNF/L,10772.0
+2019-12-29,Kankan,huile,GNF/L,10699.0
+2020-01-05,Kankan,huile,GNF/L,10683.0
+2020-01-12,Kankan,huile,GNF/L,10739.0
+2020-01-19,Kankan,huile,GNF/L,10687.0
+2020-01-26,Kankan,huile,GNF/L,11021.0
+2020-02-02,Kankan,huile,GNF/L,11054.0
+2020-02-09,Kankan,huile,GNF/L,10959.0
+2020-02-16,Kankan,huile,GNF/L,10899.0
+2020-02-23,Kankan,huile,GNF/L,11298.0
+2020-03-01,Kankan,huile,GNF/L,12180.0
+2020-03-08,Kankan,huile,GNF/L,11854.0
+2020-03-15,Kankan,huile,GNF/L,11862.0
+2020-03-22,Kankan,huile,GNF/L,12006.0
+2020-03-29,Kankan,huile,GNF/L,12165.0
+2020-04-05,Kankan,huile,GNF/L,12098.0
+2020-04-12,Kankan,huile,GNF/L,12275.0
+2020-04-19,Kankan,huile,GNF/L,12382.0
+2020-04-26,Kankan,huile,GNF/L,12076.0
+2020-05-03,Kankan,huile,GNF/L,12234.0
+2020-05-10,Kankan,huile,GNF/L,12611.0
+2020-05-17,Kankan,huile,GNF/L,12371.0
+2020-05-24,Kankan,huile,GNF/L,12392.0
+2020-05-31,Kankan,huile,GNF/L,13202.0
+2020-06-07,Kankan,huile,GNF/L,13128.0
+2020-06-14,Kankan,huile,GNF/L,13459.0
+2020-06-21,Kankan,huile,GNF/L,
+2020-06-28,Kankan,huile,GNF/L,12891.0
+2020-07-05,Kankan,huile,GNF/L,13190.0
+2020-07-12,Kankan,huile,GNF/L,13053.0
+2020-07-19,Kankan,huile,GNF/L,13413.0
+2020-07-26,Kankan,huile,GNF/L,12897.0
+2020-08-02,Kankan,huile,GNF/L,13042.0
+2020-08-09,Kankan,huile,GNF/L,12981.0
+2020-08-16,Kankan,huile,GNF/L,13225.0
+2020-08-23,Kankan,huile,GNF/L,12776.0
+2020-08-30,Kankan,huile,GNF/L,13220.0
+2020-09-06,Kankan,huile,GNF/L,13100.0
+2020-09-13,Kankan,huile,GNF/L,12635.0
+2020-09-20,Kankan,huile,GNF/L,12462.0
+2020-09-27,Kankan,huile,GNF/L,12722.0
+2020-10-04,Kankan,huile,GNF/L,12179.0
+2020-10-11,Kankan,huile,GNF/L,12203.0
+2020-10-18,Kankan,huile,GNF/L,12046.0
+2020-10-25,Kankan,huile,GNF/L,11594.0
+2020-11-01,Kankan,huile,GNF/L,11507.0
+2020-11-08,Kankan,huile,GNF/L,12009.0
+2020-11-15,Kankan,huile,GNF/L,12088.0
+2020-11-22,Kankan,huile,GNF/L,11737.0
+2020-11-29,Kankan,huile,GNF/L,12085.0
+2020-12-06,Kankan,huile,GNF/L,11950.0
+2020-12-13,Kankan,huile,GNF/L,11646.0
+2020-12-20,Kankan,huile,GNF/L,12189.0
+2020-12-27,Kankan,huile,GNF/L,12679.0
+2021-01-03,Kankan,huile,GNF/L,12099.0
+2021-01-10,Kankan,huile,GNF/L,12455.0
+2021-01-17,Kankan,huile,GNF/L,12214.0
+2021-01-24,Kankan,huile,GNF/L,12471.0
+2021-01-31,Kankan,huile,GNF/L,12558.0
+2021-02-07,Kankan,huile,GNF/L,12558.0
+2021-02-14,Kankan,huile,GNF/L,12749.0
+2021-02-21,Kankan,huile,GNF/L,12252.0
+2021-02-28,Kankan,huile,GNF/L,12779.0
+2021-03-07,Kankan,huile,GNF/L,12277.0
+2021-03-14,Kankan,huile,GNF/L,12800.0
+2021-03-21,Kankan,huile,GNF/L,13013.0
+2021-03-28,Kankan,huile,GNF/L,13172.0
+2021-04-04,Kankan,huile,GNF/L,13342.0
+2021-04-11,Kankan,huile,GNF/L,13079.0
+2021-04-18,Kankan,huile,GNF/L,13038.0
+2021-04-25,Kankan,huile,GNF/L,13610.0
+2021-05-02,Kankan,huile,GNF/L,13439.0
+2021-05-09,Kankan,huile,GNF/L,13607.0
+2021-05-16,Kankan,huile,GNF/L,13736.0
+2021-05-23,Kankan,huile,GNF/L,13256.0
+2021-05-30,Kankan,huile,GNF/L,13695.0
+2021-06-06,Kankan,huile,GNF/L,13751.0
+2021-06-13,Kankan,huile,GNF/L,13962.0
+2021-06-20,Kankan,huile,GNF/L,13494.0
+2021-06-27,Kankan,huile,GNF/L,14301.0
+2021-07-04,Kankan,huile,GNF/L,13664.0
+2021-07-11,Kankan,huile,GNF/L,13606.0
+2021-07-18,Kankan,huile,GNF/L,13964.0
+2021-07-25,Kankan,huile,GNF/L,13732.0
+2021-08-01,Kankan,huile,GNF/L,13798.0
+2021-08-08,Kankan,huile,GNF/L,14422.0
+2021-08-15,Kankan,huile,GNF/L,13918.0
+2021-08-22,Kankan,huile,GNF/L,14017.0
+2021-08-29,Kankan,huile,GNF/L,13437.0
+2021-09-05,Kankan,huile,GNF/L,13965.0
+2021-09-12,Kankan,huile,GNF/L,13783.0
+2021-09-19,Kankan,huile,GNF/L,13480.0
+2021-09-26,Kankan,huile,GNF/L,14035.0
+2021-10-03,Kankan,huile,GNF/L,13451.0
+2021-10-10,Kankan,huile,GNF/L,13429.0
+2021-10-17,Kankan,huile,GNF/L,13212.0
+2021-10-24,Kankan,huile,GNF/L,12884.0
+2021-10-31,Kankan,huile,GNF/L,13079.0
+2021-11-07,Kankan,huile,GNF/L,13396.0
+2021-11-14,Kankan,huile,GNF/L,12497.0
+2021-11-21,Kankan,huile,GNF/L,13097.0
+2021-11-28,Kankan,huile,GNF/L,12835.0
+2021-12-05,Kankan,huile,GNF/L,13642.0
+2021-12-12,Kankan,huile,GNF/L,13466.0
+2021-12-19,Kankan,huile,GNF/L,13493.0
+2021-12-26,Kankan,huile,GNF/L,13899.0
+2022-01-02,Kankan,huile,GNF/L,13565.0
+2022-01-09,Kankan,huile,GNF/L,13966.0
+2022-01-16,Kankan,huile,GNF/L,
+2022-01-23,Kankan,huile,GNF/L,
+2022-01-30,Kankan,huile,GNF/L,13829.0
+2022-02-06,Kankan,huile,GNF/L,13915.0
+2022-02-13,Kankan,huile,GNF/L,13964.0
+2022-02-20,Kankan,huile,GNF/L,14249.0
+2022-02-27,Kankan,huile,GNF/L,14453.0
+2022-03-06,Kankan,huile,GNF/L,15020.0
+2022-03-13,Kankan,huile,GNF/L,15223.0
+2022-03-20,Kankan,huile,GNF/L,15470.0
+2022-03-27,Kankan,huile,GNF/L,15378.0
+2022-04-03,Kankan,huile,GNF/L,15383.0
+2022-04-10,Kankan,huile,GNF/L,15749.0
+2022-04-17,Kankan,huile,GNF/L,16249.0
+2022-04-24,Kankan,huile,GNF/L,16513.0
+2022-05-01,Kankan,huile,GNF/L,
+2022-05-08,Kankan,huile,GNF/L,16721.0
+2022-05-15,Kankan,huile,GNF/L,16555.0
+2022-05-22,Kankan,huile,GNF/L,17441.0
+2022-05-29,Kankan,huile,GNF/L,17272.0
+2022-06-05,Kankan,huile,GNF/L,17436.0
+2022-06-12,Kankan,huile,GNF/L,17468.0
+2022-06-19,Kankan,huile,GNF/L,16812.0
+2022-06-26,Kankan,huile,GNF/L,16610.0
+2022-07-03,Kankan,huile,GNF/L,16597.0
+2022-07-10,Kankan,huile,GNF/L,16818.0
+2022-07-17,Kankan,huile,GNF/L,16480.0
+2022-07-24,Kankan,huile,GNF/L,17055.0
+2022-07-31,Kankan,huile,GNF/L,17341.0
+2022-08-07,Kankan,huile,GNF/L,17312.0
+2022-08-14,Kankan,huile,GNF/L,16923.0
+2022-08-21,Kankan,huile,GNF/L,16734.0
+2022-08-28,Kankan,huile,GNF/L,17392.0
+2022-09-04,Kankan,huile,GNF/L,17207.0
+2022-09-11,Kankan,huile,GNF/L,16601.0
+2022-09-18,Kankan,huile,GNF/L,16841.0
+2022-09-25,Kankan,huile,GNF/L,16874.0
+2022-10-02,Kankan,huile,GNF/L,16480.0
+2022-10-09,Kankan,huile,GNF/L,16254.0
+2022-10-16,Kankan,huile,GNF/L,16239.0
+2022-10-23,Kankan,huile,GNF/L,16479.0
+2022-10-30,Kankan,huile,GNF/L,16186.0
+2022-11-06,Kankan,huile,GNF/L,16131.0
+2022-11-13,Kankan,huile,GNF/L,
+2022-11-20,Kankan,huile,GNF/L,16112.0
+2022-11-27,Kankan,huile,GNF/L,16146.0
+2022-12-04,Kankan,huile,GNF/L,15923.0
+2022-12-11,Kankan,huile,GNF/L,16535.0
+2022-12-18,Kankan,huile,GNF/L,16515.0
+2022-12-25,Kankan,huile,GNF/L,16604.0
+2023-01-01,Kankan,huile,GNF/L,
+2023-01-08,Kankan,huile,GNF/L,17292.0
+2023-01-15,Kankan,huile,GNF/L,16817.0
+2023-01-22,Kankan,huile,GNF/L,16606.0
+2023-01-29,Kankan,huile,GNF/L,16943.0
+2023-02-05,Kankan,huile,GNF/L,15904.0
+2023-02-12,Kankan,huile,GNF/L,16290.0
+2023-02-19,Kankan,huile,GNF/L,16224.0
+2023-02-26,Kankan,huile,GNF/L,15637.0
+2023-03-05,Kankan,huile,GNF/L,16196.0
+2023-03-12,Kankan,huile,GNF/L,16358.0
+2023-03-19,Kankan,huile,GNF/L,16517.0
+2023-03-26,Kankan,huile,GNF/L,16782.0
+2023-04-02,Kankan,huile,GNF/L,16165.0
+2023-04-09,Kankan,huile,GNF/L,16170.0
+2023-04-16,Kankan,huile,GNF/L,16785.0
+2023-04-23,Kankan,huile,GNF/L,16988.0
+2023-04-30,Kankan,huile,GNF/L,16200.0
+2023-05-07,Kankan,huile,GNF/L,16366.0
+2023-05-14,Kankan,huile,GNF/L,
+2023-05-21,Kankan,huile,GNF/L,
+2023-05-28,Kankan,huile,GNF/L,16620.0
+2023-06-04,Kankan,huile,GNF/L,17173.0
+2023-06-11,Kankan,huile,GNF/L,17271.0
+2023-06-18,Kankan,huile,GNF/L,17108.0
+2023-06-25,Kankan,huile,GNF/L,16594.0
+2023-07-02,Kankan,huile,GNF/L,17455.0
+2023-07-09,Kankan,huile,GNF/L,17205.0
+2023-07-16,Kankan,huile,GNF/L,17763.0
+2023-07-23,Kankan,huile,GNF/L,17164.0
+2023-07-30,Kankan,huile,GNF/L,17568.0
+2023-08-06,Kankan,huile,GNF/L,17321.0
+2023-08-13,Kankan,huile,GNF/L,17461.0
+2023-08-20,Kankan,huile,GNF/L,17384.0
+2023-08-27,Kankan,huile,GNF/L,17267.0
+2023-09-03,Kankan,huile,GNF/L,16978.0
+2023-09-10,Kankan,huile,GNF/L,17004.0
+2023-09-17,Kankan,huile,GNF/L,17169.0
+2023-09-24,Kankan,huile,GNF/L,17100.0
+2023-10-01,Kankan,huile,GNF/L,16600.0
+2023-10-08,Kankan,huile,GNF/L,16972.0
+2023-10-15,Kankan,huile,GNF/L,16732.0
+2023-10-22,Kankan,huile,GNF/L,16961.0
+2023-10-29,Kankan,huile,GNF/L,16878.0
+2023-11-05,Kankan,huile,GNF/L,17923.0
+2023-11-12,Kankan,huile,GNF/L,18116.0
+2023-11-19,Kankan,huile,GNF/L,18510.0
+2023-11-26,Kankan,huile,GNF/L,18143.0
+2023-12-03,Kankan,huile,GNF/L,18041.0
+2023-12-10,Kankan,huile,GNF/L,18194.0
+2023-12-17,Kankan,huile,GNF/L,17841.0
+2023-12-24,Kankan,huile,GNF/L,17685.0
+2023-12-31,Kankan,huile,GNF/L,17508.0
+2024-01-07,Kankan,huile,GNF/L,18090.0
+2024-01-14,Kankan,huile,GNF/L,17988.0
+2024-01-21,Kankan,huile,GNF/L,18064.0
+2024-01-28,Kankan,huile,GNF/L,18283.0
+2024-02-04,Kankan,huile,GNF/L,18146.0
+2024-02-11,Kankan,huile,GNF/L,19325.0
+2024-02-18,Kankan,huile,GNF/L,19276.0
+2024-02-25,Kankan,huile,GNF/L,18562.0
+2024-03-03,Kankan,huile,GNF/L,
+2024-03-10,Kankan,huile,GNF/L,18096.0
+2024-03-17,Kankan,huile,GNF/L,18943.0
+2024-03-24,Kankan,huile,GNF/L,19236.0
+2024-03-31,Kankan,huile,GNF/L,19522.0
+2024-04-07,Kankan,huile,GNF/L,19104.0
+2024-04-14,Kankan,huile,GNF/L,19937.0
+2024-04-21,Kankan,huile,GNF/L,18938.0
+2024-04-28,Kankan,huile,GNF/L,18908.0
+2024-05-05,Kankan,huile,GNF/L,18876.0
+2024-05-12,Kankan,huile,GNF/L,19441.0
+2024-05-19,Kankan,huile,GNF/L,19162.0
+2024-05-26,Kankan,huile,GNF/L,18814.0
+2024-06-02,Kankan,huile,GNF/L,18705.0
+2024-06-09,Kankan,huile,GNF/L,18599.0
+2024-06-16,Kankan,huile,GNF/L,19272.0
+2024-06-23,Kankan,huile,GNF/L,18993.0
+2024-06-30,Kankan,huile,GNF/L,19173.0
+2024-07-07,Kankan,huile,GNF/L,19672.0
+2024-07-14,Kankan,huile,GNF/L,19743.0
+2024-07-21,Kankan,huile,GNF/L,20193.0
+2024-07-28,Kankan,huile,GNF/L,20368.0
+2024-08-04,Kankan,huile,GNF/L,19979.0
+2024-08-11,Kankan,huile,GNF/L,19317.0
+2024-08-18,Kankan,huile,GNF/L,19142.0
+2024-08-25,Kankan,huile,GNF/L,19399.0
+2024-09-01,Kankan,huile,GNF/L,18552.0
+2024-09-08,Kankan,huile,GNF/L,19925.0
+2024-09-15,Kankan,huile,GNF/L,18918.0
+2024-09-22,Kankan,huile,GNF/L,19162.0
+2024-09-29,Kankan,huile,GNF/L,19287.0
+2024-10-06,Kankan,huile,GNF/L,19511.0
+2024-10-13,Kankan,huile,GNF/L,19225.0
+2024-10-20,Kankan,huile,GNF/L,18471.0
+2024-10-27,Kankan,huile,GNF/L,19339.0
+2024-11-03,Kankan,huile,GNF/L,
+2024-11-10,Kankan,huile,GNF/L,19230.0
+2024-11-17,Kankan,huile,GNF/L,18188.0
+2024-11-24,Kankan,huile,GNF/L,18701.0
+2024-12-01,Kankan,huile,GNF/L,18064.0
+2024-12-08,Kankan,huile,GNF/L,18629.0
+2024-12-15,Kankan,huile,GNF/L,18670.0
+2024-12-22,Kankan,huile,GNF/L,
+2024-12-29,Kankan,huile,GNF/L,20180.0
+2019-01-06,Kindia,huile,GNF/L,9394.0
+2019-01-13,Kindia,huile,GNF/L,9553.0
+2019-01-20,Kindia,huile,GNF/L,9804.0
+2019-01-27,Kindia,huile,GNF/L,9502.0
+2019-02-03,Kindia,huile,GNF/L,9744.0
+2019-02-10,Kindia,huile,GNF/L,9731.0
+2019-02-17,Kindia,huile,GNF/L,9744.0
+2019-02-24,Kindia,huile,GNF/L,9572.0
+2019-03-03,Kindia,huile,GNF/L,9323.0
+2019-03-10,Kindia,huile,GNF/L,9889.0
+2019-03-17,Kindia,huile,GNF/L,9597.0
+2019-03-24,Kindia,huile,GNF/L,9848.0
+2019-03-31,Kindia,huile,GNF/L,9633.0
+2019-04-07,Kindia,huile,GNF/L,9716.0
+2019-04-14,Kindia,huile,GNF/L,10019.0
+2019-04-21,Kindia,huile,GNF/L,10193.0
+2019-04-28,Kindia,huile,GNF/L,9967.0
+2019-05-05,Kindia,huile,GNF/L,9417.0
+2019-05-12,Kindia,huile,GNF/L,9825.0
+2019-05-19,Kindia,huile,GNF/L,10238.0
+2019-05-26,Kindia,huile,GNF/L,9814.0
+2019-06-02,Kindia,huile,GNF/L,9931.0
+2019-06-09,Kindia,huile,GNF/L,10608.0
+2019-06-16,Kindia,huile,GNF/L,10333.0
+2019-06-23,Kindia,huile,GNF/L,10226.0
+2019-06-30,Kindia,huile,GNF/L,10384.0
+2019-07-07,Kindia,huile,GNF/L,10716.0
+2019-07-14,Kindia,huile,GNF/L,10375.0
+2019-07-21,Kindia,huile,GNF/L,10739.0
+2019-07-28,Kindia,huile,GNF/L,10445.0
+2019-08-04,Kindia,huile,GNF/L,10419.0
+2019-08-11,Kindia,huile,GNF/L,10427.0
+2019-08-18,Kindia,huile,GNF/L,10303.0
+2019-08-25,Kindia,huile,GNF/L,10590.0
+2019-09-01,Kindia,huile,GNF/L,10125.0
+2019-09-08,Kindia,huile,GNF/L,10069.0
+2019-09-15,Kindia,huile,GNF/L,10529.0
+2019-09-22,Kindia,huile,GNF/L,10132.0
+2019-09-29,Kindia,huile,GNF/L,
+2019-10-06,Kindia,huile,GNF/L,9778.0
+2019-10-13,Kindia,huile,GNF/L,9720.0
+2019-10-20,Kindia,huile,GNF/L,10176.0
+2019-10-27,Kindia,huile,GNF/L,10007.0
+2019-11-03,Kindia,huile,GNF/L,9776.0
+2019-11-10,Kindia,huile,GNF/L,
+2019-11-17,Kindia,huile,GNF/L,10458.0
+2019-11-24,Kindia,huile,GNF/L,9542.0
+2019-12-01,Kindia,huile,GNF/L,10230.0
+2019-12-08,Kindia,huile,GNF/L,9843.0
+2019-12-15,Kindia,huile,GNF/L,10026.0
+2019-12-22,Kindia,huile,GNF/L,9989.0
+2019-12-29,Kindia,huile,GNF/L,9652.0
+2020-01-05,Kindia,huile,GNF/L,10367.0
+2020-01-12,Kindia,huile,GNF/L,10372.0
+2020-01-19,Kindia,huile,GNF/L,9844.0
+2020-01-26,Kindia,huile,GNF/L,10477.0
+2020-02-02,Kindia,huile,GNF/L,10600.0
+2020-02-09,Kindia,huile,GNF/L,10917.0
+2020-02-16,Kindia,huile,GNF/L,10569.0
+2020-02-23,Kindia,huile,GNF/L,10836.0
+2020-03-01,Kindia,huile,GNF/L,11848.0
+2020-03-08,Kindia,huile,GNF/L,11805.0
+2020-03-15,Kindia,huile,GNF/L,11718.0
+2020-03-22,Kindia,huile,GNF/L,11334.0
+2020-03-29,Kindia,huile,GNF/L,11530.0
+2020-04-05,Kindia,huile,GNF/L,11762.0
+2020-04-12,Kindia,huile,GNF/L,11279.0
+2020-04-19,Kindia,huile,GNF/L,11596.0
+2020-04-26,Kindia,huile,GNF/L,12128.0
+2020-05-03,Kindia,huile,GNF/L,11740.0
+2020-05-10,Kindia,huile,GNF/L,12018.0
+2020-05-17,Kindia,huile,GNF/L,11822.0
+2020-05-24,Kindia,huile,GNF/L,11822.0
+2020-05-31,Kindia,huile,GNF/L,12333.0
+2020-06-07,Kindia,huile,GNF/L,12316.0
+2020-06-14,Kindia,huile,GNF/L,12317.0
+2020-06-21,Kindia,huile,GNF/L,12516.0
+2020-06-28,Kindia,huile,GNF/L,12539.0
+2020-07-05,Kindia,huile,GNF/L,12181.0
+2020-07-12,Kindia,huile,GNF/L,12478.0
+2020-07-19,Kindia,huile,GNF/L,12464.0
+2020-07-26,Kindia,huile,GNF/L,12380.0
+2020-08-02,Kindia,huile,GNF/L,12422.0
+2020-08-09,Kindia,huile,GNF/L,12495.0
+2020-08-16,Kindia,huile,GNF/L,12383.0
+2020-08-23,Kindia,huile,GNF/L,12584.0
+2020-08-30,Kindia,huile,GNF/L,12360.0
+2020-09-06,Kindia,huile,GNF/L,12425.0
+2020-09-13,Kindia,huile,GNF/L,12051.0
+2020-09-20,Kindia,huile,GNF/L,11985.0
+2020-09-27,Kindia,huile,GNF/L,11669.0
+2020-10-04,Kindia,huile,GNF/L,11461.0
+2020-10-11,Kindia,huile,GNF/L,10913.0
+2020-10-18,Kindia,huile,GNF/L,11206.0
+2020-10-25,Kindia,huile,GNF/L,11573.0
+2020-11-01,Kindia,huile,GNF/L,11330.0
+2020-11-08,Kindia,huile,GNF/L,10906.0
+2020-11-15,Kindia,huile,GNF/L,11777.0
+2020-11-22,Kindia,huile,GNF/L,11181.0
+2020-11-29,Kindia,huile,GNF/L,11743.0
+2020-12-06,Kindia,huile,GNF/L,11155.0
+2020-12-13,Kindia,huile,GNF/L,11368.0
+2020-12-20,Kindia,huile,GNF/L,11876.0
+2020-12-27,Kindia,huile,GNF/L,11482.0
+2021-01-03,Kindia,huile,GNF/L,11462.0
+2021-01-10,Kindia,huile,GNF/L,11554.0
+2021-01-17,Kindia,huile,GNF/L,11834.0
+2021-01-24,Kindia,huile,GNF/L,11394.0
+2021-01-31,Kindia,huile,GNF/L,11284.0
+2021-02-07,Kindia,huile,GNF/L,11897.0
+2021-02-14,Kindia,huile,GNF/L,11733.0
+2021-02-21,Kindia,huile,GNF/L,
+2021-02-28,Kindia,huile,GNF/L,11444.0
+2021-03-07,Kindia,huile,GNF/L,11651.0
+2021-03-14,Kindia,huile,GNF/L,12050.0
+2021-03-21,Kindia,huile,GNF/L,12456.0
+2021-03-28,Kindia,huile,GNF/L,12185.0
+2021-04-04,Kindia,huile,GNF/L,12911.0
+2021-04-11,Kindia,huile,GNF/L,12407.0
+2021-04-18,Kindia,huile,GNF/L,
+2021-04-25,Kindia,huile,GNF/L,13021.0
+2021-05-02,Kindia,huile,GNF/L,12718.0
+2021-05-09,Kindia,huile,GNF/L,12494.0
+2021-05-16,Kindia,huile,GNF/L,12969.0
+2021-05-23,Kindia,huile,GNF/L,13154.0
+2021-05-30,Kindia,huile,GNF/L,13066.0
+2021-06-06,Kindia,huile,GNF/L,12908.0
+2021-06-13,Kindia,huile,GNF/L,13121.0
+2021-06-20,Kindia,huile,GNF/L,12931.0
+2021-06-27,Kindia,huile,GNF/L,12936.0
+2021-07-04,Kindia,huile,GNF/L,13111.0
+2021-07-11,Kindia,huile,GNF/L,12948.0
+2021-07-18,Kindia,huile,GNF/L,13443.0
+2021-07-25,Kindia,huile,GNF/L,13512.0
+2021-08-01,Kindia,huile,GNF/L,12902.0
+2021-08-08,Kindia,huile,GNF/L,13226.0
+2021-08-15,Kindia,huile,GNF/L,13429.0
+2021-08-22,Kindia,huile,GNF/L,13035.0
+2021-08-29,Kindia,huile,GNF/L,13477.0
+2021-09-05,Kindia,huile,GNF/L,13199.0
+2021-09-12,Kindia,huile,GNF/L,12886.0
+2021-09-19,Kindia,huile,GNF/L,12720.0
+2021-09-26,Kindia,huile,GNF/L,13361.0
+2021-10-03,Kindia,huile,GNF/L,12763.0
+2021-10-10,Kindia,huile,GNF/L,13126.0
+2021-10-17,Kindia,huile,GNF/L,12466.0
+2021-10-24,Kindia,huile,GNF/L,12703.0
+2021-10-31,Kindia,huile,GNF/L,13197.0
+2021-11-07,Kindia,huile,GNF/L,12198.0
+2021-11-14,Kindia,huile,GNF/L,11871.0
+2021-11-21,Kindia,huile,GNF/L,12873.0
+2021-11-28,Kindia,huile,GNF/L,12041.0
+2021-12-05,Kindia,huile,GNF/L,12487.0
+2021-12-12,Kindia,huile,GNF/L,12417.0
+2021-12-19,Kindia,huile,GNF/L,12960.0
+2021-12-26,Kindia,huile,GNF/L,12611.0
+2022-01-02,Kindia,huile,GNF/L,12966.0
+2022-01-09,Kindia,huile,GNF/L,13077.0
+2022-01-16,Kindia,huile,GNF/L,12812.0
+2022-01-23,Kindia,huile,GNF/L,13065.0
+2022-01-30,Kindia,huile,GNF/L,13095.0
+2022-02-06,Kindia,huile,GNF/L,13067.0
+2022-02-13,Kindia,huile,GNF/L,13160.0
+2022-02-20,Kindia,huile,GNF/L,
+2022-02-27,Kindia,huile,GNF/L,13695.0
+2022-03-06,Kindia,huile,GNF/L,14008.0
+2022-03-13,Kindia,huile,GNF/L,14537.0
+2022-03-20,Kindia,huile,GNF/L,14322.0
+2022-03-27,Kindia,huile,GNF/L,14607.0
+2022-04-03,Kindia,huile,GNF/L,14919.0
+2022-04-10,Kindia,huile,GNF/L,14892.0
+2022-04-17,Kindia,huile,GNF/L,15453.0
+2022-04-24,Kindia,huile,GNF/L,15425.0
+2022-05-01,Kindia,huile,GNF/L,15430.0
+2022-05-08,Kindia,huile,GNF/L,15972.0
+2022-05-15,Kindia,huile,GNF/L,15544.0
+2022-05-22,Kindia,huile,GNF/L,15286.0
+2022-05-29,Kindia,huile,GNF/L,16323.0
+2022-06-05,Kindia,huile,GNF/L,16681.0
+2022-06-12,Kindia,huile,GNF/L,16292.0
+2022-06-19,Kindia,huile,GNF/L,16407.0
+2022-06-26,Kindia,huile,GNF/L,15650.0
+2022-07-03,Kindia,huile,GNF/L,15452.0
+2022-07-10,Kindia,huile,GNF/L,15781.0
+2022-07-17,Kindia,huile,GNF/L,15188.0
+2022-07-24,Kindia,huile,GNF/L,16037.0
+2022-07-31,Kindia,huile,GNF/L,16455.0
+2022-08-07,Kindia,huile,GNF/L,15668.0
+2022-08-14,Kindia,huile,GNF/L,15722.0
+2022-08-21,Kindia,huile,GNF/L,15736.0
+2022-08-28,Kindia,huile,GNF/L,16143.0
+2022-09-04,Kindia,huile,GNF/L,15983.0
+2022-09-11,Kindia,huile,GNF/L,16479.0
+2022-09-18,Kindia,huile,GNF/L,16259.0
+2022-09-25,Kindia,huile,GNF/L,16047.0
+2022-10-02,Kindia,huile,GNF/L,15424.0
+2022-10-09,Kindia,huile,GNF/L,15241.0
+2022-10-16,Kindia,huile,GNF/L,15063.0
+2022-10-23,Kindia,huile,GNF/L,15659.0
+2022-10-30,Kindia,huile,GNF/L,15003.0
+2022-11-06,Kindia,huile,GNF/L,15655.0
+2022-11-13,Kindia,huile,GNF/L,15858.0
+2022-11-20,Kindia,huile,GNF/L,15292.0
+2022-11-27,Kindia,huile,GNF/L,15236.0
+2022-12-04,Kindia,huile,GNF/L,15668.0
+2022-12-11,Kindia,huile,GNF/L,14987.0
+2022-12-18,Kindia,huile,GNF/L,15688.0
+2022-12-25,Kindia,huile,GNF/L,15752.0
+2023-01-01,Kindia,huile,GNF/L,16055.0
+2023-01-08,Kindia,huile,GNF/L,16416.0
+2023-01-15,Kindia,huile,GNF/L,16178.0
+2023-01-22,Kindia,huile,GNF/L,15840.0
+2023-01-29,Kindia,huile,GNF/L,16083.0
+2023-02-05,Kindia,huile,GNF/L,14856.0
+2023-02-12,Kindia,huile,GNF/L,14983.0
+2023-02-19,Kindia,huile,GNF/L,15179.0
+2023-02-26,Kindia,huile,GNF/L,15473.0
+2023-03-05,Kindia,huile,GNF/L,15088.0
+2023-03-12,Kindia,huile,GNF/L,15452.0
+2023-03-19,Kindia,huile,GNF/L,15928.0
+2023-03-26,Kindia,huile,GNF/L,
+2023-04-02,Kindia,huile,GNF/L,15593.0
+2023-04-09,Kindia,huile,GNF/L,15116.0
+2023-04-16,Kindia,huile,GNF/L,15659.0
+2023-04-23,Kindia,huile,GNF/L,
+2023-04-30,Kindia,huile,GNF/L,15501.0
+2023-05-07,Kindia,huile,GNF/L,16089.0
+2023-05-14,Kindia,huile,GNF/L,15536.0
+2023-05-21,Kindia,huile,GNF/L,15568.0
+2023-05-28,Kindia,huile,GNF/L,15504.0
+2023-06-04,Kindia,huile,GNF/L,17015.0
+2023-06-11,Kindia,huile,GNF/L,16161.0
+2023-06-18,Kindia,huile,GNF/L,16191.0
+2023-06-25,Kindia,huile,GNF/L,16221.0
+2023-07-02,Kindia,huile,GNF/L,16183.0
+2023-07-09,Kindia,huile,GNF/L,
+2023-07-16,Kindia,huile,GNF/L,17363.0
+2023-07-23,Kindia,huile,GNF/L,16997.0
+2023-07-30,Kindia,huile,GNF/L,16367.0
+2023-08-06,Kindia,huile,GNF/L,16650.0
+2023-08-13,Kindia,huile,GNF/L,16192.0
+2023-08-20,Kindia,huile,GNF/L,15899.0
+2023-08-27,Kindia,huile,GNF/L,16700.0
+2023-09-03,Kindia,huile,GNF/L,16838.0
+2023-09-10,Kindia,huile,GNF/L,16814.0
+2023-09-17,Kindia,huile,GNF/L,16274.0
+2023-09-24,Kindia,huile,GNF/L,16129.0
+2023-10-01,Kindia,huile,GNF/L,16098.0
+2023-10-08,Kindia,huile,GNF/L,15986.0
+2023-10-15,Kindia,huile,GNF/L,15795.0
+2023-10-22,Kindia,huile,GNF/L,15852.0
+2023-10-29,Kindia,huile,GNF/L,16081.0
+2023-11-05,Kindia,huile,GNF/L,17205.0
+2023-11-12,Kindia,huile,GNF/L,16688.0
+2023-11-19,Kindia,huile,GNF/L,17143.0
+2023-11-26,Kindia,huile,GNF/L,17459.0
+2023-12-03,Kindia,huile,GNF/L,17310.0
+2023-12-10,Kindia,huile,GNF/L,17343.0
+2023-12-17,Kindia,huile,GNF/L,16677.0
+2023-12-24,Kindia,huile,GNF/L,16396.0
+2023-12-31,Kindia,huile,GNF/L,16866.0
+2024-01-07,Kindia,huile,GNF/L,17532.0
+2024-01-14,Kindia,huile,GNF/L,17176.0
+2024-01-21,Kindia,huile,GNF/L,17398.0
+2024-01-28,Kindia,huile,GNF/L,16985.0
+2024-02-04,Kindia,huile,GNF/L,18012.0
+2024-02-11,Kindia,huile,GNF/L,18354.0
+2024-02-18,Kindia,huile,GNF/L,18285.0
+2024-02-25,Kindia,huile,GNF/L,18129.0
+2024-03-03,Kindia,huile,GNF/L,17925.0
+2024-03-10,Kindia,huile,GNF/L,17612.0
+2024-03-17,Kindia,huile,GNF/L,18021.0
+2024-03-24,Kindia,huile,GNF/L,17943.0
+2024-03-31,Kindia,huile,GNF/L,19023.0
+2024-04-07,Kindia,huile,GNF/L,18462.0
+2024-04-14,Kindia,huile,GNF/L,18390.0
+2024-04-21,Kindia,huile,GNF/L,18528.0
+2024-04-28,Kindia,huile,GNF/L,17959.0
+2024-05-05,Kindia,huile,GNF/L,18103.0
+2024-05-12,Kindia,huile,GNF/L,17663.0
+2024-05-19,Kindia,huile,GNF/L,18129.0
+2024-05-26,Kindia,huile,GNF/L,18144.0
+2024-06-02,Kindia,huile,GNF/L,
+2024-06-09,Kindia,huile,GNF/L,18259.0
+2024-06-16,Kindia,huile,GNF/L,18193.0
+2024-06-23,Kindia,huile,GNF/L,18061.0
+2024-06-30,Kindia,huile,GNF/L,18304.0
+2024-07-07,Kindia,huile,GNF/L,18446.0
+2024-07-14,Kindia,huile,GNF/L,19110.0
+2024-07-21,Kindia,huile,GNF/L,18766.0
+2024-07-28,Kindia,huile,GNF/L,18973.0
+2024-08-04,Kindia,huile,GNF/L,18340.0
+2024-08-11,Kindia,huile,GNF/L,18623.0
+2024-08-18,Kindia,huile,GNF/L,18362.0
+2024-08-25,Kindia,huile,GNF/L,18188.0
+2024-09-01,Kindia,huile,GNF/L,17782.0
+2024-09-08,Kindia,huile,GNF/L,18123.0
+2024-09-15,Kindia,huile,GNF/L,17565.0
+2024-09-22,Kindia,huile,GNF/L,17918.0
+2024-09-29,Kindia,huile,GNF/L,18390.0
+2024-10-06,Kindia,huile,GNF/L,18129.0
+2024-10-13,Kindia,huile,GNF/L,17606.0
+2024-10-20,Kindia,huile,GNF/L,17719.0
+2024-10-27,Kindia,huile,GNF/L,17868.0
+2024-11-03,Kindia,huile,GNF/L,18855.0
+2024-11-10,Kindia,huile,GNF/L,17523.0
+2024-11-17,Kindia,huile,GNF/L,17719.0
+2024-11-24,Kindia,huile,GNF/L,17060.0
+2024-12-01,Kindia,huile,GNF/L,17093.0
+2024-12-08,Kindia,huile,GNF/L,17468.0
+2024-12-15,Kindia,huile,GNF/L,17616.0
+2024-12-22,Kindia,huile,GNF/L,17630.0
+2024-12-29,Kindia,huile,GNF/L,18427.0
+2019-01-06,Labe,huile,GNF/L,9741.0
+2019-01-13,Labe,huile,GNF/L,9836.0
+2019-01-20,Labe,huile,GNF/L,10378.0
+2019-01-27,Labe,huile,GNF/L,10105.0
+2019-02-03,Labe,huile,GNF/L,10270.0
+2019-02-10,Labe,huile,GNF/L,10031.0
+2019-02-17,Labe,huile,GNF/L,10282.0
+2019-02-24,Labe,huile,GNF/L,10392.0
+2019-03-03,Labe,huile,GNF/L,9865.0
+2019-03-10,Labe,huile,GNF/L,10234.0
+2019-03-17,Labe,huile,GNF/L,10176.0
+2019-03-24,Labe,huile,GNF/L,10697.0
+2019-03-31,Labe,huile,GNF/L,10611.0
+2019-04-07,Labe,huile,GNF/L,10162.0
+2019-04-14,Labe,huile,GNF/L,
+2019-04-21,Labe,huile,GNF/L,10432.0
+2019-04-28,Labe,huile,GNF/L,10711.0
+2019-05-05,Labe,huile,GNF/L,10550.0
+2019-05-12,Labe,huile,GNF/L,10333.0
+2019-05-19,Labe,huile,GNF/L,10677.0
+2019-05-26,Labe,huile,GNF/L,10488.0
+2019-06-02,Labe,huile,GNF/L,11040.0
+2019-06-09,Labe,huile,GNF/L,10999.0
+2019-06-16,Labe,huile,GNF/L,11120.0
+2019-06-23,Labe,huile,GNF/L,10936.0
+2019-06-30,Labe,huile,GNF/L,11115.0
+2019-07-07,Labe,huile,GNF/L,11433.0
+2019-07-14,Labe,huile,GNF/L,11283.0
+2019-07-21,Labe,huile,GNF/L,11374.0
+2019-07-28,Labe,huile,GNF/L,10908.0
+2019-08-04,Labe,huile,GNF/L,10864.0
+2019-08-11,Labe,huile,GNF/L,10983.0
+2019-08-18,Labe,huile,GNF/L,10903.0
+2019-08-25,Labe,huile,GNF/L,11246.0
+2019-09-01,Labe,huile,GNF/L,11160.0
+2019-09-08,Labe,huile,GNF/L,11027.0
+2019-09-15,Labe,huile,GNF/L,11391.0
+2019-09-22,Labe,huile,GNF/L,10952.0
+2019-09-29,Labe,huile,GNF/L,11009.0
+2019-10-06,Labe,huile,GNF/L,10187.0
+2019-10-13,Labe,huile,GNF/L,10743.0
+2019-10-20,Labe,huile,GNF/L,10686.0
+2019-10-27,Labe,huile,GNF/L,10708.0
+2019-11-03,Labe,huile,GNF/L,10457.0
+2019-11-10,Labe,huile,GNF/L,
+2019-11-17,Labe,huile,GNF/L,10457.0
+2019-11-24,Labe,huile,GNF/L,10653.0
+2019-12-01,Labe,huile,GNF/L,10654.0
+2019-12-08,Labe,huile,GNF/L,11454.0
+2019-12-15,Labe,huile,GNF/L,10497.0
+2019-12-22,Labe,huile,GNF/L,10488.0
+2019-12-29,Labe,huile,GNF/L,10822.0
+2020-01-05,Labe,huile,GNF/L,11290.0
+2020-01-12,Labe,huile,GNF/L,11154.0
+2020-01-19,Labe,huile,GNF/L,11045.0
+2020-01-26,Labe,huile,GNF/L,
+2020-02-02,Labe,huile,GNF/L,10874.0
+2020-02-09,Labe,huile,GNF/L,11118.0
+2020-02-16,Labe,huile,GNF/L,10810.0
+2020-02-23,Labe,huile,GNF/L,11573.0
+2020-03-01,Labe,huile,GNF/L,11900.0
+2020-03-08,Labe,huile,GNF/L,11969.0
+2020-03-15,Labe,huile,GNF/L,12153.0
+2020-03-22,Labe,huile,GNF/L,12112.0
+2020-03-29,Labe,huile,GNF/L,12340.0
+2020-04-05,Labe,huile,GNF/L,12518.0
+2020-04-12,Labe,huile,GNF/L,12597.0
+2020-04-19,Labe,huile,GNF/L,12429.0
+2020-04-26,Labe,huile,GNF/L,12698.0
+2020-05-03,Labe,huile,GNF/L,12387.0
+2020-05-10,Labe,huile,GNF/L,12572.0
+2020-05-17,Labe,huile,GNF/L,12679.0
+2020-05-24,Labe,huile,GNF/L,12655.0
+2020-05-31,Labe,huile,GNF/L,12989.0
+2020-06-07,Labe,huile,GNF/L,13241.0
+2020-06-14,Labe,huile,GNF/L,
+2020-06-21,Labe,huile,GNF/L,13169.0
+2020-06-28,Labe,huile,GNF/L,13061.0
+2020-07-05,Labe,huile,GNF/L,13063.0
+2020-07-12,Labe,huile,GNF/L,12959.0
+2020-07-19,Labe,huile,GNF/L,13052.0
+2020-07-26,Labe,huile,GNF/L,13344.0
+2020-08-02,Labe,huile,GNF/L,13167.0
+2020-08-09,Labe,huile,GNF/L,12924.0
+2020-08-16,Labe,huile,GNF/L,13367.0
+2020-08-23,Labe,huile,GNF/L,12992.0
+2020-08-30,Labe,huile,GNF/L,12809.0
+2020-09-06,Labe,huile,GNF/L,13340.0
+2020-09-13,Labe,huile,GNF/L,12920.0
+2020-09-20,Labe,huile,GNF/L,12218.0
+2020-09-27,Labe,huile,GNF/L,12352.0
+2020-10-04,Labe,huile,GNF/L,12320.0
+2020-10-11,Labe,huile,GNF/L,12001.0
+2020-10-18,Labe,huile,GNF/L,11870.0
+2020-10-25,Labe,huile,GNF/L,12190.0
+2020-11-01,Labe,huile,GNF/L,11913.0
+2020-11-08,Labe,huile,GNF/L,12482.0
+2020-11-15,Labe,huile,GNF/L,12330.0
+2020-11-22,Labe,huile,GNF/L,11547.0
+2020-11-29,Labe,huile,GNF/L,12288.0
+2020-12-06,Labe,huile,GNF/L,12357.0
+2020-12-13,Labe,huile,GNF/L,12436.0
+2020-12-20,Labe,huile,GNF/L,12815.0
+2020-12-27,Labe,huile,GNF/L,12219.0
+2021-01-03,Labe,huile,GNF/L,12660.0
+2021-01-10,Labe,huile,GNF/L,12204.0
+2021-01-17,Labe,huile,GNF/L,12486.0
+2021-01-24,Labe,huile,GNF/L,12167.0
+2021-01-31,Labe,huile,GNF/L,12271.0
+2021-02-07,Labe,huile,GNF/L,12345.0
+2021-02-14,Labe,huile,GNF/L,12861.0
+2021-02-21,Labe,huile,GNF/L,12813.0
+2021-02-28,Labe,huile,GNF/L,12701.0
+2021-03-07,Labe,huile,GNF/L,12272.0
+2021-03-14,Labe,huile,GNF/L,12783.0
+2021-03-21,Labe,huile,GNF/L,12896.0
+2021-03-28,Labe,huile,GNF/L,13381.0
+2021-04-04,Labe,huile,GNF/L,
+2021-04-11,Labe,huile,GNF/L,13643.0
+2021-04-18,Labe,huile,GNF/L,13295.0
+2021-04-25,Labe,huile,GNF/L,12882.0
+2021-05-02,Labe,huile,GNF/L,13099.0
+2021-05-09,Labe,huile,GNF/L,13794.0
+2021-05-16,Labe,huile,GNF/L,13775.0
+2021-05-23,Labe,huile,GNF/L,13531.0
+2021-05-30,Labe,huile,GNF/L,13979.0
+2021-06-06,Labe,huile,GNF/L,14265.0
+2021-06-13,Labe,huile,GNF/L,14012.0
+2021-06-20,Labe,huile,GNF/L,13701.0
+2021-06-27,Labe,huile,GNF/L,14003.0
+2021-07-04,Labe,huile,GNF/L,14053.0
+2021-07-11,Labe,huile,GNF/L,14196.0
+2021-07-18,Labe,huile,GNF/L,14166.0
+2021-07-25,Labe,huile,GNF/L,14296.0
+2021-08-01,Labe,huile,GNF/L,14126.0
+2021-08-08,Labe,huile,GNF/L,13876.0
+2021-08-15,Labe,huile,GNF/L,14347.0
+2021-08-22,Labe,huile,GNF/L,13975.0
+2021-08-29,Labe,huile,GNF/L,13615.0
+2021-09-05,Labe,huile,GNF/L,13578.0
+2021-09-12,Labe,huile,GNF/L,13733.0
+2021-09-19,Labe,huile,GNF/L,13935.0
+2021-09-26,Labe,huile,GNF/L,13923.0
+2021-10-03,Labe,huile,GNF/L,13699.0
+2021-10-10,Labe,huile,GNF/L,14078.0
+2021-10-17,Labe,huile,GNF/L,13110.0
+2021-10-24,Labe,huile,GNF/L,
+2021-10-31,Labe,huile,GNF/L,13556.0
+2021-11-07,Labe,huile,GNF/L,13092.0
+2021-11-14,Labe,huile,GNF/L,13146.0
+2021-11-21,Labe,huile,GNF/L,13006.0
+2021-11-28,Labe,huile,GNF/L,13407.0
+2021-12-05,Labe,huile,GNF/L,13153.0
+2021-12-12,Labe,huile,GNF/L,13907.0
+2021-12-19,Labe,huile,GNF/L,13748.0
+2021-12-26,Labe,huile,GNF/L,13954.0
+2022-01-02,Labe,huile,GNF/L,13863.0
+2022-01-09,Labe,huile,GNF/L,13826.0
+2022-01-16,Labe,huile,GNF/L,13775.0
+2022-01-23,Labe,huile,GNF/L,14146.0
+2022-01-30,Labe,huile,GNF/L,14139.0
+2022-02-06,Labe,huile,GNF/L,14104.0
+2022-02-13,Labe,huile,GNF/L,14114.0
+2022-02-20,Labe,huile,GNF/L,14148.0
+2022-02-27,Labe,huile,GNF/L,15307.0
+2022-03-06,Labe,huile,GNF/L,14989.0
+2022-03-13,Labe,huile,GNF/L,15914.0
+2022-03-20,Labe,huile,GNF/L,15396.0
+2022-03-27,Labe,huile,GNF/L,15468.0
+2022-04-03,Labe,huile,GNF/L,15192.0
+2022-04-10,Labe,huile,GNF/L,15889.0
+2022-04-17,Labe,huile,GNF/L,16411.0
+2022-04-24,Labe,huile,GNF/L,16935.0
+2022-05-01,Labe,huile,GNF/L,16421.0
+2022-05-08,Labe,huile,GNF/L,16989.0
+2022-05-15,Labe,huile,GNF/L,16615.0
+2022-05-22,Labe,huile,GNF/L,17209.0
+2022-05-29,Labe,huile,GNF/L,17275.0
+2022-06-05,Labe,huile,GNF/L,18102.0
+2022-06-12,Labe,huile,GNF/L,17307.0
+2022-06-19,Labe,huile,GNF/L,17029.0
+2022-06-26,Labe,huile,GNF/L,16554.0
+2022-07-03,Labe,huile,GNF/L,17511.0
+2022-07-10,Labe,huile,GNF/L,17016.0
+2022-07-17,Labe,huile,GNF/L,16585.0
+2022-07-24,Labe,huile,GNF/L,17510.0
+2022-07-31,Labe,huile,GNF/L,17389.0
+2022-08-07,Labe,huile,GNF/L,17769.0
+2022-08-14,Labe,huile,GNF/L,16697.0
+2022-08-21,Labe,huile,GNF/L,16995.0
+2022-08-28,Labe,huile,GNF/L,17110.0
+2022-09-04,Labe,huile,GNF/L,16607.0
+2022-09-11,Labe,huile,GNF/L,17485.0
+2022-09-18,Labe,huile,GNF/L,17005.0
+2022-09-25,Labe,huile,GNF/L,17184.0
+2022-10-02,Labe,huile,GNF/L,17066.0
+2022-10-09,Labe,huile,GNF/L,16050.0
+2022-10-16,Labe,huile,GNF/L,16190.0
+2022-10-23,Labe,huile,GNF/L,16497.0
+2022-10-30,Labe,huile,GNF/L,16590.0
+2022-11-06,Labe,huile,GNF/L,16306.0
+2022-11-13,Labe,huile,GNF/L,16405.0
+2022-11-20,Labe,huile,GNF/L,16549.0
+2022-11-27,Labe,huile,GNF/L,16408.0
+2022-12-04,Labe,huile,GNF/L,16021.0
+2022-12-11,Labe,huile,GNF/L,16449.0
+2022-12-18,Labe,huile,GNF/L,17074.0
+2022-12-25,Labe,huile,GNF/L,16948.0
+2023-01-01,Labe,huile,GNF/L,16922.0
+2023-01-08,Labe,huile,GNF/L,17260.0
+2023-01-15,Labe,huile,GNF/L,17281.0
+2023-01-22,Labe,huile,GNF/L,17434.0
+2023-01-29,Labe,huile,GNF/L,16805.0
+2023-02-05,Labe,huile,GNF/L,15584.0
+2023-02-12,Labe,huile,GNF/L,16028.0
+2023-02-19,Labe,huile,GNF/L,16115.0
+2023-02-26,Labe,huile,GNF/L,16369.0
+2023-03-05,Labe,huile,GNF/L,16052.0
+2023-03-12,Labe,huile,GNF/L,16535.0
+2023-03-19,Labe,huile,GNF/L,16932.0
+2023-03-26,Labe,huile,GNF/L,16918.0
+2023-04-02,Labe,huile,GNF/L,16620.0
+2023-04-09,Labe,huile,GNF/L,16268.0
+2023-04-16,Labe,huile,GNF/L,16567.0
+2023-04-23,Labe,huile,GNF/L,
+2023-04-30,Labe,huile,GNF/L,16957.0
+2023-05-07,Labe,huile,GNF/L,16580.0
+2023-05-14,Labe,huile,GNF/L,16683.0
+2023-05-21,Labe,huile,GNF/L,16808.0
+2023-05-28,Labe,huile,GNF/L,16986.0
+2023-06-04,Labe,huile,GNF/L,17521.0
+2023-06-11,Labe,huile,GNF/L,17523.0
+2023-06-18,Labe,huile,GNF/L,17436.0
+2023-06-25,Labe,huile,GNF/L,17691.0
+2023-07-02,Labe,huile,GNF/L,17976.0
+2023-07-09,Labe,huile,GNF/L,17941.0
+2023-07-16,Labe,huile,GNF/L,17493.0
+2023-07-23,Labe,huile,GNF/L,17433.0
+2023-07-30,Labe,huile,GNF/L,17694.0
+2023-08-06,Labe,huile,GNF/L,17425.0
+2023-08-13,Labe,huile,GNF/L,17178.0
+2023-08-20,Labe,huile,GNF/L,
+2023-08-27,Labe,huile,GNF/L,17355.0
+2023-09-03,Labe,huile,GNF/L,17397.0
+2023-09-10,Labe,huile,GNF/L,17515.0
+2023-09-17,Labe,huile,GNF/L,17868.0
+2023-09-24,Labe,huile,GNF/L,17318.0
+2023-10-01,Labe,huile,GNF/L,17705.0
+2023-10-08,Labe,huile,GNF/L,16983.0
+2023-10-15,Labe,huile,GNF/L,16880.0
+2023-10-22,Labe,huile,GNF/L,17416.0
+2023-10-29,Labe,huile,GNF/L,17198.0
+2023-11-05,Labe,huile,GNF/L,18150.0
+2023-11-12,Labe,huile,GNF/L,18829.0
+2023-11-19,Labe,huile,GNF/L,17819.0
+2023-11-26,Labe,huile,GNF/L,18789.0
+2023-12-03,Labe,huile,GNF/L,18292.0
+2023-12-10,Labe,huile,GNF/L,17725.0
+2023-12-17,Labe,huile,GNF/L,18254.0
+2023-12-24,Labe,huile,GNF/L,18408.0
+2023-12-31,Labe,huile,GNF/L,17887.0
+2024-01-07,Labe,huile,GNF/L,18413.0
+2024-01-14,Labe,huile,GNF/L,17941.0
+2024-01-21,Labe,huile,GNF/L,18377.0
+2024-01-28,Labe,huile,GNF/L,19041.0
+2024-02-04,Labe,huile,GNF/L,18497.0
+2024-02-11,Labe,huile,GNF/L,18952.0
+2024-02-18,Labe,huile,GNF/L,19329.0
+2024-02-25,Labe,huile,GNF/L,18853.0
+2024-03-03,Labe,huile,GNF/L,18779.0
+2024-03-10,Labe,huile,GNF/L,19106.0
+2024-03-17,Labe,huile,GNF/L,18896.0
+2024-03-24,Labe,huile,GNF/L,18982.0
+2024-03-31,Labe,huile,GNF/L,19477.0
+2024-04-07,Labe,huile,GNF/L,19829.0
+2024-04-14,Labe,huile,GNF/L,20178.0
+2024-04-21,Labe,huile,GNF/L,19390.0
+2024-04-28,Labe,huile,GNF/L,19801.0
+2024-05-05,Labe,huile,GNF/L,18551.0
+2024-05-12,Labe,huile,GNF/L,19668.0
+2024-05-19,Labe,huile,GNF/L,18792.0
+2024-05-26,Labe,huile,GNF/L,19441.0
+2024-06-02,Labe,huile,GNF/L,19389.0
+2024-06-09,Labe,huile,GNF/L,20120.0
+2024-06-16,Labe,huile,GNF/L,19601.0
+2024-06-23,Labe,huile,GNF/L,18942.0
+2024-06-30,Labe,huile,GNF/L,19542.0
+2024-07-07,Labe,huile,GNF/L,20092.0
+2024-07-14,Labe,huile,GNF/L,20239.0
+2024-07-21,Labe,huile,GNF/L,20030.0
+2024-07-28,Labe,huile,GNF/L,20521.0
+2024-08-04,Labe,huile,GNF/L,19998.0
+2024-08-11,Labe,huile,GNF/L,19534.0
+2024-08-18,Labe,huile,GNF/L,18911.0
+2024-08-25,Labe,huile,GNF/L,18928.0
+2024-09-01,Labe,huile,GNF/L,19137.0
+2024-09-08,Labe,huile,GNF/L,19552.0
+2024-09-15,Labe,huile,GNF/L,19517.0
+2024-09-22,Labe,huile,GNF/L,19473.0
+2024-09-29,Labe,huile,GNF/L,19378.0
+2024-10-06,Labe,huile,GNF/L,19294.0
+2024-10-13,Labe,huile,GNF/L,18889.0
+2024-10-20,Labe,huile,GNF/L,19145.0
+2024-10-27,Labe,huile,GNF/L,18733.0
+2024-11-03,Labe,huile,GNF/L,19067.0
+2024-11-10,Labe,huile,GNF/L,19483.0
+2024-11-17,Labe,huile,GNF/L,18868.0
+2024-11-24,Labe,huile,GNF/L,18926.0
+2024-12-01,Labe,huile,GNF/L,18651.0
+2024-12-08,Labe,huile,GNF/L,18848.0
+2024-12-15,Labe,huile,GNF/L,19138.0
+2024-12-22,Labe,huile,GNF/L,18980.0
+2024-12-29,Labe,huile,GNF/L,19801.0
+2019-01-06,Nzerekore,huile,GNF/L,10110.0
+2019-01-13,Nzerekore,huile,GNF/L,10384.0
+2019-01-20,Nzerekore,huile,GNF/L,10440.0
+2019-01-27,Nzerekore,huile,GNF/L,10442.0
+2019-02-03,Nzerekore,huile,GNF/L,10325.0
+2019-02-10,Nzerekore,huile,GNF/L,10511.0
+2019-02-17,Nzerekore,huile,GNF/L,10685.0
+2019-02-24,Nzerekore,huile,GNF/L,10440.0
+2019-03-03,Nzerekore,huile,GNF/L,10318.0
+2019-03-10,Nzerekore,huile,GNF/L,10206.0
+2019-03-17,Nzerekore,huile,GNF/L,10604.0
+2019-03-24,Nzerekore,huile,GNF/L,11002.0
+2019-03-31,Nzerekore,huile,GNF/L,10665.0
+2019-04-07,Nzerekore,huile,GNF/L,11033.0
+2019-04-14,Nzerekore,huile,GNF/L,10808.0
+2019-04-21,Nzerekore,huile,GNF/L,10933.0
+2019-04-28,Nzerekore,huile,GNF/L,10627.0
+2019-05-05,Nzerekore,huile,GNF/L,10601.0
+2019-05-12,Nzerekore,huile,GNF/L,10952.0
+2019-05-19,Nzerekore,huile,GNF/L,10887.0
+2019-05-26,Nzerekore,huile,GNF/L,10515.0
+2019-06-02,Nzerekore,huile,GNF/L,10971.0
+2019-06-09,Nzerekore,huile,GNF/L,10979.0
+2019-06-16,Nzerekore,huile,GNF/L,11280.0
+2019-06-23,Nzerekore,huile,GNF/L,11619.0
+2019-06-30,Nzerekore,huile,GNF/L,11714.0
+2019-07-07,Nzerekore,huile,GNF/L,11149.0
+2019-07-14,Nzerekore,huile,GNF/L,11751.0
+2019-07-21,Nzerekore,huile,GNF/L,11719.0
+2019-07-28,Nzerekore,huile,GNF/L,11025.0
+2019-08-04,Nzerekore,huile,GNF/L,11303.0
+2019-08-11,Nzerekore,huile,GNF/L,11609.0
+2019-08-18,Nzerekore,huile,GNF/L,11429.0
+2019-08-25,Nzerekore,huile,GNF/L,11127.0
+2019-09-01,Nzerekore,huile,GNF/L,11386.0
+2019-09-08,Nzerekore,huile,GNF/L,10924.0
+2019-09-15,Nzerekore,huile,GNF/L,11363.0
+2019-09-22,Nzerekore,huile,GNF/L,11199.0
+2019-09-29,Nzerekore,huile,GNF/L,11259.0
+2019-10-06,Nzerekore,huile,GNF/L,10525.0
+2019-10-13,Nzerekore,huile,GNF/L,10892.0
+2019-10-20,Nzerekore,huile,GNF/L,11183.0
+2019-10-27,Nzerekore,huile,GNF/L,11236.0
+2019-11-03,Nzerekore,huile,GNF/L,10985.0
+2019-11-10,Nzerekore,huile,GNF/L,10987.0
+2019-11-17,Nzerekore,huile,GNF/L,11189.0
+2019-11-24,Nzerekore,huile,GNF/L,10863.0
+2019-12-01,Nzerekore,huile,GNF/L,
+2019-12-08,Nzerekore,huile,GNF/L,11079.0
+2019-12-15,Nzerekore,huile,GNF/L,10752.0
+2019-12-22,Nzerekore,huile,GNF/L,10831.0
+2019-12-29,Nzerekore,huile,GNF/L,10947.0
+2020-01-05,Nzerekore,huile,GNF/L,11324.0
+2020-01-12,Nzerekore,huile,GNF/L,11741.0
+2020-01-19,Nzerekore,huile,GNF/L,
+2020-01-26,Nzerekore,huile,GNF/L,11510.0
+2020-02-02,Nzerekore,huile,GNF/L,11535.0
+2020-02-09,Nzerekore,huile,GNF/L,11594.0
+2020-02-16,Nzerekore,huile,GNF/L,11625.0
+2020-02-23,Nzerekore,huile,GNF/L,11806.0
+2020-03-01,Nzerekore,huile,GNF/L,12976.0
+2020-03-08,Nzerekore,huile,GNF/L,12706.0
+2020-03-15,Nzerekore,huile,GNF/L,12339.0
+2020-03-22,Nzerekore,huile,GNF/L,12649.0
+2020-03-29,Nzerekore,huile,GNF/L,12938.0
+2020-04-05,Nzerekore,huile,GNF/L,12749.0
+2020-04-12,Nzerekore,huile,GNF/L,12839.0
+2020-04-19,Nzerekore,huile,GNF/L,12717.0
+2020-04-26,Nzerekore,huile,GNF/L,12568.0
+2020-05-03,Nzerekore,huile,GNF/L,12830.0
+2020-05-10,Nzerekore,huile,GNF/L,12541.0
+2020-05-17,Nzerekore,huile,GNF/L,12772.0
+2020-05-24,Nzerekore,huile,GNF/L,13198.0
+2020-05-31,Nzerekore,huile,GNF/L,13502.0
+2020-06-07,Nzerekore,huile,GNF/L,13601.0
+2020-06-14,Nzerekore,huile,GNF/L,13800.0
+2020-06-21,Nzerekore,huile,GNF/L,13416.0
+2020-06-28,Nzerekore,huile,GNF/L,13434.0
+2020-07-05,Nzerekore,huile,GNF/L,13705.0
+2020-07-12,Nzerekore,huile,GNF/L,13292.0
+2020-07-19,Nzerekore,huile,GNF/L,13679.0
+2020-07-26,Nzerekore,huile,GNF/L,13414.0
+2020-08-02,Nzerekore,huile,GNF/L,13149.0
+2020-08-09,Nzerekore,huile,GNF/L,13257.0
+2020-08-16,Nzerekore,huile,GNF/L,13895.0
+2020-08-23,Nzerekore,huile,GNF/L,13552.0
+2020-08-30,Nzerekore,huile,GNF/L,13170.0
+2020-09-06,Nzerekore,huile,GNF/L,13121.0
+2020-09-13,Nzerekore,huile,GNF/L,13362.0
+2020-09-20,Nzerekore,huile,GNF/L,12991.0
+2020-09-27,Nzerekore,huile,GNF/L,12632.0
+2020-10-04,Nzerekore,huile,GNF/L,12687.0
+2020-10-11,Nzerekore,huile,GNF/L,12398.0
+2020-10-18,Nzerekore,huile,GNF/L,12569.0
+2020-10-25,Nzerekore,huile,GNF/L,12087.0
+2020-11-01,Nzerekore,huile,GNF/L,12558.0
+2020-11-08,Nzerekore,huile,GNF/L,12307.0
+2020-11-15,Nzerekore,huile,GNF/L,12859.0
+2020-11-22,Nzerekore,huile,GNF/L,12183.0
+2020-11-29,Nzerekore,huile,GNF/L,12576.0
+2020-12-06,Nzerekore,huile,GNF/L,12320.0
+2020-12-13,Nzerekore,huile,GNF/L,12367.0
+2020-12-20,Nzerekore,huile,GNF/L,12827.0
+2020-12-27,Nzerekore,huile,GNF/L,
+2021-01-03,Nzerekore,huile,GNF/L,12634.0
+2021-01-10,Nzerekore,huile,GNF/L,13076.0
+2021-01-17,Nzerekore,huile,GNF/L,13013.0
+2021-01-24,Nzerekore,huile,GNF/L,
+2021-01-31,Nzerekore,huile,GNF/L,12886.0
+2021-02-07,Nzerekore,huile,GNF/L,12660.0
+2021-02-14,Nzerekore,huile,GNF/L,12713.0
+2021-02-21,Nzerekore,huile,GNF/L,13212.0
+2021-02-28,Nzerekore,huile,GNF/L,12570.0
+2021-03-07,Nzerekore,huile,GNF/L,13143.0
+2021-03-14,Nzerekore,huile,GNF/L,13139.0
+2021-03-21,Nzerekore,huile,GNF/L,13369.0
+2021-03-28,Nzerekore,huile,GNF/L,13629.0
+2021-04-04,Nzerekore,huile,GNF/L,13882.0
+2021-04-11,Nzerekore,huile,GNF/L,13555.0
+2021-04-18,Nzerekore,huile,GNF/L,14007.0
+2021-04-25,Nzerekore,huile,GNF/L,13916.0
+2021-05-02,Nzerekore,huile,GNF/L,13574.0
+2021-05-09,Nzerekore,huile,GNF/L,13777.0
+2021-05-16,Nzerekore,huile,GNF/L,14578.0
+2021-05-23,Nzerekore,huile,GNF/L,14485.0
+2021-05-30,Nzerekore,huile,GNF/L,14128.0
+2021-06-06,Nzerekore,huile,GNF/L,14046.0
+2021-06-13,Nzerekore,huile,GNF/L,14502.0
+2021-06-20,Nzerekore,huile,GNF/L,14349.0
+2021-06-27,Nzerekore,huile,GNF/L,
+2021-07-04,Nzerekore,huile,GNF/L,
+2021-07-11,Nzerekore,huile,GNF/L,14270.0
+2021-07-18,Nzerekore,huile,GNF/L,14422.0
+2021-07-25,Nzerekore,huile,GNF/L,14347.0
+2021-08-01,Nzerekore,huile,GNF/L,13739.0
+2021-08-08,Nzerekore,huile,GNF/L,14624.0
+2021-08-15,Nzerekore,huile,GNF/L,14588.0
+2021-08-22,Nzerekore,huile,GNF/L,14563.0
+2021-08-29,Nzerekore,huile,GNF/L,14276.0
+2021-09-05,Nzerekore,huile,GNF/L,14640.0
+2021-09-12,Nzerekore,huile,GNF/L,14877.0
+2021-09-19,Nzerekore,huile,GNF/L,14193.0
+2021-09-26,Nzerekore,huile,GNF/L,14251.0
+2021-10-03,Nzerekore,huile,GNF/L,14097.0
+2021-10-10,Nzerekore,huile,GNF/L,14476.0
+2021-10-17,Nzerekore,huile,GNF/L,13524.0
+2021-10-24,Nzerekore,huile,GNF/L,13891.0
+2021-10-31,Nzerekore,huile,GNF/L,13636.0
+2021-11-07,Nzerekore,huile,GNF/L,13491.0
+2021-11-14,Nzerekore,huile,GNF/L,13478.0
+2021-11-21,Nzerekore,huile,GNF/L,14115.0
+2021-11-28,Nzerekore,huile,GNF/L,13867.0
+2021-12-05,Nzerekore,huile,GNF/L,13798.0
+2021-12-12,Nzerekore,huile,GNF/L,13654.0
+2021-12-19,Nzerekore,huile,GNF/L,14774.0
+2021-12-26,Nzerekore,huile,GNF/L,
+2022-01-02,Nzerekore,huile,GNF/L,14099.0
+2022-01-09,Nzerekore,huile,GNF/L,13739.0
+2022-01-16,Nzerekore,huile,GNF/L,14664.0
+2022-01-23,Nzerekore,huile,GNF/L,14749.0
+2022-01-30,Nzerekore,huile,GNF/L,15072.0
+2022-02-06,Nzerekore,huile,GNF/L,14321.0
+2022-02-13,Nzerekore,huile,GNF/L,14911.0
+2022-02-20,Nzerekore,huile,GNF/L,14707.0
+2022-02-27,Nzerekore,huile,GNF/L,15320.0
+2022-03-06,Nzerekore,huile,GNF/L,14975.0
+2022-03-13,Nzerekore,huile,GNF/L,16319.0
+2022-03-20,Nzerekore,huile,GNF/L,16072.0
+2022-03-27,Nzerekore,huile,GNF/L,15803.0
+2022-04-03,Nzerekore,huile,GNF/L,16127.0
+2022-04-10,Nzerekore,huile,GNF/L,16229.0
+2022-04-17,Nzerekore,huile,GNF/L,16637.0
+2022-04-24,Nzerekore,huile,GNF/L,16833.0
+2022-05-01,Nzerekore,huile,GNF/L,16298.0
+2022-05-08,Nzerekore,huile,GNF/L,17302.0
+2022-05-15,Nzerekore,huile,GNF/L,17211.0
+2022-05-22,Nzerekore,huile,GNF/L,17034.0
+2022-05-29,Nzerekore,huile,GNF/L,17849.0
+2022-06-05,Nzerekore,huile,GNF/L,17859.0
+2022-06-12,Nzerekore,huile,GNF/L,17994.0
+2022-06-19,Nzerekore,huile,GNF/L,17523.0
+2022-06-26,Nzerekore,huile,GNF/L,17087.0
+2022-07-03,Nzerekore,huile,GNF/L,17626.0
+2022-07-10,Nzerekore,huile,GNF/L,17227.0
+2022-07-17,Nzerekore,huile,GNF/L,17684.0
+2022-07-24,Nzerekore,huile,GNF/L,17644.0
+2022-07-31,Nzerekore,huile,GNF/L,17404.0
+2022-08-07,Nzerekore,huile,GNF/L,18038.0
+2022-08-14,Nzerekore,huile,GNF/L,17755.0
+2022-08-21,Nzerekore,huile,GNF/L,17729.0
+2022-08-28,Nzerekore,huile,GNF/L,18034.0
+2022-09-04,Nzerekore,huile,GNF/L,17424.0
+2022-09-11,Nzerekore,huile,GNF/L,17617.0
+2022-09-18,Nzerekore,huile,GNF/L,17489.0
+2022-09-25,Nzerekore,huile,GNF/L,17068.0
+2022-10-02,Nzerekore,huile,GNF/L,16777.0
+2022-10-09,Nzerekore,huile,GNF/L,16961.0
+2022-10-16,Nzerekore,huile,GNF/L,16811.0
+2022-10-23,Nzerekore,huile,GNF/L,16520.0
+2022-10-30,Nzerekore,huile,GNF/L,16304.0
+2022-11-06,Nzerekore,huile,GNF/L,17385.0
+2022-11-13,Nzerekore,huile,GNF/L,17000.0
+2022-11-20,Nzerekore,huile,GNF/L,16500.0
+2022-11-27,Nzerekore,huile,GNF/L,16659.0
+2022-12-04,Nzerekore,huile,GNF/L,16615.0
+2022-12-11,Nzerekore,huile,GNF/L,17660.0
+2022-12-18,Nzerekore,huile,GNF/L,16979.0
+2022-12-25,Nzerekore,huile,GNF/L,17684.0
+2023-01-01,Nzerekore,huile,GNF/L,17614.0
+2023-01-08,Nzerekore,huile,GNF/L,18191.0
+2023-01-15,Nzerekore,huile,GNF/L,17816.0
+2023-01-22,Nzerekore,huile,GNF/L,17936.0
+2023-01-29,Nzerekore,huile,GNF/L,17868.0
+2023-02-05,Nzerekore,huile,GNF/L,16435.0
+2023-02-12,Nzerekore,huile,GNF/L,16479.0
+2023-02-19,Nzerekore,huile,GNF/L,16507.0
+2023-02-26,Nzerekore,huile,GNF/L,17208.0
+2023-03-05,Nzerekore,huile,GNF/L,16579.0
+2023-03-12,Nzerekore,huile,GNF/L,16872.0
+2023-03-19,Nzerekore,huile,GNF/L,17063.0
+2023-03-26,Nzerekore,huile,GNF/L,17346.0
+2023-04-02,Nzerekore,huile,GNF/L,
+2023-04-09,Nzerekore,huile,GNF/L,16828.0
+2023-04-16,Nzerekore,huile,GNF/L,17212.0
+2023-04-23,Nzerekore,huile,GNF/L,16871.0
+2023-04-30,Nzerekore,huile,GNF/L,17032.0
+2023-05-07,Nzerekore,huile,GNF/L,16726.0
+2023-05-14,Nzerekore,huile,GNF/L,16872.0
+2023-05-21,Nzerekore,huile,GNF/L,17451.0
+2023-05-28,Nzerekore,huile,GNF/L,17529.0
+2023-06-04,Nzerekore,huile,GNF/L,18267.0
+2023-06-11,Nzerekore,huile,GNF/L,18017.0
+2023-06-18,Nzerekore,huile,GNF/L,17145.0
+2023-06-25,Nzerekore,huile,GNF/L,17470.0
+2023-07-02,Nzerekore,huile,GNF/L,18628.0
+2023-07-09,Nzerekore,huile,GNF/L,17788.0
+2023-07-16,Nzerekore,huile,GNF/L,18442.0
+2023-07-23,Nzerekore,huile,GNF/L,17967.0
+2023-07-30,Nzerekore,huile,GNF/L,18217.0
+2023-08-06,Nzerekore,huile,GNF/L,17835.0
+2023-08-13,Nzerekore,huile,GNF/L,18171.0
+2023-08-20,Nzerekore,huile,GNF/L,18014.0
+2023-08-27,Nzerekore,huile,GNF/L,17828.0
+2023-09-03,Nzerekore,huile,GNF/L,17744.0
+2023-09-10,Nzerekore,huile,GNF/L,18169.0
+2023-09-17,Nzerekore,huile,GNF/L,17588.0
+2023-09-24,Nzerekore,huile,GNF/L,17854.0
+2023-10-01,Nzerekore,huile,GNF/L,18228.0
+2023-10-08,Nzerekore,huile,GNF/L,17815.0
+2023-10-15,Nzerekore,huile,GNF/L,17655.0
+2023-10-22,Nzerekore,huile,GNF/L,17854.0
+2023-10-29,Nzerekore,huile,GNF/L,16953.0
+2023-11-05,Nzerekore,huile,GNF/L,18071.0
+2023-11-12,Nzerekore,huile,GNF/L,19078.0
+2023-11-19,Nzerekore,huile,GNF/L,18314.0
+2023-11-26,Nzerekore,huile,GNF/L,18787.0
+2023-12-03,Nzerekore,huile,GNF/L,18661.0
+2023-12-10,Nzerekore,huile,GNF/L,18365.0
+2023-12-17,Nzerekore,huile,GNF/L,18091.0
+2023-12-24,Nzerekore,huile,GNF/L,18470.0
+2023-12-31,Nzerekore,huile,GNF/L,18355.0
+2024-01-07,Nzerekore,huile,GNF/L,18666.0
+2024-01-14,Nzerekore,huile,GNF/L,18733.0
+2024-01-21,Nzerekore,huile,GNF/L,19457.0
+2024-01-28,Nzerekore,huile,GNF/L,19128.0
+2024-02-04,Nzerekore,huile,GNF/L,19088.0
+2024-02-11,Nzerekore,huile,GNF/L,20026.0
+2024-02-18,Nzerekore,huile,GNF/L,19723.0
+2024-02-25,Nzerekore,huile,GNF/L,19440.0
+2024-03-03,Nzerekore,huile,GNF/L,19596.0
+2024-03-10,Nzerekore,huile,GNF/L,19594.0
+2024-03-17,Nzerekore,huile,GNF/L,19743.0
+2024-03-24,Nzerekore,huile,GNF/L,19822.0
+2024-03-31,Nzerekore,huile,GNF/L,19684.0
+2024-04-07,Nzerekore,huile,GNF/L,19742.0
+2024-04-14,Nzerekore,huile,GNF/L,20559.0
+2024-04-21,Nzerekore,huile,GNF/L,20286.0
+2024-04-28,Nzerekore,huile,GNF/L,20168.0
+2024-05-05,Nzerekore,huile,GNF/L,19411.0
+2024-05-12,Nzerekore,huile,GNF/L,19587.0
+2024-05-19,Nzerekore,huile,GNF/L,19922.0
+2024-05-26,Nzerekore,huile,GNF/L,19827.0
+2024-06-02,Nzerekore,huile,GNF/L,20447.0
+2024-06-09,Nzerekore,huile,GNF/L,19931.0
+2024-06-16,Nzerekore,huile,GNF/L,20401.0
+2024-06-23,Nzerekore,huile,GNF/L,19880.0
+2024-06-30,Nzerekore,huile,GNF/L,20466.0
+2024-07-07,Nzerekore,huile,GNF/L,
+2024-07-14,Nzerekore,huile,GNF/L,20501.0
+2024-07-21,Nzerekore,huile,GNF/L,
+2024-07-28,Nzerekore,huile,GNF/L,21300.0
+2024-08-04,Nzerekore,huile,GNF/L,21265.0
+2024-08-11,Nzerekore,huile,GNF/L,19879.0
+2024-08-18,Nzerekore,huile,GNF/L,19898.0
+2024-08-25,Nzerekore,huile,GNF/L,19565.0
+2024-09-01,Nzerekore,huile,GNF/L,19394.0
+2024-09-08,Nzerekore,huile,GNF/L,20193.0
+2024-09-15,Nzerekore,huile,GNF/L,19227.0
+2024-09-22,Nzerekore,huile,GNF/L,
+2024-09-29,Nzerekore,huile,GNF/L,19229.0
+2024-10-06,Nzerekore,huile,GNF/L,19272.0
+2024-10-13,Nzerekore,huile,GNF/L,19022.0
+2024-10-20,Nzerekore,huile,GNF/L,19940.0
+2024-10-27,Nzerekore,huile,GNF/L,20538.0
+2024-11-03,Nzerekore,huile,GNF/L,19896.0
+2024-11-10,Nzerekore,huile,GNF/L,19282.0
+2024-11-17,Nzerekore,huile,GNF/L,19632.0
+2024-11-24,Nzerekore,huile,GNF/L,18920.0
+2024-12-01,Nzerekore,huile,GNF/L,19425.0
+2024-12-08,Nzerekore,huile,GNF/L,19161.0
+2024-12-15,Nzerekore,huile,GNF/L,19216.0
+2024-12-22,Nzerekore,huile,GNF/L,19439.0
+2024-12-29,Nzerekore,huile,GNF/L,20458.0
+2019-01-06,Conakry (Madina),riz,GNF/kg,4494.0
+2019-01-13,Conakry (Madina),riz,GNF/kg,4435.0
+2019-01-20,Conakry (Madina),riz,GNF/kg,4436.0
+2019-01-27,Conakry (Madina),riz,GNF/kg,4437.0
+2019-02-03,Conakry (Madina),riz,GNF/kg,4548.0
+2019-02-10,Conakry (Madina),riz,GNF/kg,4391.0
+2019-02-17,Conakry (Madina),riz,GNF/kg,4523.0
+2019-02-24,Conakry (Madina),riz,GNF/kg,4433.0
+2019-03-03,Conakry (Madina),riz,GNF/kg,4637.0
+2019-03-10,Conakry (Madina),riz,GNF/kg,4612.0
+2019-03-17,Conakry (Madina),riz,GNF/kg,4724.0
+2019-03-24,Conakry (Madina),riz,GNF/kg,4797.0
+2019-03-31,Conakry (Madina),riz,GNF/kg,4955.0
+2019-04-07,Conakry (Madina),riz,GNF/kg,4877.0
+2019-04-14,Conakry (Madina),riz,GNF/kg,4760.0
+2019-04-21,Conakry (Madina),riz,GNF/kg,4900.0
+2019-04-28,Conakry (Madina),riz,GNF/kg,4749.0
+2019-05-05,Conakry (Madina),riz,GNF/kg,4841.0
+2019-05-12,Conakry (Madina),riz,GNF/kg,4961.0
+2019-05-19,Conakry (Madina),riz,GNF/kg,4963.0
+2019-05-26,Conakry (Madina),riz,GNF/kg,4844.0
+2019-06-02,Conakry (Madina),riz,GNF/kg,4897.0
+2019-06-09,Conakry (Madina),riz,GNF/kg,4947.0
+2019-06-16,Conakry (Madina),riz,GNF/kg,4921.0
+2019-06-23,Conakry (Madina),riz,GNF/kg,4933.0
+2019-06-30,Conakry (Madina),riz,GNF/kg,4974.0
+2019-07-07,Conakry (Madina),riz,GNF/kg,5017.0
+2019-07-14,Conakry (Madina),riz,GNF/kg,4996.0
+2019-07-21,Conakry (Madina),riz,GNF/kg,4748.0
+2019-07-28,Conakry (Madina),riz,GNF/kg,4961.0
+2019-08-04,Conakry (Madina),riz,GNF/kg,4929.0
+2019-08-11,Conakry (Madina),riz,GNF/kg,5039.0
+2019-08-18,Conakry (Madina),riz,GNF/kg,5036.0
+2019-08-25,Conakry (Madina),riz,GNF/kg,4644.0
+2019-09-01,Conakry (Madina),riz,GNF/kg,4697.0
+2019-09-08,Conakry (Madina),riz,GNF/kg,4829.0
+2019-09-15,Conakry (Madina),riz,GNF/kg,4684.0
+2019-09-22,Conakry (Madina),riz,GNF/kg,4894.0
+2019-09-29,Conakry (Madina),riz,GNF/kg,4721.0
+2019-10-06,Conakry (Madina),riz,GNF/kg,4616.0
+2019-10-13,Conakry (Madina),riz,GNF/kg,4546.0
+2019-10-20,Conakry (Madina),riz,GNF/kg,4702.0
+2019-10-27,Conakry (Madina),riz,GNF/kg,4735.0
+2019-11-03,Conakry (Madina),riz,GNF/kg,4600.0
+2019-11-10,Conakry (Madina),riz,GNF/kg,4619.0
+2019-11-17,Conakry (Madina),riz,GNF/kg,4631.0
+2019-11-24,Conakry (Madina),riz,GNF/kg,4550.0
+2019-12-01,Conakry (Madina),riz,GNF/kg,4669.0
+2019-12-08,Conakry (Madina),riz,GNF/kg,4674.0
+2019-12-15,Conakry (Madina),riz,GNF/kg,4761.0
+2019-12-22,Conakry (Madina),riz,GNF/kg,4816.0
+2019-12-29,Conakry (Madina),riz,GNF/kg,4661.0
+2020-01-05,Conakry (Madina),riz,GNF/kg,4792.0
+2020-01-12,Conakry (Madina),riz,GNF/kg,4856.0
+2020-01-19,Conakry (Madina),riz,GNF/kg,4694.0
+2020-01-26,Conakry (Madina),riz,GNF/kg,4714.0
+2020-02-02,Conakry (Madina),riz,GNF/kg,4828.0
+2020-02-09,Conakry (Madina),riz,GNF/kg,4936.0
+2020-02-16,Conakry (Madina),riz,GNF/kg,5013.0
+2020-02-23,Conakry (Madina),riz,GNF/kg,5098.0
+2020-03-01,Conakry (Madina),riz,GNF/kg,5508.0
+2020-03-08,Conakry (Madina),riz,GNF/kg,5426.0
+2020-03-15,Conakry (Madina),riz,GNF/kg,5447.0
+2020-03-22,Conakry (Madina),riz,GNF/kg,5677.0
+2020-03-29,Conakry (Madina),riz,GNF/kg,5529.0
+2020-04-05,Conakry (Madina),riz,GNF/kg,5434.0
+2020-04-12,Conakry (Madina),riz,GNF/kg,5814.0
+2020-04-19,Conakry (Madina),riz,GNF/kg,5599.0
+2020-04-26,Conakry (Madina),riz,GNF/kg,5633.0
+2020-05-03,Conakry (Madina),riz,GNF/kg,5817.0
+2020-05-10,Conakry (Madina),riz,GNF/kg,5537.0
+2020-05-17,Conakry (Madina),riz,GNF/kg,5496.0
+2020-05-24,Conakry (Madina),riz,GNF/kg,5429.0
+2020-05-31,Conakry (Madina),riz,GNF/kg,5493.0
+2020-06-07,Conakry (Madina),riz,GNF/kg,5786.0
+2020-06-14,Conakry (Madina),riz,GNF/kg,5816.0
+2020-06-21,Conakry (Madina),riz,GNF/kg,5834.0
+2020-06-28,Conakry (Madina),riz,GNF/kg,5629.0
+2020-07-05,Conakry (Madina),riz,GNF/kg,5545.0
+2020-07-12,Conakry (Madina),riz,GNF/kg,5783.0
+2020-07-19,Conakry (Madina),riz,GNF/kg,5680.0
+2020-07-26,Conakry (Madina),riz,GNF/kg,5772.0
+2020-08-02,Conakry (Madina),riz,GNF/kg,5719.0
+2020-08-09,Conakry (Madina),riz,GNF/kg,5631.0
+2020-08-16,Conakry (Madina),riz,GNF/kg,
+2020-08-23,Conakry (Madina),riz,GNF/kg,5527.0
+2020-08-30,Conakry (Madina),riz,GNF/kg,5603.0
+2020-09-06,Conakry (Madina),riz,GNF/kg,5449.0
+2020-09-13,Conakry (Madina),riz,GNF/kg,5497.0
+2020-09-20,Conakry (Madina),riz,GNF/kg,5190.0
+2020-09-27,Conakry (Madina),riz,GNF/kg,5255.0
+2020-10-04,Conakry (Madina),riz,GNF/kg,5049.0
+2020-10-11,Conakry (Madina),riz,GNF/kg,5092.0
+2020-10-18,Conakry (Madina),riz,GNF/kg,
+2020-10-25,Conakry (Madina),riz,GNF/kg,4977.0
+2020-11-01,Conakry (Madina),riz,GNF/kg,4963.0
+2020-11-08,Conakry (Madina),riz,GNF/kg,4651.0
+2020-11-15,Conakry (Madina),riz,GNF/kg,4703.0
+2020-11-22,Conakry (Madina),riz,GNF/kg,4705.0
+2020-11-29,Conakry (Madina),riz,GNF/kg,4732.0
+2020-12-06,Conakry (Madina),riz,GNF/kg,4881.0
+2020-12-13,Conakry (Madina),riz,GNF/kg,5058.0
+2020-12-20,Conakry (Madina),riz,GNF/kg,5102.0
+2020-12-27,Conakry (Madina),riz,GNF/kg,5143.0
+2021-01-03,Conakry (Madina),riz,GNF/kg,5307.0
+2021-01-10,Conakry (Madina),riz,GNF/kg,5287.0
+2021-01-17,Conakry (Madina),riz,GNF/kg,5190.0
+2021-01-24,Conakry (Madina),riz,GNF/kg,5318.0
+2021-01-31,Conakry (Madina),riz,GNF/kg,5248.0
+2021-02-07,Conakry (Madina),riz,GNF/kg,5282.0
+2021-02-14,Conakry (Madina),riz,GNF/kg,5232.0
+2021-02-21,Conakry (Madina),riz,GNF/kg,5258.0
+2021-02-28,Conakry (Madina),riz,GNF/kg,5388.0
+2021-03-07,Conakry (Madina),riz,GNF/kg,5444.0
+2021-03-14,Conakry (Madina),riz,GNF/kg,5521.0
+2021-03-21,Conakry (Madina),riz,GNF/kg,5702.0
+2021-03-28,Conakry (Madina),riz,GNF/kg,5426.0
+2021-04-04,Conakry (Madina),riz,GNF/kg,5679.0
+2021-04-11,Conakry (Madina),riz,GNF/kg,5583.0
+2021-04-18,Conakry (Madina),riz,GNF/kg,5871.0
+2021-04-25,Conakry (Madina),riz,GNF/kg,5782.0
+2021-05-02,Conakry (Madina),riz,GNF/kg,5550.0
+2021-05-09,Conakry (Madina),riz,GNF/kg,5868.0
+2021-05-16,Conakry (Madina),riz,GNF/kg,5748.0
+2021-05-23,Conakry (Madina),riz,GNF/kg,5850.0
+2021-05-30,Conakry (Madina),riz,GNF/kg,5819.0
+2021-06-06,Conakry (Madina),riz,GNF/kg,
+2021-06-13,Conakry (Madina),riz,GNF/kg,6114.0
+2021-06-20,Conakry (Madina),riz,GNF/kg,5905.0
+2021-06-27,Conakry (Madina),riz,GNF/kg,5898.0
+2021-07-04,Conakry (Madina),riz,GNF/kg,5839.0
+2021-07-11,Conakry (Madina),riz,GNF/kg,5925.0
+2021-07-18,Conakry (Madina),riz,GNF/kg,5675.0
+2021-07-25,Conakry (Madina),riz,GNF/kg,
+2021-08-01,Conakry (Madina),riz,GNF/kg,5870.0
+2021-08-08,Conakry (Madina),riz,GNF/kg,5620.0
+2021-08-15,Conakry (Madina),riz,GNF/kg,5721.0
+2021-08-22,Conakry (Madina),riz,GNF/kg,5699.0
+2021-08-29,Conakry (Madina),riz,GNF/kg,5704.0
+2021-09-05,Conakry (Madina),riz,GNF/kg,5857.0
+2021-09-12,Conakry (Madina),riz,GNF/kg,6137.0
+2021-09-19,Conakry (Madina),riz,GNF/kg,6042.0
+2021-09-26,Conakry (Madina),riz,GNF/kg,5670.0
+2021-10-03,Conakry (Madina),riz,GNF/kg,5382.0
+2021-10-10,Conakry (Madina),riz,GNF/kg,5527.0
+2021-10-17,Conakry (Madina),riz,GNF/kg,5283.0
+2021-10-24,Conakry (Madina),riz,GNF/kg,5404.0
+2021-10-31,Conakry (Madina),riz,GNF/kg,5354.0
+2021-11-07,Conakry (Madina),riz,GNF/kg,5417.0
+2021-11-14,Conakry (Madina),riz,GNF/kg,5404.0
+2021-11-21,Conakry (Madina),riz,GNF/kg,5333.0
+2021-11-28,Conakry (Madina),riz,GNF/kg,5273.0
+2021-12-05,Conakry (Madina),riz,GNF/kg,5316.0
+2021-12-12,Conakry (Madina),riz,GNF/kg,
+2021-12-19,Conakry (Madina),riz,GNF/kg,5391.0
+2021-12-26,Conakry (Madina),riz,GNF/kg,5703.0
+2022-01-02,Conakry (Madina),riz,GNF/kg,5807.0
+2022-01-09,Conakry (Madina),riz,GNF/kg,5607.0
+2022-01-16,Conakry (Madina),riz,GNF/kg,5832.0
+2022-01-23,Conakry (Madina),riz,GNF/kg,5719.0
+2022-01-30,Conakry (Madina),riz,GNF/kg,5683.0
+2022-02-06,Conakry (Madina),riz,GNF/kg,5737.0
+2022-02-13,Conakry (Madina),riz,GNF/kg,5822.0
+2022-02-20,Conakry (Madina),riz,GNF/kg,5964.0
+2022-02-27,Conakry (Madina),riz,GNF/kg,6138.0
+2022-03-06,Conakry (Madina),riz,GNF/kg,6082.0
+2022-03-13,Conakry (Madina),riz,GNF/kg,6232.0
+2022-03-20,Conakry (Madina),riz,GNF/kg,6699.0
+2022-03-27,Conakry (Madina),riz,GNF/kg,6564.0
+2022-04-03,Conakry (Madina),riz,GNF/kg,6768.0
+2022-04-10,Conakry (Madina),riz,GNF/kg,6717.0
+2022-04-17,Conakry (Madina),riz,GNF/kg,6819.0
+2022-04-24,Conakry (Madina),riz,GNF/kg,6866.0
+2022-05-01,Conakry (Madina),riz,GNF/kg,6842.0
+2022-05-08,Conakry (Madina),riz,GNF/kg,6718.0
+2022-05-15,Conakry (Madina),riz,GNF/kg,6814.0
+2022-05-22,Conakry (Madina),riz,GNF/kg,6760.0
+2022-05-29,Conakry (Madina),riz,GNF/kg,7076.0
+2022-06-05,Conakry (Madina),riz,GNF/kg,7229.0
+2022-06-12,Conakry (Madina),riz,GNF/kg,7120.0
+2022-06-19,Conakry (Madina),riz,GNF/kg,7053.0
+2022-06-26,Conakry (Madina),riz,GNF/kg,7205.0
+2022-07-03,Conakry (Madina),riz,GNF/kg,7077.0
+2022-07-10,Conakry (Madina),riz,GNF/kg,7131.0
+2022-07-17,Conakry (Madina),riz,GNF/kg,6880.0
+2022-07-24,Conakry (Madina),riz,GNF/kg,7015.0
+2022-07-31,Conakry (Madina),riz,GNF/kg,6885.0
+2022-08-07,Conakry (Madina),riz,GNF/kg,6861.0
+2022-08-14,Conakry (Madina),riz,GNF/kg,7014.0
+2022-08-21,Conakry (Madina),riz,GNF/kg,6843.0
+2022-08-28,Conakry (Madina),riz,GNF/kg,6805.0
+2022-09-04,Conakry (Madina),riz,GNF/kg,6798.0
+2022-09-11,Conakry (Madina),riz,GNF/kg,
+2022-09-18,Conakry (Madina),riz,GNF/kg,6719.0
+2022-09-25,Conakry (Madina),riz,GNF/kg,7129.0
+2022-10-02,Conakry (Madina),riz,GNF/kg,6635.0
+2022-10-09,Conakry (Madina),riz,GNF/kg,6447.0
+2022-10-16,Conakry (Madina),riz,GNF/kg,6628.0
+2022-10-23,Conakry (Madina),riz,GNF/kg,6362.0
+2022-10-30,Conakry (Madina),riz,GNF/kg,6512.0
+2022-11-06,Conakry (Madina),riz,GNF/kg,6554.0
+2022-11-13,Conakry (Madina),riz,GNF/kg,6574.0
+2022-11-20,Conakry (Madina),riz,GNF/kg,6786.0
+2022-11-27,Conakry (Madina),riz,GNF/kg,6714.0
+2022-12-04,Conakry (Madina),riz,GNF/kg,6791.0
+2022-12-11,Conakry (Madina),riz,GNF/kg,6470.0
+2022-12-18,Conakry (Madina),riz,GNF/kg,6716.0
+2022-12-25,Conakry (Madina),riz,GNF/kg,6795.0
+2023-01-01,Conakry (Madina),riz,GNF/kg,6485.0
+2023-01-08,Conakry (Madina),riz,GNF/kg,6530.0
+2023-01-15,Conakry (Madina),riz,GNF/kg,6867.0
+2023-01-22,Conakry (Madina),riz,GNF/kg,6858.0
+2023-01-29,Conakry (Madina),riz,GNF/kg,6990.0
+2023-02-05,Conakry (Madina),riz,GNF/kg,6232.0
+2023-02-12,Conakry (Madina),riz,GNF/kg,6488.0
+2023-02-19,Conakry (Madina),riz,GNF/kg,6391.0
+2023-02-26,Conakry (Madina),riz,GNF/kg,6561.0
+2023-03-05,Conakry (Madina),riz,GNF/kg,6790.0
+2023-03-12,Conakry (Madina),riz,GNF/kg,6693.0
+2023-03-19,Conakry (Madina),riz,GNF/kg,6604.0
+2023-03-26,Conakry (Madina),riz,GNF/kg,6622.0
+2023-04-02,Conakry (Madina),riz,GNF/kg,6755.0
+2023-04-09,Conakry (Madina),riz,GNF/kg,6585.0
+2023-04-16,Conakry (Madina),riz,GNF/kg,6888.0
+2023-04-23,Conakry (Madina),riz,GNF/kg,6689.0
+2023-04-30,Conakry (Madina),riz,GNF/kg,6949.0
+2023-05-07,Conakry (Madina),riz,GNF/kg,6586.0
+2023-05-14,Conakry (Madina),riz,GNF/kg,6991.0
+2023-05-21,Conakry (Madina),riz,GNF/kg,6965.0
+2023-05-28,Conakry (Madina),riz,GNF/kg,6899.0
+2023-06-04,Conakry (Madina),riz,GNF/kg,7099.0
+2023-06-11,Conakry (Madina),riz,GNF/kg,6917.0
+2023-06-18,Conakry (Madina),riz,GNF/kg,6891.0
+2023-06-25,Conakry (Madina),riz,GNF/kg,6957.0
+2023-07-02,Conakry (Madina),riz,GNF/kg,7095.0
+2023-07-09,Conakry (Madina),riz,GNF/kg,6843.0
+2023-07-16,Conakry (Madina),riz,GNF/kg,6978.0
+2023-07-23,Conakry (Madina),riz,GNF/kg,6800.0
+2023-07-30,Conakry (Madina),riz,GNF/kg,6809.0
+2023-08-06,Conakry (Madina),riz,GNF/kg,6770.0
+2023-08-13,Conakry (Madina),riz,GNF/kg,6733.0
+2023-08-20,Conakry (Madina),riz,GNF/kg,6898.0
+2023-08-27,Conakry (Madina),riz,GNF/kg,6667.0
+2023-09-03,Conakry (Madina),riz,GNF/kg,6509.0
+2023-09-10,Conakry (Madina),riz,GNF/kg,
+2023-09-17,Conakry (Madina),riz,GNF/kg,6597.0
+2023-09-24,Conakry (Madina),riz,GNF/kg,6432.0
+2023-10-01,Conakry (Madina),riz,GNF/kg,6265.0
+2023-10-08,Conakry (Madina),riz,GNF/kg,6553.0
+2023-10-15,Conakry (Madina),riz,GNF/kg,6801.0
+2023-10-22,Conakry (Madina),riz,GNF/kg,6552.0
+2023-10-29,Conakry (Madina),riz,GNF/kg,6389.0
+2023-11-05,Conakry (Madina),riz,GNF/kg,6959.0
+2023-11-12,Conakry (Madina),riz,GNF/kg,7073.0
+2023-11-19,Conakry (Madina),riz,GNF/kg,6828.0
+2023-11-26,Conakry (Madina),riz,GNF/kg,6757.0
+2023-12-03,Conakry (Madina),riz,GNF/kg,6995.0
+2023-12-10,Conakry (Madina),riz,GNF/kg,6990.0
+2023-12-17,Conakry (Madina),riz,GNF/kg,6760.0
+2023-12-24,Conakry (Madina),riz,GNF/kg,6952.0
+2023-12-31,Conakry (Madina),riz,GNF/kg,6921.0
+2024-01-07,Conakry (Madina),riz,GNF/kg,6847.0
+2024-01-14,Conakry (Madina),riz,GNF/kg,7044.0
+2024-01-21,Conakry (Madina),riz,GNF/kg,6939.0
+2024-01-28,Conakry (Madina),riz,GNF/kg,7305.0
+2024-02-04,Conakry (Madina),riz,GNF/kg,
+2024-02-11,Conakry (Madina),riz,GNF/kg,7364.0
+2024-02-18,Conakry (Madina),riz,GNF/kg,7476.0
+2024-02-25,Conakry (Madina),riz,GNF/kg,7186.0
+2024-03-03,Conakry (Madina),riz,GNF/kg,7377.0
+2024-03-10,Conakry (Madina),riz,GNF/kg,7521.0
+2024-03-17,Conakry (Madina),riz,GNF/kg,7402.0
+2024-03-24,Conakry (Madina),riz,GNF/kg,7722.0
+2024-03-31,Conakry (Madina),riz,GNF/kg,
+2024-04-07,Conakry (Madina),riz,GNF/kg,7742.0
+2024-04-14,Conakry (Madina),riz,GNF/kg,7888.0
+2024-04-21,Conakry (Madina),riz,GNF/kg,7997.0
+2024-04-28,Conakry (Madina),riz,GNF/kg,8067.0
+2024-05-05,Conakry (Madina),riz,GNF/kg,7260.0
+2024-05-12,Conakry (Madina),riz,GNF/kg,7597.0
+2024-05-19,Conakry (Madina),riz,GNF/kg,7811.0
+2024-05-26,Conakry (Madina),riz,GNF/kg,7389.0
+2024-06-02,Conakry (Madina),riz,GNF/kg,7401.0
+2024-06-09,Conakry (Madina),riz,GNF/kg,7630.0
+2024-06-16,Conakry (Madina),riz,GNF/kg,7642.0
+2024-06-23,Conakry (Madina),riz,GNF/kg,7686.0
+2024-06-30,Conakry (Madina),riz,GNF/kg,
+2024-07-07,Conakry (Madina),riz,GNF/kg,7351.0
+2024-07-14,Conakry (Madina),riz,GNF/kg,7640.0
+2024-07-21,Conakry (Madina),riz,GNF/kg,7448.0
+2024-07-28,Conakry (Madina),riz,GNF/kg,7664.0
+2024-08-04,Conakry (Madina),riz,GNF/kg,7372.0
+2024-08-11,Conakry (Madina),riz,GNF/kg,7367.0
+2024-08-18,Conakry (Madina),riz,GNF/kg,7621.0
+2024-08-25,Conakry (Madina),riz,GNF/kg,7343.0
+2024-09-01,Conakry (Madina),riz,GNF/kg,7308.0
+2024-09-08,Conakry (Madina),riz,GNF/kg,7056.0
+2024-09-15,Conakry (Madina),riz,GNF/kg,7367.0
+2024-09-22,Conakry (Madina),riz,GNF/kg,7102.0
+2024-09-29,Conakry (Madina),riz,GNF/kg,7106.0
+2024-10-06,Conakry (Madina),riz,GNF/kg,6818.0
+2024-10-13,Conakry (Madina),riz,GNF/kg,7236.0
+2024-10-20,Conakry (Madina),riz,GNF/kg,6879.0
+2024-10-27,Conakry (Madina),riz,GNF/kg,6916.0
+2024-11-03,Conakry (Madina),riz,GNF/kg,
+2024-11-10,Conakry (Madina),riz,GNF/kg,7081.0
+2024-11-17,Conakry (Madina),riz,GNF/kg,6887.0
+2024-11-24,Conakry (Madina),riz,GNF/kg,7192.0
+2024-12-01,Conakry (Madina),riz,GNF/kg,7112.0
+2024-12-08,Conakry (Madina),riz,GNF/kg,7232.0
+2024-12-15,Conakry (Madina),riz,GNF/kg,7417.0
+2024-12-22,Conakry (Madina),riz,GNF/kg,7357.0
+2024-12-29,Conakry (Madina),riz,GNF/kg,7495.0
+2019-01-06,Kankan,riz,GNF/kg,4833.0
+2019-01-13,Kankan,riz,GNF/kg,4681.0
+2019-01-20,Kankan,riz,GNF/kg,4744.0
+2019-01-27,Kankan,riz,GNF/kg,4755.0
+2019-02-03,Kankan,riz,GNF/kg,4850.0
+2019-02-10,Kankan,riz,GNF/kg,4872.0
+2019-02-17,Kankan,riz,GNF/kg,4794.0
+2019-02-24,Kankan,riz,GNF/kg,5046.0
+2019-03-03,Kankan,riz,GNF/kg,4896.0
+2019-03-10,Kankan,riz,GNF/kg,5087.0
+2019-03-17,Kankan,riz,GNF/kg,5007.0
+2019-03-24,Kankan,riz,GNF/kg,5184.0
+2019-03-31,Kankan,riz,GNF/kg,5149.0
+2019-04-07,Kankan,riz,GNF/kg,5197.0
+2019-04-14,Kankan,riz,GNF/kg,5271.0
+2019-04-21,Kankan,riz,GNF/kg,5223.0
+2019-04-28,Kankan,riz,GNF/kg,5294.0
+2019-05-05,Kankan,riz,GNF/kg,5333.0
+2019-05-12,Kankan,riz,GNF/kg,5275.0
+2019-05-19,Kankan,riz,GNF/kg,
+2019-05-26,Kankan,riz,GNF/kg,5426.0
+2019-06-02,Kankan,riz,GNF/kg,5347.0
+2019-06-09,Kankan,riz,GNF/kg,5373.0
+2019-06-16,Kankan,riz,GNF/kg,5369.0
+2019-06-23,Kankan,riz,GNF/kg,5391.0
+2019-06-30,Kankan,riz,GNF/kg,5288.0
+2019-07-07,Kankan,riz,GNF/kg,5461.0
+2019-07-14,Kankan,riz,GNF/kg,5374.0
+2019-07-21,Kankan,riz,GNF/kg,5318.0
+2019-07-28,Kankan,riz,GNF/kg,
+2019-08-04,Kankan,riz,GNF/kg,5117.0
+2019-08-11,Kankan,riz,GNF/kg,5218.0
+2019-08-18,Kankan,riz,GNF/kg,5363.0
+2019-08-25,Kankan,riz,GNF/kg,5211.0
+2019-09-01,Kankan,riz,GNF/kg,5151.0
+2019-09-08,Kankan,riz,GNF/kg,5038.0
+2019-09-15,Kankan,riz,GNF/kg,
+2019-09-22,Kankan,riz,GNF/kg,5335.0
+2019-09-29,Kankan,riz,GNF/kg,5141.0
+2019-10-06,Kankan,riz,GNF/kg,4922.0
+2019-10-13,Kankan,riz,GNF/kg,4922.0
+2019-10-20,Kankan,riz,GNF/kg,4965.0
+2019-10-27,Kankan,riz,GNF/kg,4814.0
+2019-11-03,Kankan,riz,GNF/kg,
+2019-11-10,Kankan,riz,GNF/kg,5046.0
+2019-11-17,Kankan,riz,GNF/kg,4828.0
+2019-11-24,Kankan,riz,GNF/kg,4933.0
+2019-12-01,Kankan,riz,GNF/kg,4947.0
+2019-12-08,Kankan,riz,GNF/kg,4971.0
+2019-12-15,Kankan,riz,GNF/kg,5111.0
+2019-12-22,Kankan,riz,GNF/kg,4908.0
+2019-12-29,Kankan,riz,GNF/kg,5193.0
+2020-01-05,Kankan,riz,GNF/kg,5260.0
+2020-01-12,Kankan,riz,GNF/kg,5079.0
+2020-01-19,Kankan,riz,GNF/kg,4903.0
+2020-01-26,Kankan,riz,GNF/kg,5075.0
+2020-02-02,Kankan,riz,GNF/kg,5313.0
+2020-02-09,Kankan,riz,GNF/kg,4982.0
+2020-02-16,Kankan,riz,GNF/kg,5380.0
+2020-02-23,Kankan,riz,GNF/kg,5263.0
+2020-03-01,Kankan,riz,GNF/kg,5943.0
+2020-03-08,Kankan,riz,GNF/kg,5714.0
+2020-03-15,Kankan,riz,GNF/kg,5868.0
+2020-03-22,Kankan,riz,GNF/kg,5960.0
+2020-03-29,Kankan,riz,GNF/kg,6170.0
+2020-04-05,Kankan,riz,GNF/kg,6044.0
+2020-04-12,Kankan,riz,GNF/kg,6159.0
+2020-04-19,Kankan,riz,GNF/kg,5947.0
+2020-04-26,Kankan,riz,GNF/kg,6190.0
+2020-05-03,Kankan,riz,GNF/kg,6079.0
+2020-05-10,Kankan,riz,GNF/kg,6083.0
+2020-05-17,Kankan,riz,GNF/kg,6057.0
+2020-05-24,Kankan,riz,GNF/kg,5867.0
+2020-05-31,Kankan,riz,GNF/kg,6034.0
+2020-06-07,Kankan,riz,GNF/kg,6301.0
+2020-06-14,Kankan,riz,GNF/kg,6258.0
+2020-06-21,Kankan,riz,GNF/kg,6116.0
+2020-06-28,Kankan,riz,GNF/kg,6208.0
+2020-07-05,Kankan,riz,GNF/kg,6293.0
+2020-07-12,Kankan,riz,GNF/kg,6053.0
+2020-07-19,Kankan,riz,GNF/kg,6075.0
+2020-07-26,Kankan,riz,GNF/kg,6275.0
+2020-08-02,Kankan,riz,GNF/kg,6133.0
+2020-08-09,Kankan,riz,GNF/kg,6108.0
+2020-08-16,Kankan,riz,GNF/kg,6219.0
+2020-08-23,Kankan,riz,GNF/kg,5993.0
+2020-08-30,Kankan,riz,GNF/kg,6064.0
+2020-09-06,Kankan,riz,GNF/kg,6230.0
+2020-09-13,Kankan,riz,GNF/kg,5934.0
+2020-09-20,Kankan,riz,GNF/kg,5505.0
+2020-09-27,Kankan,riz,GNF/kg,5635.0
+2020-10-04,Kankan,riz,GNF/kg,5537.0
+2020-10-11,Kankan,riz,GNF/kg,5393.0
+2020-10-18,Kankan,riz,GNF/kg,5289.0
+2020-10-25,Kankan,riz,GNF/kg,5623.0
+2020-11-01,Kankan,riz,GNF/kg,5309.0
+2020-11-08,Kankan,riz,GNF/kg,5152.0
+2020-11-15,Kankan,riz,GNF/kg,5307.0
+2020-11-22,Kankan,riz,GNF/kg,5222.0
+2020-11-29,Kankan,riz,GNF/kg,5324.0
+2020-12-06,Kankan,riz,GNF/kg,5400.0
+2020-12-13,Kankan,riz,GNF/kg,5251.0
+2020-12-20,Kankan,riz,GNF/kg,5577.0
+2020-12-27,Kankan,riz,GNF/kg,5732.0
+2021-01-03,Kankan,riz,GNF/kg,5666.0
+2021-01-10,Kankan,riz,GNF/kg,5532.0
+2021-01-17,Kankan,riz,GNF/kg,5559.0
+2021-01-24,Kankan,riz,GNF/kg,5560.0
+2021-01-31,Kankan,riz,GNF/kg,5631.0
+2021-02-07,Kankan,riz,GNF/kg,5753.0
+2021-02-14,Kankan,riz,GNF/kg,5809.0
+2021-02-21,Kankan,riz,GNF/kg,5652.0
+2021-02-28,Kankan,riz,GNF/kg,6003.0
+2021-03-07,Kankan,riz,GNF/kg,5878.0
+2021-03-14,Kankan,riz,GNF/kg,5918.0
+2021-03-21,Kankan,riz,GNF/kg,5857.0
+2021-03-28,Kankan,riz,GNF/kg,
+2021-04-04,Kankan,riz,GNF/kg,6224.0
+2021-04-11,Kankan,riz,GNF/kg,6242.0
+2021-04-18,Kankan,riz,GNF/kg,
+2021-04-25,Kankan,riz,GNF/kg,6347.0
+2021-05-02,Kankan,riz,GNF/kg,6232.0
+2021-05-09,Kankan,riz,GNF/kg,6066.0
+2021-05-16,Kankan,riz,GNF/kg,6270.0
+2021-05-23,Kankan,riz,GNF/kg,6415.0
+2021-05-30,Kankan,riz,GNF/kg,6459.0
+2021-06-06,Kankan,riz,GNF/kg,6515.0
+2021-06-13,Kankan,riz,GNF/kg,6589.0
+2021-06-20,Kankan,riz,GNF/kg,6557.0
+2021-06-27,Kankan,riz,GNF/kg,6467.0
+2021-07-04,Kankan,riz,GNF/kg,5956.0
+2021-07-11,Kankan,riz,GNF/kg,6221.0
+2021-07-18,Kankan,riz,GNF/kg,6148.0
+2021-07-25,Kankan,riz,GNF/kg,6057.0
+2021-08-01,Kankan,riz,GNF/kg,6234.0
+2021-08-08,Kankan,riz,GNF/kg,6243.0
+2021-08-15,Kankan,riz,GNF/kg,5938.0
+2021-08-22,Kankan,riz,GNF/kg,6150.0
+2021-08-29,Kankan,riz,GNF/kg,6074.0
+2021-09-05,Kankan,riz,GNF/kg,6213.0
+2021-09-12,Kankan,riz,GNF/kg,6575.0
+2021-09-19,Kankan,riz,GNF/kg,6236.0
+2021-09-26,Kankan,riz,GNF/kg,6167.0
+2021-10-03,Kankan,riz,GNF/kg,5588.0
+2021-10-10,Kankan,riz,GNF/kg,6056.0
+2021-10-17,Kankan,riz,GNF/kg,5867.0
+2021-10-24,Kankan,riz,GNF/kg,5779.0
+2021-10-31,Kankan,riz,GNF/kg,5850.0
+2021-11-07,Kankan,riz,GNF/kg,5658.0
+2021-11-14,Kankan,riz,GNF/kg,6062.0
+2021-11-21,Kankan,riz,GNF/kg,5901.0
+2021-11-28,Kankan,riz,GNF/kg,5905.0
+2021-12-05,Kankan,riz,GNF/kg,5812.0
+2021-12-12,Kankan,riz,GNF/kg,5730.0
+2021-12-19,Kankan,riz,GNF/kg,5934.0
+2021-12-26,Kankan,riz,GNF/kg,5969.0
+2022-01-02,Kankan,riz,GNF/kg,6220.0
+2022-01-09,Kankan,riz,GNF/kg,6163.0
+2022-01-16,Kankan,riz,GNF/kg,6317.0
+2022-01-23,Kankan,riz,GNF/kg,6175.0
+2022-01-30,Kankan,riz,GNF/kg,6424.0
+2022-02-06,Kankan,riz,GNF/kg,5996.0
+2022-02-13,Kankan,riz,GNF/kg,6361.0
+2022-02-20,Kankan,riz,GNF/kg,6637.0
+2022-02-27,Kankan,riz,GNF/kg,6409.0
+2022-03-06,Kankan,riz,GNF/kg,6955.0
+2022-03-13,Kankan,riz,GNF/kg,6844.0
+2022-03-20,Kankan,riz,GNF/kg,7048.0
+2022-03-27,Kankan,riz,GNF/kg,7067.0
+2022-04-03,Kankan,riz,GNF/kg,
+2022-04-10,Kankan,riz,GNF/kg,7219.0
+2022-04-17,Kankan,riz,GNF/kg,7343.0
+2022-04-24,Kankan,riz,GNF/kg,7585.0
+2022-05-01,Kankan,riz,GNF/kg,7430.0
+2022-05-08,Kankan,riz,GNF/kg,7240.0
+2022-05-15,Kankan,riz,GNF/kg,7405.0
+2022-05-22,Kankan,riz,GNF/kg,7508.0
+2022-05-29,Kankan,riz,GNF/kg,7641.0
+2022-06-05,Kankan,riz,GNF/kg,7768.0
+2022-06-12,Kankan,riz,GNF/kg,7614.0
+2022-06-19,Kankan,riz,GNF/kg,7542.0
+2022-06-26,Kankan,riz,GNF/kg,7625.0
+2022-07-03,Kankan,riz,GNF/kg,7486.0
+2022-07-10,Kankan,riz,GNF/kg,7619.0
+2022-07-17,Kankan,riz,GNF/kg,7637.0
+2022-07-24,Kankan,riz,GNF/kg,7564.0
+2022-07-31,Kankan,riz,GNF/kg,7321.0
+2022-08-07,Kankan,riz,GNF/kg,7439.0
+2022-08-14,Kankan,riz,GNF/kg,7546.0
+2022-08-21,Kankan,riz,GNF/kg,7204.0
+2022-08-28,Kankan,riz,GNF/kg,
+2022-09-04,Kankan,riz,GNF/kg,7356.0
+2022-09-11,Kankan,riz,GNF/kg,7585.0
+2022-09-18,Kankan,riz,GNF/kg,7304.0
+2022-09-25,Kankan,riz,GNF/kg,7443.0
+2022-10-02,Kankan,riz,GNF/kg,7394.0
+2022-10-09,Kankan,riz,GNF/kg,7213.0
+2022-10-16,Kankan,riz,GNF/kg,7065.0
+2022-10-23,Kankan,riz,GNF/kg,6989.0
+2022-10-30,Kankan,riz,GNF/kg,7030.0
+2022-11-06,Kankan,riz,GNF/kg,7128.0
+2022-11-13,Kankan,riz,GNF/kg,7098.0
+2022-11-20,Kankan,riz,GNF/kg,7184.0
+2022-11-27,Kankan,riz,GNF/kg,7388.0
+2022-12-04,Kankan,riz,GNF/kg,7238.0
+2022-12-11,Kankan,riz,GNF/kg,7354.0
+2022-12-18,Kankan,riz,GNF/kg,7154.0
+2022-12-25,Kankan,riz,GNF/kg,7358.0
+2023-01-01,Kankan,riz,GNF/kg,7167.0
+2023-01-08,Kankan,riz,GNF/kg,7281.0
+2023-01-15,Kankan,riz,GNF/kg,7162.0
+2023-01-22,Kankan,riz,GNF/kg,7325.0
+2023-01-29,Kankan,riz,GNF/kg,7432.0
+2023-02-05,Kankan,riz,GNF/kg,6909.0
+2023-02-12,Kankan,riz,GNF/kg,6831.0
+2023-02-19,Kankan,riz,GNF/kg,6725.0
+2023-02-26,Kankan,riz,GNF/kg,6884.0
+2023-03-05,Kankan,riz,GNF/kg,6958.0
+2023-03-12,Kankan,riz,GNF/kg,7052.0
+2023-03-19,Kankan,riz,GNF/kg,7264.0
+2023-03-26,Kankan,riz,GNF/kg,7350.0
+2023-04-02,Kankan,riz,GNF/kg,7236.0
+2023-04-09,Kankan,riz,GNF/kg,7024.0
+2023-04-16,Kankan,riz,GNF/kg,7335.0
+2023-04-23,Kankan,riz,GNF/kg,7272.0
+2023-04-30,Kankan,riz,GNF/kg,7625.0
+2023-05-07,Kankan,riz,GNF/kg,7232.0
+2023-05-14,Kankan,riz,GNF/kg,7600.0
+2023-05-21,Kankan,riz,GNF/kg,7955.0
+2023-05-28,Kankan,riz,GNF/kg,7614.0
+2023-06-04,Kankan,riz,GNF/kg,7708.0
+2023-06-11,Kankan,riz,GNF/kg,7508.0
+2023-06-18,Kankan,riz,GNF/kg,7517.0
+2023-06-25,Kankan,riz,GNF/kg,7634.0
+2023-07-02,Kankan,riz,GNF/kg,7532.0
+2023-07-09,Kankan,riz,GNF/kg,7633.0
+2023-07-16,Kankan,riz,GNF/kg,7268.0
+2023-07-23,Kankan,riz,GNF/kg,7300.0
+2023-07-30,Kankan,riz,GNF/kg,7327.0
+2023-08-06,Kankan,riz,GNF/kg,7159.0
+2023-08-13,Kankan,riz,GNF/kg,7230.0
+2023-08-20,Kankan,riz,GNF/kg,7104.0
+2023-08-27,Kankan,riz,GNF/kg,7072.0
+2023-09-03,Kankan,riz,GNF/kg,7024.0
+2023-09-10,Kankan,riz,GNF/kg,6854.0
+2023-09-17,Kankan,riz,GNF/kg,7303.0
+2023-09-24,Kankan,riz,GNF/kg,6959.0
+2023-10-01,Kankan,riz,GNF/kg,6977.0
+2023-10-08,Kankan,riz,GNF/kg,6931.0
+2023-10-15,Kankan,riz,GNF/kg,7226.0
+2023-10-22,Kankan,riz,GNF/kg,6987.0
+2023-10-29,Kankan,riz,GNF/kg,7177.0
+2023-11-05,Kankan,riz,GNF/kg,7440.0
+2023-11-12,Kankan,riz,GNF/kg,7513.0
+2023-11-19,Kankan,riz,GNF/kg,7462.0
+2023-11-26,Kankan,riz,GNF/kg,7104.0
+2023-12-03,Kankan,riz,GNF/kg,7476.0
+2023-12-10,Kankan,riz,GNF/kg,7792.0
+2023-12-17,Kankan,riz,GNF/kg,7512.0
+2023-12-24,Kankan,riz,GNF/kg,7526.0
+2023-12-31,Kankan,riz,GNF/kg,7513.0
+2024-01-07,Kankan,riz,GNF/kg,7636.0
+2024-01-14,Kankan,riz,GNF/kg,7313.0
+2024-01-21,Kankan,riz,GNF/kg,7463.0
+2024-01-28,Kankan,riz,GNF/kg,7737.0
+2024-02-04,Kankan,riz,GNF/kg,7740.0
+2024-02-11,Kankan,riz,GNF/kg,8166.0
+2024-02-18,Kankan,riz,GNF/kg,7982.0
+2024-02-25,Kankan,riz,GNF/kg,
+2024-03-03,Kankan,riz,GNF/kg,7951.0
+2024-03-10,Kankan,riz,GNF/kg,7787.0
+2024-03-17,Kankan,riz,GNF/kg,8109.0
+2024-03-24,Kankan,riz,GNF/kg,8216.0
+2024-03-31,Kankan,riz,GNF/kg,8224.0
+2024-04-07,Kankan,riz,GNF/kg,8672.0
+2024-04-14,Kankan,riz,GNF/kg,8800.0
+2024-04-21,Kankan,riz,GNF/kg,8581.0
+2024-04-28,Kankan,riz,GNF/kg,8194.0
+2024-05-05,Kankan,riz,GNF/kg,8096.0
+2024-05-12,Kankan,riz,GNF/kg,8247.0
+2024-05-19,Kankan,riz,GNF/kg,8226.0
+2024-05-26,Kankan,riz,GNF/kg,
+2024-06-02,Kankan,riz,GNF/kg,8009.0
+2024-06-09,Kankan,riz,GNF/kg,8580.0
+2024-06-16,Kankan,riz,GNF/kg,8192.0
+2024-06-23,Kankan,riz,GNF/kg,8292.0
+2024-06-30,Kankan,riz,GNF/kg,7916.0
+2024-07-07,Kankan,riz,GNF/kg,8058.0
+2024-07-14,Kankan,riz,GNF/kg,8392.0
+2024-07-21,Kankan,riz,GNF/kg,8089.0
+2024-07-28,Kankan,riz,GNF/kg,8216.0
+2024-08-04,Kankan,riz,GNF/kg,8085.0
+2024-08-11,Kankan,riz,GNF/kg,8032.0
+2024-08-18,Kankan,riz,GNF/kg,8347.0
+2024-08-25,Kankan,riz,GNF/kg,7788.0
+2024-09-01,Kankan,riz,GNF/kg,7575.0
+2024-09-08,Kankan,riz,GNF/kg,7746.0
+2024-09-15,Kankan,riz,GNF/kg,7958.0
+2024-09-22,Kankan,riz,GNF/kg,7874.0
+2024-09-29,Kankan,riz,GNF/kg,7416.0
+2024-10-06,Kankan,riz,GNF/kg,7464.0
+2024-10-13,Kankan,riz,GNF/kg,
+2024-10-20,Kankan,riz,GNF/kg,7493.0
+2024-10-27,Kankan,riz,GNF/kg,7456.0
+2024-11-03,Kankan,riz,GNF/kg,7517.0
+2024-11-10,Kankan,riz,GNF/kg,
+2024-11-17,Kankan,riz,GNF/kg,7639.0
+2024-11-24,Kankan,riz,GNF/kg,7674.0
+2024-12-01,Kankan,riz,GNF/kg,7724.0
+2024-12-08,Kankan,riz,GNF/kg,7748.0
+2024-12-15,Kankan,riz,GNF/kg,
+2024-12-22,Kankan,riz,GNF/kg,
+2024-12-29,Kankan,riz,GNF/kg,7857.0
+2019-01-06,Kindia,riz,GNF/kg,
+2019-01-13,Kindia,riz,GNF/kg,4540.0
+2019-01-20,Kindia,riz,GNF/kg,4658.0
+2019-01-27,Kindia,riz,GNF/kg,4552.0
+2019-02-03,Kindia,riz,GNF/kg,4519.0
+2019-02-10,Kindia,riz,GNF/kg,4763.0
+2019-02-17,Kindia,riz,GNF/kg,4836.0
+2019-02-24,Kindia,riz,GNF/kg,4677.0
+2019-03-03,Kindia,riz,GNF/kg,4590.0
+2019-03-10,Kindia,riz,GNF/kg,4787.0
+2019-03-17,Kindia,riz,GNF/kg,4788.0
+2019-03-24,Kindia,riz,GNF/kg,4908.0
+2019-03-31,Kindia,riz,GNF/kg,4901.0
+2019-04-07,Kindia,riz,GNF/kg,5059.0
+2019-04-14,Kindia,riz,GNF/kg,5131.0
+2019-04-21,Kindia,riz,GNF/kg,4973.0
+2019-04-28,Kindia,riz,GNF/kg,5101.0
+2019-05-05,Kindia,riz,GNF/kg,5257.0
+2019-05-12,Kindia,riz,GNF/kg,5043.0
+2019-05-19,Kindia,riz,GNF/kg,5076.0
+2019-05-26,Kindia,riz,GNF/kg,5086.0
+2019-06-02,Kindia,riz,GNF/kg,5235.0
+2019-06-09,Kindia,riz,GNF/kg,4991.0
+2019-06-16,Kindia,riz,GNF/kg,5239.0
+2019-06-23,Kindia,riz,GNF/kg,5155.0
+2019-06-30,Kindia,riz,GNF/kg,5307.0
+2019-07-07,Kindia,riz,GNF/kg,5101.0
+2019-07-14,Kindia,riz,GNF/kg,5289.0
+2019-07-21,Kindia,riz,GNF/kg,5043.0
+2019-07-28,Kindia,riz,GNF/kg,5184.0
+2019-08-04,Kindia,riz,GNF/kg,5148.0
+2019-08-11,Kindia,riz,GNF/kg,5126.0
+2019-08-18,Kindia,riz,GNF/kg,5110.0
+2019-08-25,Kindia,riz,GNF/kg,5121.0
+2019-09-01,Kindia,riz,GNF/kg,4909.0
+2019-09-08,Kindia,riz,GNF/kg,4819.0
+2019-09-15,Kindia,riz,GNF/kg,5011.0
+2019-09-22,Kindia,riz,GNF/kg,4877.0
+2019-09-29,Kindia,riz,GNF/kg,
+2019-10-06,Kindia,riz,GNF/kg,4718.0
+2019-10-13,Kindia,riz,GNF/kg,4626.0
+2019-10-20,Kindia,riz,GNF/kg,4671.0
+2019-10-27,Kindia,riz,GNF/kg,4871.0
+2019-11-03,Kindia,riz,GNF/kg,4716.0
+2019-11-10,Kindia,riz,GNF/kg,4550.0
+2019-11-17,Kindia,riz,GNF/kg,4863.0
+2019-11-24,Kindia,riz,GNF/kg,
+2019-12-01,Kindia,riz,GNF/kg,4804.0
+2019-12-08,Kindia,riz,GNF/kg,4755.0
+2019-12-15,Kindia,riz,GNF/kg,4993.0
+2019-12-22,Kindia,riz,GNF/kg,4949.0
+2019-12-29,Kindia,riz,GNF/kg,5162.0
+2020-01-05,Kindia,riz,GNF/kg,5034.0
+2020-01-12,Kindia,riz,GNF/kg,4949.0
+2020-01-19,Kindia,riz,GNF/kg,4934.0
+2020-01-26,Kindia,riz,GNF/kg,5054.0
+2020-02-02,Kindia,riz,GNF/kg,5060.0
+2020-02-09,Kindia,riz,GNF/kg,5171.0
+2020-02-16,Kindia,riz,GNF/kg,5165.0
+2020-02-23,Kindia,riz,GNF/kg,5138.0
+2020-03-01,Kindia,riz,GNF/kg,5604.0
+2020-03-08,Kindia,riz,GNF/kg,5639.0
+2020-03-15,Kindia,riz,GNF/kg,5753.0
+2020-03-22,Kindia,riz,GNF/kg,5644.0
+2020-03-29,Kindia,riz,GNF/kg,5730.0
+2020-04-05,Kindia,riz,GNF/kg,5868.0
+2020-04-12,Kindia,riz,GNF/kg,5872.0
+2020-04-19,Kindia,riz,GNF/kg,5956.0
+2020-04-26,Kindia,riz,GNF/kg,5636.0
+2020-05-03,Kindia,riz,GNF/kg,5848.0
+2020-05-10,Kindia,riz,GNF/kg,5836.0
+2020-05-17,Kindia,riz,GNF/kg,5615.0
+2020-05-24,Kindia,riz,GNF/kg,5707.0
+2020-05-31,Kindia,riz,GNF/kg,5701.0
+2020-06-07,Kindia,riz,GNF/kg,5957.0
+2020-06-14,Kindia,riz,GNF/kg,6104.0
+2020-06-21,Kindia,riz,GNF/kg,6018.0
+2020-06-28,Kindia,riz,GNF/kg,
+2020-07-05,Kindia,riz,GNF/kg,5983.0
+2020-07-12,Kindia,riz,GNF/kg,6110.0
+2020-07-19,Kindia,riz,GNF/kg,5859.0
+2020-07-26,Kindia,riz,GNF/kg,5871.0
+2020-08-02,Kindia,riz,GNF/kg,5934.0
+2020-08-09,Kindia,riz,GNF/kg,5821.0
+2020-08-16,Kindia,riz,GNF/kg,5871.0
+2020-08-23,Kindia,riz,GNF/kg,5724.0
+2020-08-30,Kindia,riz,GNF/kg,5844.0
+2020-09-06,Kindia,riz,GNF/kg,5635.0
+2020-09-13,Kindia,riz,GNF/kg,5734.0
+2020-09-20,Kindia,riz,GNF/kg,5358.0
+2020-09-27,Kindia,riz,GNF/kg,5266.0
+2020-10-04,Kindia,riz,GNF/kg,5136.0
+2020-10-11,Kindia,riz,GNF/kg,5312.0
+2020-10-18,Kindia,riz,GNF/kg,5160.0
+2020-10-25,Kindia,riz,GNF/kg,5087.0
+2020-11-01,Kindia,riz,GNF/kg,5070.0
+2020-11-08,Kindia,riz,GNF/kg,5145.0
+2020-11-15,Kindia,riz,GNF/kg,4794.0
+2020-11-22,Kindia,riz,GNF/kg,4891.0
+2020-11-29,Kindia,riz,GNF/kg,5061.0
+2020-12-06,Kindia,riz,GNF/kg,5289.0
+2020-12-13,Kindia,riz,GNF/kg,5213.0
+2020-12-20,Kindia,riz,GNF/kg,5411.0
+2020-12-27,Kindia,riz,GNF/kg,5215.0
+2021-01-03,Kindia,riz,GNF/kg,5298.0
+2021-01-10,Kindia,riz,GNF/kg,5410.0
+2021-01-17,Kindia,riz,GNF/kg,5410.0
+2021-01-24,Kindia,riz,GNF/kg,5450.0
+2021-01-31,Kindia,riz,GNF/kg,5430.0
+2021-02-07,Kindia,riz,GNF/kg,5606.0
+2021-02-14,Kindia,riz,GNF/kg,5517.0
+2021-02-21,Kindia,riz,GNF/kg,5697.0
+2021-02-28,Kindia,riz,GNF/kg,5775.0
+2021-03-07,Kindia,riz,GNF/kg,5534.0
+2021-03-14,Kindia,riz,GNF/kg,5431.0
+2021-03-21,Kindia,riz,GNF/kg,5857.0
+2021-03-28,Kindia,riz,GNF/kg,5906.0
+2021-04-04,Kindia,riz,GNF/kg,5762.0
+2021-04-11,Kindia,riz,GNF/kg,5722.0
+2021-04-18,Kindia,riz,GNF/kg,6068.0
+2021-04-25,Kindia,riz,GNF/kg,6122.0
+2021-05-02,Kindia,riz,GNF/kg,6145.0
+2021-05-09,Kindia,riz,GNF/kg,6060.0
+2021-05-16,Kindia,riz,GNF/kg,6002.0
+2021-05-23,Kindia,riz,GNF/kg,6047.0
+2021-05-30,Kindia,riz,GNF/kg,6163.0
+2021-06-06,Kindia,riz,GNF/kg,6224.0
+2021-06-13,Kindia,riz,GNF/kg,
+2021-06-20,Kindia,riz,GNF/kg,6374.0
+2021-06-27,Kindia,riz,GNF/kg,
+2021-07-04,Kindia,riz,GNF/kg,6153.0
+2021-07-11,Kindia,riz,GNF/kg,5927.0
+2021-07-18,Kindia,riz,GNF/kg,6028.0
+2021-07-25,Kindia,riz,GNF/kg,6084.0
+2021-08-01,Kindia,riz,GNF/kg,6039.0
+2021-08-08,Kindia,riz,GNF/kg,6011.0
+2021-08-15,Kindia,riz,GNF/kg,5900.0
+2021-08-22,Kindia,riz,GNF/kg,5965.0
+2021-08-29,Kindia,riz,GNF/kg,6013.0
+2021-09-05,Kindia,riz,GNF/kg,6090.0
+2021-09-12,Kindia,riz,GNF/kg,5986.0
+2021-09-19,Kindia,riz,GNF/kg,6072.0
+2021-09-26,Kindia,riz,GNF/kg,5830.0
+2021-10-03,Kindia,riz,GNF/kg,5444.0
+2021-10-10,Kindia,riz,GNF/kg,5812.0
+2021-10-17,Kindia,riz,GNF/kg,5770.0
+2021-10-24,Kindia,riz,GNF/kg,5730.0
+2021-10-31,Kindia,riz,GNF/kg,5599.0
+2021-11-07,Kindia,riz,GNF/kg,5746.0
+2021-11-14,Kindia,riz,GNF/kg,5711.0
+2021-11-21,Kindia,riz,GNF/kg,5739.0
+2021-11-28,Kindia,riz,GNF/kg,5590.0
+2021-12-05,Kindia,riz,GNF/kg,5693.0
+2021-12-12,Kindia,riz,GNF/kg,5587.0
+2021-12-19,Kindia,riz,GNF/kg,5497.0
+2021-12-26,Kindia,riz,GNF/kg,5715.0
+2022-01-02,Kindia,riz,GNF/kg,5910.0
+2022-01-09,Kindia,riz,GNF/kg,6132.0
+2022-01-16,Kindia,riz,GNF/kg,6125.0
+2022-01-23,Kindia,riz,GNF/kg,5994.0
+2022-01-30,Kindia,riz,GNF/kg,5969.0
+2022-02-06,Kindia,riz,GNF/kg,5951.0
+2022-02-13,Kindia,riz,GNF/kg,5964.0
+2022-02-20,Kindia,riz,GNF/kg,6121.0
+2022-02-27,Kindia,riz,GNF/kg,6249.0
+2022-03-06,Kindia,riz,GNF/kg,6369.0
+2022-03-13,Kindia,riz,GNF/kg,6342.0
+2022-03-20,Kindia,riz,GNF/kg,6736.0
+2022-03-27,Kindia,riz,GNF/kg,6846.0
+2022-04-03,Kindia,riz,GNF/kg,6680.0
+2022-04-10,Kindia,riz,GNF/kg,6961.0
+2022-04-17,Kindia,riz,GNF/kg,7138.0
+2022-04-24,Kindia,riz,GNF/kg,7266.0
+2022-05-01,Kindia,riz,GNF/kg,7250.0
+2022-05-08,Kindia,riz,GNF/kg,7079.0
+2022-05-15,Kindia,riz,GNF/kg,6943.0
+2022-05-22,Kindia,riz,GNF/kg,7004.0
+2022-05-29,Kindia,riz,GNF/kg,7323.0
+2022-06-05,Kindia,riz,GNF/kg,7439.0
+2022-06-12,Kindia,riz,GNF/kg,7509.0
+2022-06-19,Kindia,riz,GNF/kg,7493.0
+2022-06-26,Kindia,riz,GNF/kg,7426.0
+2022-07-03,Kindia,riz,GNF/kg,7253.0
+2022-07-10,Kindia,riz,GNF/kg,7274.0
+2022-07-17,Kindia,riz,GNF/kg,7389.0
+2022-07-24,Kindia,riz,GNF/kg,7311.0
+2022-07-31,Kindia,riz,GNF/kg,7323.0
+2022-08-07,Kindia,riz,GNF/kg,7336.0
+2022-08-14,Kindia,riz,GNF/kg,
+2022-08-21,Kindia,riz,GNF/kg,6942.0
+2022-08-28,Kindia,riz,GNF/kg,7196.0
+2022-09-04,Kindia,riz,GNF/kg,7197.0
+2022-09-11,Kindia,riz,GNF/kg,
+2022-09-18,Kindia,riz,GNF/kg,7082.0
+2022-09-25,Kindia,riz,GNF/kg,7001.0
+2022-10-02,Kindia,riz,GNF/kg,6794.0
+2022-10-09,Kindia,riz,GNF/kg,6937.0
+2022-10-16,Kindia,riz,GNF/kg,6703.0
+2022-10-23,Kindia,riz,GNF/kg,6552.0
+2022-10-30,Kindia,riz,GNF/kg,6590.0
+2022-11-06,Kindia,riz,GNF/kg,6808.0
+2022-11-13,Kindia,riz,GNF/kg,6851.0
+2022-11-20,Kindia,riz,GNF/kg,6951.0
+2022-11-27,Kindia,riz,GNF/kg,7085.0
+2022-12-04,Kindia,riz,GNF/kg,6668.0
+2022-12-11,Kindia,riz,GNF/kg,6857.0
+2022-12-18,Kindia,riz,GNF/kg,7063.0
+2022-12-25,Kindia,riz,GNF/kg,6740.0
+2023-01-01,Kindia,riz,GNF/kg,6814.0
+2023-01-08,Kindia,riz,GNF/kg,6807.0
+2023-01-15,Kindia,riz,GNF/kg,6876.0
+2023-01-22,Kindia,riz,GNF/kg,7116.0
+2023-01-29,Kindia,riz,GNF/kg,7273.0
+2023-02-05,Kindia,riz,GNF/kg,6755.0
+2023-02-12,Kindia,riz,GNF/kg,6533.0
+2023-02-19,Kindia,riz,GNF/kg,6859.0
+2023-02-26,Kindia,riz,GNF/kg,6797.0
+2023-03-05,Kindia,riz,GNF/kg,7084.0
+2023-03-12,Kindia,riz,GNF/kg,6993.0
+2023-03-19,Kindia,riz,GNF/kg,6998.0
+2023-03-26,Kindia,riz,GNF/kg,6985.0
+2023-04-02,Kindia,riz,GNF/kg,7356.0
+2023-04-09,Kindia,riz,GNF/kg,7142.0
+2023-04-16,Kindia,riz,GNF/kg,7000.0
+2023-04-23,Kindia,riz,GNF/kg,7140.0
+2023-04-30,Kindia,riz,GNF/kg,7043.0
+2023-05-07,Kindia,riz,GNF/kg,7083.0
+2023-05-14,Kindia,riz,GNF/kg,7478.0
+2023-05-21,Kindia,riz,GNF/kg,7454.0
+2023-05-28,Kindia,riz,GNF/kg,7311.0
+2023-06-04,Kindia,riz,GNF/kg,7355.0
+2023-06-11,Kindia,riz,GNF/kg,7257.0
+2023-06-18,Kindia,riz,GNF/kg,7251.0
+2023-06-25,Kindia,riz,GNF/kg,7015.0
+2023-07-02,Kindia,riz,GNF/kg,7436.0
+2023-07-09,Kindia,riz,GNF/kg,7120.0
+2023-07-16,Kindia,riz,GNF/kg,6990.0
+2023-07-23,Kindia,riz,GNF/kg,6982.0
+2023-07-30,Kindia,riz,GNF/kg,7043.0
+2023-08-06,Kindia,riz,GNF/kg,6884.0
+2023-08-13,Kindia,riz,GNF/kg,7069.0
+2023-08-20,Kindia,riz,GNF/kg,6751.0
+2023-08-27,Kindia,riz,GNF/kg,6893.0
+2023-09-03,Kindia,riz,GNF/kg,6735.0
+2023-09-10,Kindia,riz,GNF/kg,6734.0
+2023-09-17,Kindia,riz,GNF/kg,7027.0
+2023-09-24,Kindia,riz,GNF/kg,6719.0
+2023-10-01,Kindia,riz,GNF/kg,6720.0
+2023-10-08,Kindia,riz,GNF/kg,6833.0
+2023-10-15,Kindia,riz,GNF/kg,6790.0
+2023-10-22,Kindia,riz,GNF/kg,6558.0
+2023-10-29,Kindia,riz,GNF/kg,6741.0
+2023-11-05,Kindia,riz,GNF/kg,7094.0
+2023-11-12,Kindia,riz,GNF/kg,7248.0
+2023-11-19,Kindia,riz,GNF/kg,7118.0
+2023-11-26,Kindia,riz,GNF/kg,7140.0
+2023-12-03,Kindia,riz,GNF/kg,7327.0
+2023-12-10,Kindia,riz,GNF/kg,7103.0
+2023-12-17,Kindia,riz,GNF/kg,7066.0
+2023-12-24,Kindia,riz,GNF/kg,7097.0
+2023-12-31,Kindia,riz,GNF/kg,7201.0
+2024-01-07,Kindia,riz,GNF/kg,7399.0
+2024-01-14,Kindia,riz,GNF/kg,7245.0
+2024-01-21,Kindia,riz,GNF/kg,7080.0
+2024-01-28,Kindia,riz,GNF/kg,7201.0
+2024-02-04,Kindia,riz,GNF/kg,7438.0
+2024-02-11,Kindia,riz,GNF/kg,7619.0
+2024-02-18,Kindia,riz,GNF/kg,7674.0
+2024-02-25,Kindia,riz,GNF/kg,7795.0
+2024-03-03,Kindia,riz,GNF/kg,7783.0
+2024-03-10,Kindia,riz,GNF/kg,7998.0
+2024-03-17,Kindia,riz,GNF/kg,7750.0
+2024-03-24,Kindia,riz,GNF/kg,7823.0
+2024-03-31,Kindia,riz,GNF/kg,8039.0
+2024-04-07,Kindia,riz,GNF/kg,8005.0
+2024-04-14,Kindia,riz,GNF/kg,8367.0
+2024-04-21,Kindia,riz,GNF/kg,8299.0
+2024-04-28,Kindia,riz,GNF/kg,8155.0
+2024-05-05,Kindia,riz,GNF/kg,7925.0
+2024-05-12,Kindia,riz,GNF/kg,7785.0
+2024-05-19,Kindia,riz,GNF/kg,8155.0
+2024-05-26,Kindia,riz,GNF/kg,7876.0
+2024-06-02,Kindia,riz,GNF/kg,7698.0
+2024-06-09,Kindia,riz,GNF/kg,8002.0
+2024-06-16,Kindia,riz,GNF/kg,7872.0
+2024-06-23,Kindia,riz,GNF/kg,7782.0
+2024-06-30,Kindia,riz,GNF/kg,7904.0
+2024-07-07,Kindia,riz,GNF/kg,7961.0
+2024-07-14,Kindia,riz,GNF/kg,7791.0
+2024-07-21,Kindia,riz,GNF/kg,7959.0
+2024-07-28,Kindia,riz,GNF/kg,7955.0
+2024-08-04,Kindia,riz,GNF/kg,7948.0
+2024-08-11,Kindia,riz,GNF/kg,7821.0
+2024-08-18,Kindia,riz,GNF/kg,8038.0
+2024-08-25,Kindia,riz,GNF/kg,7274.0
+2024-09-01,Kindia,riz,GNF/kg,7495.0
+2024-09-08,Kindia,riz,GNF/kg,7450.0
+2024-09-15,Kindia,riz,GNF/kg,7604.0
+2024-09-22,Kindia,riz,GNF/kg,7450.0
+2024-09-29,Kindia,riz,GNF/kg,7335.0
+2024-10-06,Kindia,riz,GNF/kg,7548.0
+2024-10-13,Kindia,riz,GNF/kg,7440.0
+2024-10-20,Kindia,riz,GNF/kg,7324.0
+2024-10-27,Kindia,riz,GNF/kg,7339.0
+2024-11-03,Kindia,riz,GNF/kg,7337.0
+2024-11-10,Kindia,riz,GNF/kg,7331.0
+2024-11-17,Kindia,riz,GNF/kg,7311.0
+2024-11-24,Kindia,riz,GNF/kg,7439.0
+2024-12-01,Kindia,riz,GNF/kg,7689.0
+2024-12-08,Kindia,riz,GNF/kg,7560.0
+2024-12-15,Kindia,riz,GNF/kg,7759.0
+2024-12-22,Kindia,riz,GNF/kg,7577.0
+2024-12-29,Kindia,riz,GNF/kg,7716.0
+2019-01-06,Labe,riz,GNF/kg,4871.0
+2019-01-13,Labe,riz,GNF/kg,4916.0
+2019-01-20,Labe,riz,GNF/kg,4824.0
+2019-01-27,Labe,riz,GNF/kg,4987.0
+2019-02-03,Labe,riz,GNF/kg,5041.0
+2019-02-10,Labe,riz,GNF/kg,5001.0
+2019-02-17,Labe,riz,GNF/kg,4912.0
+2019-02-24,Labe,riz,GNF/kg,4951.0
+2019-03-03,Labe,riz,GNF/kg,
+2019-03-10,Labe,riz,GNF/kg,4826.0
+2019-03-17,Labe,riz,GNF/kg,5125.0
+2019-03-24,Labe,riz,GNF/kg,4877.0
+2019-03-31,Labe,riz,GNF/kg,5128.0
+2019-04-07,Labe,riz,GNF/kg,5339.0
+2019-04-14,Labe,riz,GNF/kg,5423.0
+2019-04-21,Labe,riz,GNF/kg,5290.0
+2019-04-28,Labe,riz,GNF/kg,
+2019-05-05,Labe,riz,GNF/kg,5498.0
+2019-05-12,Labe,riz,GNF/kg,5274.0
+2019-05-19,Labe,riz,GNF/kg,5607.0
+2019-05-26,Labe,riz,GNF/kg,5392.0
+2019-06-02,Labe,riz,GNF/kg,5518.0
+2019-06-09,Labe,riz,GNF/kg,5588.0
+2019-06-16,Labe,riz,GNF/kg,5538.0
+2019-06-23,Labe,riz,GNF/kg,5395.0
+2019-06-30,Labe,riz,GNF/kg,5432.0
+2019-07-07,Labe,riz,GNF/kg,5408.0
+2019-07-14,Labe,riz,GNF/kg,5312.0
+2019-07-21,Labe,riz,GNF/kg,5413.0
+2019-07-28,Labe,riz,GNF/kg,5359.0
+2019-08-04,Labe,riz,GNF/kg,5501.0
+2019-08-11,Labe,riz,GNF/kg,
+2019-08-18,Labe,riz,GNF/kg,5361.0
+2019-08-25,Labe,riz,GNF/kg,5292.0
+2019-09-01,Labe,riz,GNF/kg,5244.0
+2019-09-08,Labe,riz,GNF/kg,5314.0
+2019-09-15,Labe,riz,GNF/kg,5207.0
+2019-09-22,Labe,riz,GNF/kg,5145.0
+2019-09-29,Labe,riz,GNF/kg,5263.0
+2019-10-06,Labe,riz,GNF/kg,4958.0
+2019-10-13,Labe,riz,GNF/kg,4920.0
+2019-10-20,Labe,riz,GNF/kg,5137.0
+2019-10-27,Labe,riz,GNF/kg,5151.0
+2019-11-03,Labe,riz,GNF/kg,4892.0
+2019-11-10,Labe,riz,GNF/kg,5080.0
+2019-11-17,Labe,riz,GNF/kg,5139.0
+2019-11-24,Labe,riz,GNF/kg,5124.0
+2019-12-01,Labe,riz,GNF/kg,5211.0
+2019-12-08,Labe,riz,GNF/kg,5021.0
+2019-12-15,Labe,riz,GNF/kg,5233.0
+2019-12-22,Labe,riz,GNF/kg,5172.0
+2019-12-29,Labe,riz,GNF/kg,5183.0
+2020-01-05,Labe,riz,GNF/kg,5368.0
+2020-01-12,Labe,riz,GNF/kg,5341.0
+2020-01-19,Labe,riz,GNF/kg,5410.0
+2020-01-26,Labe,riz,GNF/kg,5394.0
+2020-02-02,Labe,riz,GNF/kg,5280.0
+2020-02-09,Labe,riz,GNF/kg,5381.0
+2020-02-16,Labe,riz,GNF/kg,5589.0
+2020-02-23,Labe,riz,GNF/kg,5489.0
+2020-03-01,Labe,riz,GNF/kg,5987.0
+2020-03-08,Labe,riz,GNF/kg,5967.0
+2020-03-15,Labe,riz,GNF/kg,5931.0
+2020-03-22,Labe,riz,GNF/kg,5942.0
+2020-03-29,Labe,riz,GNF/kg,6061.0
+2020-04-05,Labe,riz,GNF/kg,6238.0
+2020-04-12,Labe,riz,GNF/kg,6236.0
+2020-04-19,Labe,riz,GNF/kg,6239.0
+2020-04-26,Labe,riz,GNF/kg,6253.0
+2020-05-03,Labe,riz,GNF/kg,6231.0
+2020-05-10,Labe,riz,GNF/kg,6327.0
+2020-05-17,Labe,riz,GNF/kg,6209.0
+2020-05-24,Labe,riz,GNF/kg,6009.0
+2020-05-31,Labe,riz,GNF/kg,6267.0
+2020-06-07,Labe,riz,GNF/kg,6270.0
+2020-06-14,Labe,riz,GNF/kg,6177.0
+2020-06-21,Labe,riz,GNF/kg,6284.0
+2020-06-28,Labe,riz,GNF/kg,6232.0
+2020-07-05,Labe,riz,GNF/kg,6339.0
+2020-07-12,Labe,riz,GNF/kg,6328.0
+2020-07-19,Labe,riz,GNF/kg,6262.0
+2020-07-26,Labe,riz,GNF/kg,6365.0
+2020-08-02,Labe,riz,GNF/kg,6254.0
+2020-08-09,Labe,riz,GNF/kg,6212.0
+2020-08-16,Labe,riz,GNF/kg,6185.0
+2020-08-23,Labe,riz,GNF/kg,6119.0
+2020-08-30,Labe,riz,GNF/kg,5893.0
+2020-09-06,Labe,riz,GNF/kg,6029.0
+2020-09-13,Labe,riz,GNF/kg,5841.0
+2020-09-20,Labe,riz,GNF/kg,5693.0
+2020-09-27,Labe,riz,GNF/kg,5695.0
+2020-10-04,Labe,riz,GNF/kg,5703.0
+2020-10-11,Labe,riz,GNF/kg,5670.0
+2020-10-18,Labe,riz,GNF/kg,5516.0
+2020-10-25,Labe,riz,GNF/kg,
+2020-11-01,Labe,riz,GNF/kg,5423.0
+2020-11-08,Labe,riz,GNF/kg,5269.0
+2020-11-15,Labe,riz,GNF/kg,5309.0
+2020-11-22,Labe,riz,GNF/kg,5434.0
+2020-11-29,Labe,riz,GNF/kg,5391.0
+2020-12-06,Labe,riz,GNF/kg,5525.0
+2020-12-13,Labe,riz,GNF/kg,
+2020-12-20,Labe,riz,GNF/kg,5542.0
+2020-12-27,Labe,riz,GNF/kg,5739.0
+2021-01-03,Labe,riz,GNF/kg,5796.0
+2021-01-10,Labe,riz,GNF/kg,5686.0
+2021-01-17,Labe,riz,GNF/kg,5635.0
+2021-01-24,Labe,riz,GNF/kg,5615.0
+2021-01-31,Labe,riz,GNF/kg,5706.0
+2021-02-07,Labe,riz,GNF/kg,5958.0
+2021-02-14,Labe,riz,GNF/kg,5716.0
+2021-02-21,Labe,riz,GNF/kg,5989.0
+2021-02-28,Labe,riz,GNF/kg,5889.0
+2021-03-07,Labe,riz,GNF/kg,6005.0
+2021-03-14,Labe,riz,GNF/kg,5998.0
+2021-03-21,Labe,riz,GNF/kg,6350.0
+2021-03-28,Labe,riz,GNF/kg,5969.0
+2021-04-04,Labe,riz,GNF/kg,6364.0
+2021-04-11,Labe,riz,GNF/kg,6270.0
+2021-04-18,Labe,riz,GNF/kg,6452.0
+2021-04-25,Labe,riz,GNF/kg,6387.0
+2021-05-02,Labe,riz,GNF/kg,6352.0
+2021-05-09,Labe,riz,GNF/kg,6337.0
+2021-05-16,Labe,riz,GNF/kg,6547.0
+2021-05-23,Labe,riz,GNF/kg,6444.0
+2021-05-30,Labe,riz,GNF/kg,6642.0
+2021-06-06,Labe,riz,GNF/kg,6545.0
+2021-06-13,Labe,riz,GNF/kg,6672.0
+2021-06-20,Labe,riz,GNF/kg,6398.0
+2021-06-27,Labe,riz,GNF/kg,6501.0
+2021-07-04,Labe,riz,GNF/kg,6542.0
+2021-07-11,Labe,riz,GNF/kg,6362.0
+2021-07-18,Labe,riz,GNF/kg,6259.0
+2021-07-25,Labe,riz,GNF/kg,
+2021-08-01,Labe,riz,GNF/kg,6313.0
+2021-08-08,Labe,riz,GNF/kg,6042.0
+2021-08-15,Labe,riz,GNF/kg,6067.0
+2021-08-22,Labe,riz,GNF/kg,6252.0
+2021-08-29,Labe,riz,GNF/kg,6437.0
+2021-09-05,Labe,riz,GNF/kg,6718.0
+2021-09-12,Labe,riz,GNF/kg,6465.0
+2021-09-19,Labe,riz,GNF/kg,6574.0
+2021-09-26,Labe,riz,GNF/kg,6257.0
+2021-10-03,Labe,riz,GNF/kg,5885.0
+2021-10-10,Labe,riz,GNF/kg,6007.0
+2021-10-17,Labe,riz,GNF/kg,5914.0
+2021-10-24,Labe,riz,GNF/kg,5919.0
+2021-10-31,Labe,riz,GNF/kg,5846.0
+2021-11-07,Labe,riz,GNF/kg,5764.0
+2021-11-14,Labe,riz,GNF/kg,5863.0
+2021-11-21,Labe,riz,GNF/kg,6122.0
+2021-11-28,Labe,riz,GNF/kg,6006.0
+2021-12-05,Labe,riz,GNF/kg,5908.0
+2021-12-12,Labe,riz,GNF/kg,5904.0
+2021-12-19,Labe,riz,GNF/kg,6056.0
+2021-12-26,Labe,riz,GNF/kg,6071.0
+2022-01-02,Labe,riz,GNF/kg,6184.0
+2022-01-09,Labe,riz,GNF/kg,6420.0
+2022-01-16,Labe,riz,GNF/kg,6557.0
+2022-01-23,Labe,riz,GNF/kg,6396.0
+2022-01-30,Labe,riz,GNF/kg,6397.0
+2022-02-06,Labe,riz,GNF/kg,6434.0
+2022-02-13,Labe,riz,GNF/kg,6463.0
+2022-02-20,Labe,riz,GNF/kg,6672.0
+2022-02-27,Labe,riz,GNF/kg,6697.0
+2022-03-06,Labe,riz,GNF/kg,6884.0
+2022-03-13,Labe,riz,GNF/kg,6726.0
+2022-03-20,Labe,riz,GNF/kg,7146.0
+2022-03-27,Labe,riz,GNF/kg,7035.0
+2022-04-03,Labe,riz,GNF/kg,7182.0
+2022-04-10,Labe,riz,GNF/kg,7531.0
+2022-04-17,Labe,riz,GNF/kg,7532.0
+2022-04-24,Labe,riz,GNF/kg,7736.0
+2022-05-01,Labe,riz,GNF/kg,7514.0
+2022-05-08,Labe,riz,GNF/kg,7346.0
+2022-05-15,Labe,riz,GNF/kg,7415.0
+2022-05-22,Labe,riz,GNF/kg,7549.0
+2022-05-29,Labe,riz,GNF/kg,7714.0
+2022-06-05,Labe,riz,GNF/kg,7958.0
+2022-06-12,Labe,riz,GNF/kg,7744.0
+2022-06-19,Labe,riz,GNF/kg,7835.0
+2022-06-26,Labe,riz,GNF/kg,7752.0
+2022-07-03,Labe,riz,GNF/kg,7876.0
+2022-07-10,Labe,riz,GNF/kg,7732.0
+2022-07-17,Labe,riz,GNF/kg,7698.0
+2022-07-24,Labe,riz,GNF/kg,7728.0
+2022-07-31,Labe,riz,GNF/kg,7793.0
+2022-08-07,Labe,riz,GNF/kg,7696.0
+2022-08-14,Labe,riz,GNF/kg,7765.0
+2022-08-21,Labe,riz,GNF/kg,7407.0
+2022-08-28,Labe,riz,GNF/kg,7544.0
+2022-09-04,Labe,riz,GNF/kg,7405.0
+2022-09-11,Labe,riz,GNF/kg,
+2022-09-18,Labe,riz,GNF/kg,7425.0
+2022-09-25,Labe,riz,GNF/kg,7461.0
+2022-10-02,Labe,riz,GNF/kg,7415.0
+2022-10-09,Labe,riz,GNF/kg,7140.0
+2022-10-16,Labe,riz,GNF/kg,7392.0
+2022-10-23,Labe,riz,GNF/kg,7199.0
+2022-10-30,Labe,riz,GNF/kg,7205.0
+2022-11-06,Labe,riz,GNF/kg,7186.0
+2022-11-13,Labe,riz,GNF/kg,7243.0
+2022-11-20,Labe,riz,GNF/kg,7580.0
+2022-11-27,Labe,riz,GNF/kg,7053.0
+2022-12-04,Labe,riz,GNF/kg,7137.0
+2022-12-11,Labe,riz,GNF/kg,7135.0
+2022-12-18,Labe,riz,GNF/kg,
+2022-12-25,Labe,riz,GNF/kg,7357.0
+2023-01-01,Labe,riz,GNF/kg,7314.0
+2023-01-08,Labe,riz,GNF/kg,7246.0
+2023-01-15,Labe,riz,GNF/kg,7514.0
+2023-01-22,Labe,riz,GNF/kg,7698.0
+2023-01-29,Labe,riz,GNF/kg,7535.0
+2023-02-05,Labe,riz,GNF/kg,7034.0
+2023-02-12,Labe,riz,GNF/kg,6987.0
+2023-02-19,Labe,riz,GNF/kg,
+2023-02-26,Labe,riz,GNF/kg,7273.0
+2023-03-05,Labe,riz,GNF/kg,7283.0
+2023-03-12,Labe,riz,GNF/kg,7409.0
+2023-03-19,Labe,riz,GNF/kg,7573.0
+2023-03-26,Labe,riz,GNF/kg,7027.0
+2023-04-02,Labe,riz,GNF/kg,7190.0
+2023-04-09,Labe,riz,GNF/kg,7292.0
+2023-04-16,Labe,riz,GNF/kg,7448.0
+2023-04-23,Labe,riz,GNF/kg,7394.0
+2023-04-30,Labe,riz,GNF/kg,7301.0
+2023-05-07,Labe,riz,GNF/kg,7427.0
+2023-05-14,Labe,riz,GNF/kg,7680.0
+2023-05-21,Labe,riz,GNF/kg,
+2023-05-28,Labe,riz,GNF/kg,7931.0
+2023-06-04,Labe,riz,GNF/kg,
+2023-06-11,Labe,riz,GNF/kg,7584.0
+2023-06-18,Labe,riz,GNF/kg,7463.0
+2023-06-25,Labe,riz,GNF/kg,7423.0
+2023-07-02,Labe,riz,GNF/kg,7762.0
+2023-07-09,Labe,riz,GNF/kg,7528.0
+2023-07-16,Labe,riz,GNF/kg,7572.0
+2023-07-23,Labe,riz,GNF/kg,7182.0
+2023-07-30,Labe,riz,GNF/kg,7338.0
+2023-08-06,Labe,riz,GNF/kg,7393.0
+2023-08-13,Labe,riz,GNF/kg,7415.0
+2023-08-20,Labe,riz,GNF/kg,7374.0
+2023-08-27,Labe,riz,GNF/kg,7170.0
+2023-09-03,Labe,riz,GNF/kg,7315.0
+2023-09-10,Labe,riz,GNF/kg,7022.0
+2023-09-17,Labe,riz,GNF/kg,7479.0
+2023-09-24,Labe,riz,GNF/kg,
+2023-10-01,Labe,riz,GNF/kg,6826.0
+2023-10-08,Labe,riz,GNF/kg,7176.0
+2023-10-15,Labe,riz,GNF/kg,7485.0
+2023-10-22,Labe,riz,GNF/kg,7283.0
+2023-10-29,Labe,riz,GNF/kg,7113.0
+2023-11-05,Labe,riz,GNF/kg,7740.0
+2023-11-12,Labe,riz,GNF/kg,
+2023-11-19,Labe,riz,GNF/kg,7498.0
+2023-11-26,Labe,riz,GNF/kg,7623.0
+2023-12-03,Labe,riz,GNF/kg,7883.0
+2023-12-10,Labe,riz,GNF/kg,7931.0
+2023-12-17,Labe,riz,GNF/kg,7466.0
+2023-12-24,Labe,riz,GNF/kg,7529.0
+2023-12-31,Labe,riz,GNF/kg,7780.0
+2024-01-07,Labe,riz,GNF/kg,7510.0
+2024-01-14,Labe,riz,GNF/kg,7541.0
+2024-01-21,Labe,riz,GNF/kg,7766.0
+2024-01-28,Labe,riz,GNF/kg,7909.0
+2024-02-04,Labe,riz,GNF/kg,7968.0
+2024-02-11,Labe,riz,GNF/kg,8046.0
+2024-02-18,Labe,riz,GNF/kg,8080.0
+2024-02-25,Labe,riz,GNF/kg,8141.0
+2024-03-03,Labe,riz,GNF/kg,8153.0
+2024-03-10,Labe,riz,GNF/kg,8631.0
+2024-03-17,Labe,riz,GNF/kg,8333.0
+2024-03-24,Labe,riz,GNF/kg,8518.0
+2024-03-31,Labe,riz,GNF/kg,8368.0
+2024-04-07,Labe,riz,GNF/kg,8655.0
+2024-04-14,Labe,riz,GNF/kg,8695.0
+2024-04-21,Labe,riz,GNF/kg,8391.0
+2024-04-28,Labe,riz,GNF/kg,8453.0
+2024-05-05,Labe,riz,GNF/kg,7903.0
+2024-05-12,Labe,riz,GNF/kg,8004.0
+2024-05-19,Labe,riz,GNF/kg,8165.0
+2024-05-26,Labe,riz,GNF/kg,8550.0
+2024-06-02,Labe,riz,GNF/kg,8317.0
+2024-06-09,Labe,riz,GNF/kg,8637.0
+2024-06-16,Labe,riz,GNF/kg,8538.0
+2024-06-23,Labe,riz,GNF/kg,8450.0
+2024-06-30,Labe,riz,GNF/kg,8175.0
+2024-07-07,Labe,riz,GNF/kg,8416.0
+2024-07-14,Labe,riz,GNF/kg,8434.0
+2024-07-21,Labe,riz,GNF/kg,8193.0
+2024-07-28,Labe,riz,GNF/kg,8327.0
+2024-08-04,Labe,riz,GNF/kg,8282.0
+2024-08-11,Labe,riz,GNF/kg,8116.0
+2024-08-18,Labe,riz,GNF/kg,8142.0
+2024-08-25,Labe,riz,GNF/kg,7795.0
+2024-09-01,Labe,riz,GNF/kg,7987.0
+2024-09-08,Labe,riz,GNF/kg,8053.0
+2024-09-15,Labe,riz,GNF/kg,7910.0
+2024-09-22,Labe,riz,GNF/kg,7966.0
+2024-09-29,Labe,riz,GNF/kg,7865.0
+2024-10-06,Labe,riz,GNF/kg,7799.0
+2024-10-13,Labe,riz,GNF/kg,8121.0
+2024-10-20,Labe,riz,GNF/kg,7873.0
+2024-10-27,Labe,riz,GNF/kg,7649.0
+2024-11-03,Labe,riz,GNF/kg,7997.0
+2024-11-10,Labe,riz,GNF/kg,7675.0
+2024-11-17,Labe,riz,GNF/kg,7821.0
+2024-11-24,Labe,riz,GNF/kg,7706.0
+2024-12-01,Labe,riz,GNF/kg,7828.0
+2024-12-08,Labe,riz,GNF/kg,7682.0
+2024-12-15,Labe,riz,GNF/kg,8093.0
+2024-12-22,Labe,riz,GNF/kg,7953.0
+2024-12-29,Labe,riz,GNF/kg,8318.0
+2019-01-06,Nzerekore,riz,GNF/kg,4832.0
+2019-01-13,Nzerekore,riz,GNF/kg,4913.0
+2019-01-20,Nzerekore,riz,GNF/kg,4829.0
+2019-01-27,Nzerekore,riz,GNF/kg,5056.0
+2019-02-03,Nzerekore,riz,GNF/kg,5200.0
+2019-02-10,Nzerekore,riz,GNF/kg,4880.0
+2019-02-17,Nzerekore,riz,GNF/kg,5021.0
+2019-02-24,Nzerekore,riz,GNF/kg,5098.0
+2019-03-03,Nzerekore,riz,GNF/kg,5199.0
+2019-03-10,Nzerekore,riz,GNF/kg,5228.0
+2019-03-17,Nzerekore,riz,GNF/kg,
+2019-03-24,Nzerekore,riz,GNF/kg,5233.0
+2019-03-31,Nzerekore,riz,GNF/kg,5431.0
+2019-04-07,Nzerekore,riz,GNF/kg,5538.0
+2019-04-14,Nzerekore,riz,GNF/kg,5319.0
+2019-04-21,Nzerekore,riz,GNF/kg,5576.0
+2019-04-28,Nzerekore,riz,GNF/kg,5589.0
+2019-05-05,Nzerekore,riz,GNF/kg,5504.0
+2019-05-12,Nzerekore,riz,GNF/kg,5516.0
+2019-05-19,Nzerekore,riz,GNF/kg,5481.0
+2019-05-26,Nzerekore,riz,GNF/kg,5528.0
+2019-06-02,Nzerekore,riz,GNF/kg,5476.0
+2019-06-09,Nzerekore,riz,GNF/kg,5364.0
+2019-06-16,Nzerekore,riz,GNF/kg,5766.0
+2019-06-23,Nzerekore,riz,GNF/kg,5544.0
+2019-06-30,Nzerekore,riz,GNF/kg,5547.0
+2019-07-07,Nzerekore,riz,GNF/kg,5426.0
+2019-07-14,Nzerekore,riz,GNF/kg,5453.0
+2019-07-21,Nzerekore,riz,GNF/kg,5568.0
+2019-07-28,Nzerekore,riz,GNF/kg,5506.0
+2019-08-04,Nzerekore,riz,GNF/kg,5599.0
+2019-08-11,Nzerekore,riz,GNF/kg,5697.0
+2019-08-18,Nzerekore,riz,GNF/kg,5566.0
+2019-08-25,Nzerekore,riz,GNF/kg,5470.0
+2019-09-01,Nzerekore,riz,GNF/kg,5518.0
+2019-09-08,Nzerekore,riz,GNF/kg,5296.0
+2019-09-15,Nzerekore,riz,GNF/kg,5441.0
+2019-09-22,Nzerekore,riz,GNF/kg,5497.0
+2019-09-29,Nzerekore,riz,GNF/kg,5422.0
+2019-10-06,Nzerekore,riz,GNF/kg,4995.0
+2019-10-13,Nzerekore,riz,GNF/kg,5163.0
+2019-10-20,Nzerekore,riz,GNF/kg,
+2019-10-27,Nzerekore,riz,GNF/kg,5295.0
+2019-11-03,Nzerekore,riz,GNF/kg,5195.0
+2019-11-10,Nzerekore,riz,GNF/kg,5175.0
+2019-11-17,Nzerekore,riz,GNF/kg,5169.0
+2019-11-24,Nzerekore,riz,GNF/kg,5255.0
+2019-12-01,Nzerekore,riz,GNF/kg,5266.0
+2019-12-08,Nzerekore,riz,GNF/kg,5293.0
+2019-12-15,Nzerekore,riz,GNF/kg,5350.0
+2019-12-22,Nzerekore,riz,GNF/kg,5275.0
+2019-12-29,Nzerekore,riz,GNF/kg,5425.0
+2020-01-05,Nzerekore,riz,GNF/kg,5719.0
+2020-01-12,Nzerekore,riz,GNF/kg,5161.0
+2020-01-19,Nzerekore,riz,GNF/kg,5411.0
+2020-01-26,Nzerekore,riz,GNF/kg,5333.0
+2020-02-02,Nzerekore,riz,GNF/kg,5493.0
+2020-02-09,Nzerekore,riz,GNF/kg,5497.0
+2020-02-16,Nzerekore,riz,GNF/kg,5741.0
+2020-02-23,Nzerekore,riz,GNF/kg,5745.0
+2020-03-01,Nzerekore,riz,GNF/kg,6157.0
+2020-03-08,Nzerekore,riz,GNF/kg,6161.0
+2020-03-15,Nzerekore,riz,GNF/kg,5861.0
+2020-03-22,Nzerekore,riz,GNF/kg,6340.0
+2020-03-29,Nzerekore,riz,GNF/kg,6307.0
+2020-04-05,Nzerekore,riz,GNF/kg,6454.0
+2020-04-12,Nzerekore,riz,GNF/kg,6281.0
+2020-04-19,Nzerekore,riz,GNF/kg,6289.0
+2020-04-26,Nzerekore,riz,GNF/kg,6370.0
+2020-05-03,Nzerekore,riz,GNF/kg,6437.0
+2020-05-10,Nzerekore,riz,GNF/kg,6451.0
+2020-05-17,Nzerekore,riz,GNF/kg,6451.0
+2020-05-24,Nzerekore,riz,GNF/kg,6118.0
+2020-05-31,Nzerekore,riz,GNF/kg,6390.0
+2020-06-07,Nzerekore,riz,GNF/kg,6494.0
+2020-06-14,Nzerekore,riz,GNF/kg,6496.0
+2020-06-21,Nzerekore,riz,GNF/kg,6412.0
+2020-06-28,Nzerekore,riz,GNF/kg,6560.0
+2020-07-05,Nzerekore,riz,GNF/kg,6255.0
+2020-07-12,Nzerekore,riz,GNF/kg,
+2020-07-19,Nzerekore,riz,GNF/kg,6312.0
+2020-07-26,Nzerekore,riz,GNF/kg,6480.0
+2020-08-02,Nzerekore,riz,GNF/kg,6377.0
+2020-08-09,Nzerekore,riz,GNF/kg,6471.0
+2020-08-16,Nzerekore,riz,GNF/kg,6292.0
+2020-08-23,Nzerekore,riz,GNF/kg,6148.0
+2020-08-30,Nzerekore,riz,GNF/kg,6222.0
+2020-09-06,Nzerekore,riz,GNF/kg,6366.0
+2020-09-13,Nzerekore,riz,GNF/kg,6288.0
+2020-09-20,Nzerekore,riz,GNF/kg,5803.0
+2020-09-27,Nzerekore,riz,GNF/kg,5826.0
+2020-10-04,Nzerekore,riz,GNF/kg,5580.0
+2020-10-11,Nzerekore,riz,GNF/kg,5740.0
+2020-10-18,Nzerekore,riz,GNF/kg,5457.0
+2020-10-25,Nzerekore,riz,GNF/kg,5717.0
+2020-11-01,Nzerekore,riz,GNF/kg,5533.0
+2020-11-08,Nzerekore,riz,GNF/kg,5726.0
+2020-11-15,Nzerekore,riz,GNF/kg,5336.0
+2020-11-22,Nzerekore,riz,GNF/kg,5465.0
+2020-11-29,Nzerekore,riz,GNF/kg,5792.0
+2020-12-06,Nzerekore,riz,GNF/kg,5718.0
+2020-12-13,Nzerekore,riz,GNF/kg,
+2020-12-20,Nzerekore,riz,GNF/kg,5821.0
+2020-12-27,Nzerekore,riz,GNF/kg,5790.0
+2021-01-03,Nzerekore,riz,GNF/kg,5909.0
+2021-01-10,Nzerekore,riz,GNF/kg,5753.0
+2021-01-17,Nzerekore,riz,GNF/kg,5862.0
+2021-01-24,Nzerekore,riz,GNF/kg,5687.0
+2021-01-31,Nzerekore,riz,GNF/kg,5935.0
+2021-02-07,Nzerekore,riz,GNF/kg,6110.0
+2021-02-14,Nzerekore,riz,GNF/kg,5952.0
+2021-02-21,Nzerekore,riz,GNF/kg,5927.0
+2021-02-28,Nzerekore,riz,GNF/kg,6295.0
+2021-03-07,Nzerekore,riz,GNF/kg,6232.0
+2021-03-14,Nzerekore,riz,GNF/kg,6070.0
+2021-03-21,Nzerekore,riz,GNF/kg,6222.0
+2021-03-28,Nzerekore,riz,GNF/kg,6119.0
+2021-04-04,Nzerekore,riz,GNF/kg,6260.0
+2021-04-11,Nzerekore,riz,GNF/kg,6364.0
+2021-04-18,Nzerekore,riz,GNF/kg,6719.0
+2021-04-25,Nzerekore,riz,GNF/kg,6477.0
+2021-05-02,Nzerekore,riz,GNF/kg,6547.0
+2021-05-09,Nzerekore,riz,GNF/kg,6466.0
+2021-05-16,Nzerekore,riz,GNF/kg,6591.0
+2021-05-23,Nzerekore,riz,GNF/kg,6655.0
+2021-05-30,Nzerekore,riz,GNF/kg,6794.0
+2021-06-06,Nzerekore,riz,GNF/kg,6736.0
+2021-06-13,Nzerekore,riz,GNF/kg,6683.0
+2021-06-20,Nzerekore,riz,GNF/kg,6538.0
+2021-06-27,Nzerekore,riz,GNF/kg,6567.0
+2021-07-04,Nzerekore,riz,GNF/kg,6415.0
+2021-07-11,Nzerekore,riz,GNF/kg,6591.0
+2021-07-18,Nzerekore,riz,GNF/kg,6399.0
+2021-07-25,Nzerekore,riz,GNF/kg,6808.0
+2021-08-01,Nzerekore,riz,GNF/kg,6313.0
+2021-08-08,Nzerekore,riz,GNF/kg,6412.0
+2021-08-15,Nzerekore,riz,GNF/kg,6208.0
+2021-08-22,Nzerekore,riz,GNF/kg,6340.0
+2021-08-29,Nzerekore,riz,GNF/kg,6477.0
+2021-09-05,Nzerekore,riz,GNF/kg,6310.0
+2021-09-12,Nzerekore,riz,GNF/kg,6737.0
+2021-09-19,Nzerekore,riz,GNF/kg,6808.0
+2021-09-26,Nzerekore,riz,GNF/kg,6347.0
+2021-10-03,Nzerekore,riz,GNF/kg,6093.0
+2021-10-10,Nzerekore,riz,GNF/kg,6239.0
+2021-10-17,Nzerekore,riz,GNF/kg,6049.0
+2021-10-24,Nzerekore,riz,GNF/kg,6000.0
+2021-10-31,Nzerekore,riz,GNF/kg,5788.0
+2021-11-07,Nzerekore,riz,GNF/kg,6160.0
+2021-11-14,Nzerekore,riz,GNF/kg,
+2021-11-21,Nzerekore,riz,GNF/kg,6093.0
+2021-11-28,Nzerekore,riz,GNF/kg,6217.0
+2021-12-05,Nzerekore,riz,GNF/kg,6070.0
+2021-12-12,Nzerekore,riz,GNF/kg,6001.0
+2021-12-19,Nzerekore,riz,GNF/kg,6199.0
+2021-12-26,Nzerekore,riz,GNF/kg,
+2022-01-02,Nzerekore,riz,GNF/kg,6555.0
+2022-01-09,Nzerekore,riz,GNF/kg,6284.0
+2022-01-16,Nzerekore,riz,GNF/kg,6470.0
+2022-01-23,Nzerekore,riz,GNF/kg,6740.0
+2022-01-30,Nzerekore,riz,GNF/kg,6590.0
+2022-02-06,Nzerekore,riz,GNF/kg,6473.0
+2022-02-13,Nzerekore,riz,GNF/kg,6392.0
+2022-02-20,Nzerekore,riz,GNF/kg,6716.0
+2022-02-27,Nzerekore,riz,GNF/kg,6817.0
+2022-03-06,Nzerekore,riz,GNF/kg,7014.0
+2022-03-13,Nzerekore,riz,GNF/kg,7030.0
+2022-03-20,Nzerekore,riz,GNF/kg,7253.0
+2022-03-27,Nzerekore,riz,GNF/kg,7365.0
+2022-04-03,Nzerekore,riz,GNF/kg,7300.0
+2022-04-10,Nzerekore,riz,GNF/kg,7516.0
+2022-04-17,Nzerekore,riz,GNF/kg,7746.0
+2022-04-24,Nzerekore,riz,GNF/kg,7599.0
+2022-05-01,Nzerekore,riz,GNF/kg,7729.0
+2022-05-08,Nzerekore,riz,GNF/kg,7587.0
+2022-05-15,Nzerekore,riz,GNF/kg,7660.0
+2022-05-22,Nzerekore,riz,GNF/kg,7695.0
+2022-05-29,Nzerekore,riz,GNF/kg,8096.0
+2022-06-05,Nzerekore,riz,GNF/kg,8098.0
+2022-06-12,Nzerekore,riz,GNF/kg,7839.0
+2022-06-19,Nzerekore,riz,GNF/kg,8088.0
+2022-06-26,Nzerekore,riz,GNF/kg,7990.0
+2022-07-03,Nzerekore,riz,GNF/kg,
+2022-07-10,Nzerekore,riz,GNF/kg,7981.0
+2022-07-17,Nzerekore,riz,GNF/kg,7940.0
+2022-07-24,Nzerekore,riz,GNF/kg,8079.0
+2022-07-31,Nzerekore,riz,GNF/kg,7932.0
+2022-08-07,Nzerekore,riz,GNF/kg,7862.0
+2022-08-14,Nzerekore,riz,GNF/kg,7674.0
+2022-08-21,Nzerekore,riz,GNF/kg,7550.0
+2022-08-28,Nzerekore,riz,GNF/kg,7918.0
+2022-09-04,Nzerekore,riz,GNF/kg,7950.0
+2022-09-11,Nzerekore,riz,GNF/kg,7971.0
+2022-09-18,Nzerekore,riz,GNF/kg,7946.0
+2022-09-25,Nzerekore,riz,GNF/kg,7621.0
+2022-10-02,Nzerekore,riz,GNF/kg,7452.0
+2022-10-09,Nzerekore,riz,GNF/kg,7207.0
+2022-10-16,Nzerekore,riz,GNF/kg,7332.0
+2022-10-23,Nzerekore,riz,GNF/kg,7308.0
+2022-10-30,Nzerekore,riz,GNF/kg,7262.0
+2022-11-06,Nzerekore,riz,GNF/kg,7259.0
+2022-11-13,Nzerekore,riz,GNF/kg,7421.0
+2022-11-20,Nzerekore,riz,GNF/kg,7412.0
+2022-11-27,Nzerekore,riz,GNF/kg,7650.0
+2022-12-04,Nzerekore,riz,GNF/kg,7470.0
+2022-12-11,Nzerekore,riz,GNF/kg,7760.0
+2022-12-18,Nzerekore,riz,GNF/kg,
+2022-12-25,Nzerekore,riz,GNF/kg,7478.0
+2023-01-01,Nzerekore,riz,GNF/kg,7286.0
+2023-01-08,Nzerekore,riz,GNF/kg,7714.0
+2023-01-15,Nzerekore,riz,GNF/kg,7732.0
+2023-01-22,Nzerekore,riz,GNF/kg,7813.0
+2023-01-29,Nzerekore,riz,GNF/kg,7542.0
+2023-02-05,Nzerekore,riz,GNF/kg,7128.0
+2023-02-12,Nzerekore,riz,GNF/kg,6996.0
+2023-02-19,Nzerekore,riz,GNF/kg,7395.0
+2023-02-26,Nzerekore,riz,GNF/kg,7486.0
+2023-03-05,Nzerekore,riz,GNF/kg,7480.0
+2023-03-12,Nzerekore,riz,GNF/kg,7291.0
+2023-03-19,Nzerekore,riz,GNF/kg,7457.0
+2023-03-26,Nzerekore,riz,GNF/kg,7632.0
+2023-04-02,Nzerekore,riz,GNF/kg,7733.0
+2023-04-09,Nzerekore,riz,GNF/kg,7794.0
+2023-04-16,Nzerekore,riz,GNF/kg,7489.0
+2023-04-23,Nzerekore,riz,GNF/kg,7670.0
+2023-04-30,Nzerekore,riz,GNF/kg,7835.0
+2023-05-07,Nzerekore,riz,GNF/kg,7540.0
+2023-05-14,Nzerekore,riz,GNF/kg,8003.0
+2023-05-21,Nzerekore,riz,GNF/kg,8132.0
+2023-05-28,Nzerekore,riz,GNF/kg,7866.0
+2023-06-04,Nzerekore,riz,GNF/kg,7741.0
+2023-06-11,Nzerekore,riz,GNF/kg,7796.0
+2023-06-18,Nzerekore,riz,GNF/kg,7777.0
+2023-06-25,Nzerekore,riz,GNF/kg,7863.0
+2023-07-02,Nzerekore,riz,GNF/kg,7914.0
+2023-07-09,Nzerekore,riz,GNF/kg,7809.0
+2023-07-16,Nzerekore,riz,GNF/kg,7784.0
+2023-07-23,Nzerekore,riz,GNF/kg,7654.0
+2023-07-30,Nzerekore,riz,GNF/kg,7600.0
+2023-08-06,Nzerekore,riz,GNF/kg,7519.0
+2023-08-13,Nzerekore,riz,GNF/kg,7580.0
+2023-08-20,Nzerekore,riz,GNF/kg,7256.0
+2023-08-27,Nzerekore,riz,GNF/kg,7610.0
+2023-09-03,Nzerekore,riz,GNF/kg,
+2023-09-10,Nzerekore,riz,GNF/kg,7328.0
+2023-09-17,Nzerekore,riz,GNF/kg,7728.0
+2023-09-24,Nzerekore,riz,GNF/kg,7171.0
+2023-10-01,Nzerekore,riz,GNF/kg,6930.0
+2023-10-08,Nzerekore,riz,GNF/kg,7453.0
+2023-10-15,Nzerekore,riz,GNF/kg,7638.0
+2023-10-22,Nzerekore,riz,GNF/kg,7420.0
+2023-10-29,Nzerekore,riz,GNF/kg,7262.0
+2023-11-05,Nzerekore,riz,GNF/kg,
+2023-11-12,Nzerekore,riz,GNF/kg,8020.0
+2023-11-19,Nzerekore,riz,GNF/kg,7805.0
+2023-11-26,Nzerekore,riz,GNF/kg,7690.0
+2023-12-03,Nzerekore,riz,GNF/kg,7534.0
+2023-12-10,Nzerekore,riz,GNF/kg,7981.0
+2023-12-17,Nzerekore,riz,GNF/kg,8013.0
+2023-12-24,Nzerekore,riz,GNF/kg,7955.0
+2023-12-31,Nzerekore,riz,GNF/kg,7660.0
+2024-01-07,Nzerekore,riz,GNF/kg,7959.0
+2024-01-14,Nzerekore,riz,GNF/kg,8055.0
+2024-01-21,Nzerekore,riz,GNF/kg,8267.0
+2024-01-28,Nzerekore,riz,GNF/kg,7941.0
+2024-02-04,Nzerekore,riz,GNF/kg,8168.0
+2024-02-11,Nzerekore,riz,GNF/kg,8464.0
+2024-02-18,Nzerekore,riz,GNF/kg,8405.0
+2024-02-25,Nzerekore,riz,GNF/kg,8305.0
+2024-03-03,Nzerekore,riz,GNF/kg,8560.0
+2024-03-10,Nzerekore,riz,GNF/kg,8623.0
+2024-03-17,Nzerekore,riz,GNF/kg,8530.0
+2024-03-24,Nzerekore,riz,GNF/kg,8655.0
+2024-03-31,Nzerekore,riz,GNF/kg,8629.0
+2024-04-07,Nzerekore,riz,GNF/kg,9131.0
+2024-04-14,Nzerekore,riz,GNF/kg,8905.0
+2024-04-21,Nzerekore,riz,GNF/kg,8918.0
+2024-04-28,Nzerekore,riz,GNF/kg,8884.0
+2024-05-05,Nzerekore,riz,GNF/kg,8509.0
+2024-05-12,Nzerekore,riz,GNF/kg,8331.0
+2024-05-19,Nzerekore,riz,GNF/kg,8371.0
+2024-05-26,Nzerekore,riz,GNF/kg,8293.0
+2024-06-02,Nzerekore,riz,GNF/kg,8555.0
+2024-06-09,Nzerekore,riz,GNF/kg,8520.0
+2024-06-16,Nzerekore,riz,GNF/kg,8655.0
+2024-06-23,Nzerekore,riz,GNF/kg,8663.0
+2024-06-30,Nzerekore,riz,GNF/kg,8436.0
+2024-07-07,Nzerekore,riz,GNF/kg,8602.0
+2024-07-14,Nzerekore,riz,GNF/kg,8513.0
+2024-07-21,Nzerekore,riz,GNF/kg,8601.0
+2024-07-28,Nzerekore,riz,GNF/kg,8542.0
+2024-08-04,Nzerekore,riz,GNF/kg,8321.0
+2024-08-11,Nzerekore,riz,GNF/kg,8394.0
+2024-08-18,Nzerekore,riz,GNF/kg,8686.0
+2024-08-25,Nzerekore,riz,GNF/kg,8242.0
+2024-09-01,Nzerekore,riz,GNF/kg,7983.0
+2024-09-08,Nzerekore,riz,GNF/kg,8322.0
+2024-09-15,Nzerekore,riz,GNF/kg,8082.0
+2024-09-22,Nzerekore,riz,GNF/kg,8391.0
+2024-09-29,Nzerekore,riz,GNF/kg,8148.0
+2024-10-06,Nzerekore,riz,GNF/kg,7962.0
+2024-10-13,Nzerekore,riz,GNF/kg,8133.0
+2024-10-20,Nzerekore,riz,GNF/kg,7864.0
+2024-10-27,Nzerekore,riz,GNF/kg,8111.0
+2024-11-03,Nzerekore,riz,GNF/kg,7904.0
+2024-11-10,Nzerekore,riz,GNF/kg,8000.0
+2024-11-17,Nzerekore,riz,GNF/kg,8008.0
+2024-11-24,Nzerekore,riz,GNF/kg,7821.0
+2024-12-01,Nzerekore,riz,GNF/kg,8010.0
+2024-12-08,Nzerekore,riz,GNF/kg,7985.0
+2024-12-15,Nzerekore,riz,GNF/kg,8178.0
+2024-12-22,Nzerekore,riz,GNF/kg,8129.0
+2024-12-29,Nzerekore,riz,GNF/kg,8509.0
+2019-01-06,Conakry (Madina),sucre,GNF/kg,6353.0
+2019-01-13,Conakry (Madina),sucre,GNF/kg,6424.0
+2019-01-20,Conakry (Madina),sucre,GNF/kg,6392.0
+2019-01-27,Conakry (Madina),sucre,GNF/kg,6150.0
+2019-02-03,Conakry (Madina),sucre,GNF/kg,6306.0
+2019-02-10,Conakry (Madina),sucre,GNF/kg,6400.0
+2019-02-17,Conakry (Madina),sucre,GNF/kg,6284.0
+2019-02-24,Conakry (Madina),sucre,GNF/kg,6509.0
+2019-03-03,Conakry (Madina),sucre,GNF/kg,6321.0
+2019-03-10,Conakry (Madina),sucre,GNF/kg,6410.0
+2019-03-17,Conakry (Madina),sucre,GNF/kg,6251.0
+2019-03-24,Conakry (Madina),sucre,GNF/kg,6491.0
+2019-03-31,Conakry (Madina),sucre,GNF/kg,6597.0
+2019-04-07,Conakry (Madina),sucre,GNF/kg,6629.0
+2019-04-14,Conakry (Madina),sucre,GNF/kg,6818.0
+2019-04-21,Conakry (Madina),sucre,GNF/kg,6833.0
+2019-04-28,Conakry (Madina),sucre,GNF/kg,6759.0
+2019-05-05,Conakry (Madina),sucre,GNF/kg,6631.0
+2019-05-12,Conakry (Madina),sucre,GNF/kg,6689.0
+2019-05-19,Conakry (Madina),sucre,GNF/kg,6648.0
+2019-05-26,Conakry (Madina),sucre,GNF/kg,6621.0
+2019-06-02,Conakry (Madina),sucre,GNF/kg,6740.0
+2019-06-09,Conakry (Madina),sucre,GNF/kg,6796.0
+2019-06-16,Conakry (Madina),sucre,GNF/kg,6892.0
+2019-06-23,Conakry (Madina),sucre,GNF/kg,
+2019-06-30,Conakry (Madina),sucre,GNF/kg,6917.0
+2019-07-07,Conakry (Madina),sucre,GNF/kg,6688.0
+2019-07-14,Conakry (Madina),sucre,GNF/kg,6750.0
+2019-07-21,Conakry (Madina),sucre,GNF/kg,6856.0
+2019-07-28,Conakry (Madina),sucre,GNF/kg,6589.0
+2019-08-04,Conakry (Madina),sucre,GNF/kg,7075.0
+2019-08-11,Conakry (Madina),sucre,GNF/kg,7273.0
+2019-08-18,Conakry (Madina),sucre,GNF/kg,7083.0
+2019-08-25,Conakry (Madina),sucre,GNF/kg,6993.0
+2019-09-01,Conakry (Madina),sucre,GNF/kg,7118.0
+2019-09-08,Conakry (Madina),sucre,GNF/kg,7232.0
+2019-09-15,Conakry (Madina),sucre,GNF/kg,7029.0
+2019-09-22,Conakry (Madina),sucre,GNF/kg,7305.0
+2019-09-29,Conakry (Madina),sucre,GNF/kg,7172.0
+2019-10-06,Conakry (Madina),sucre,GNF/kg,
+2019-10-13,Conakry (Madina),sucre,GNF/kg,6751.0
+2019-10-20,Conakry (Madina),sucre,GNF/kg,7056.0
+2019-10-27,Conakry (Madina),sucre,GNF/kg,7096.0
+2019-11-03,Conakry (Madina),sucre,GNF/kg,6803.0
+2019-11-10,Conakry (Madina),sucre,GNF/kg,6850.0
+2019-11-17,Conakry (Madina),sucre,GNF/kg,6996.0
+2019-11-24,Conakry (Madina),sucre,GNF/kg,6858.0
+2019-12-01,Conakry (Madina),sucre,GNF/kg,6992.0
+2019-12-08,Conakry (Madina),sucre,GNF/kg,6776.0
+2019-12-15,Conakry (Madina),sucre,GNF/kg,6817.0
+2019-12-22,Conakry (Madina),sucre,GNF/kg,7089.0
+2019-12-29,Conakry (Madina),sucre,GNF/kg,7160.0
+2020-01-05,Conakry (Madina),sucre,GNF/kg,6698.0
+2020-01-12,Conakry (Madina),sucre,GNF/kg,6696.0
+2020-01-19,Conakry (Madina),sucre,GNF/kg,6793.0
+2020-01-26,Conakry (Madina),sucre,GNF/kg,7000.0
+2020-02-02,Conakry (Madina),sucre,GNF/kg,6843.0
+2020-02-09,Conakry (Madina),sucre,GNF/kg,7045.0
+2020-02-16,Conakry (Madina),sucre,GNF/kg,7068.0
+2020-02-23,Conakry (Madina),sucre,GNF/kg,6930.0
+2020-03-01,Conakry (Madina),sucre,GNF/kg,
+2020-03-08,Conakry (Madina),sucre,GNF/kg,7540.0
+2020-03-15,Conakry (Madina),sucre,GNF/kg,7475.0
+2020-03-22,Conakry (Madina),sucre,GNF/kg,7395.0
+2020-03-29,Conakry (Madina),sucre,GNF/kg,7690.0
+2020-04-05,Conakry (Madina),sucre,GNF/kg,7610.0
+2020-04-12,Conakry (Madina),sucre,GNF/kg,7692.0
+2020-04-19,Conakry (Madina),sucre,GNF/kg,7717.0
+2020-04-26,Conakry (Madina),sucre,GNF/kg,7670.0
+2020-05-03,Conakry (Madina),sucre,GNF/kg,7673.0
+2020-05-10,Conakry (Madina),sucre,GNF/kg,7895.0
+2020-05-17,Conakry (Madina),sucre,GNF/kg,7719.0
+2020-05-24,Conakry (Madina),sucre,GNF/kg,7564.0
+2020-05-31,Conakry (Madina),sucre,GNF/kg,7842.0
+2020-06-07,Conakry (Madina),sucre,GNF/kg,7948.0
+2020-06-14,Conakry (Madina),sucre,GNF/kg,8440.0
+2020-06-21,Conakry (Madina),sucre,GNF/kg,7930.0
+2020-06-28,Conakry (Madina),sucre,GNF/kg,7807.0
+2020-07-05,Conakry (Madina),sucre,GNF/kg,
+2020-07-12,Conakry (Madina),sucre,GNF/kg,7835.0
+2020-07-19,Conakry (Madina),sucre,GNF/kg,8021.0
+2020-07-26,Conakry (Madina),sucre,GNF/kg,8432.0
+2020-08-02,Conakry (Madina),sucre,GNF/kg,8155.0
+2020-08-09,Conakry (Madina),sucre,GNF/kg,7975.0
+2020-08-16,Conakry (Madina),sucre,GNF/kg,8114.0
+2020-08-23,Conakry (Madina),sucre,GNF/kg,8326.0
+2020-08-30,Conakry (Madina),sucre,GNF/kg,8181.0
+2020-09-06,Conakry (Madina),sucre,GNF/kg,7914.0
+2020-09-13,Conakry (Madina),sucre,GNF/kg,7989.0
+2020-09-20,Conakry (Madina),sucre,GNF/kg,7556.0
+2020-09-27,Conakry (Madina),sucre,GNF/kg,
+2020-10-04,Conakry (Madina),sucre,GNF/kg,7796.0
+2020-10-11,Conakry (Madina),sucre,GNF/kg,7515.0
+2020-10-18,Conakry (Madina),sucre,GNF/kg,7489.0
+2020-10-25,Conakry (Madina),sucre,GNF/kg,7535.0
+2020-11-01,Conakry (Madina),sucre,GNF/kg,7540.0
+2020-11-08,Conakry (Madina),sucre,GNF/kg,7642.0
+2020-11-15,Conakry (Madina),sucre,GNF/kg,7424.0
+2020-11-22,Conakry (Madina),sucre,GNF/kg,7477.0
+2020-11-29,Conakry (Madina),sucre,GNF/kg,7433.0
+2020-12-06,Conakry (Madina),sucre,GNF/kg,7258.0
+2020-12-13,Conakry (Madina),sucre,GNF/kg,7325.0
+2020-12-20,Conakry (Madina),sucre,GNF/kg,7304.0
+2020-12-27,Conakry (Madina),sucre,GNF/kg,7363.0
+2021-01-03,Conakry (Madina),sucre,GNF/kg,7532.0
+2021-01-10,Conakry (Madina),sucre,GNF/kg,
+2021-01-17,Conakry (Madina),sucre,GNF/kg,
+2021-01-24,Conakry (Madina),sucre,GNF/kg,7294.0
+2021-01-31,Conakry (Madina),sucre,GNF/kg,7372.0
+2021-02-07,Conakry (Madina),sucre,GNF/kg,7351.0
+2021-02-14,Conakry (Madina),sucre,GNF/kg,7681.0
+2021-02-21,Conakry (Madina),sucre,GNF/kg,
+2021-02-28,Conakry (Madina),sucre,GNF/kg,7106.0
+2021-03-07,Conakry (Madina),sucre,GNF/kg,7403.0
+2021-03-14,Conakry (Madina),sucre,GNF/kg,7870.0
+2021-03-21,Conakry (Madina),sucre,GNF/kg,7711.0
+2021-03-28,Conakry (Madina),sucre,GNF/kg,7531.0
+2021-04-04,Conakry (Madina),sucre,GNF/kg,8030.0
+2021-04-11,Conakry (Madina),sucre,GNF/kg,7594.0
+2021-04-18,Conakry (Madina),sucre,GNF/kg,7647.0
+2021-04-25,Conakry (Madina),sucre,GNF/kg,7589.0
+2021-05-02,Conakry (Madina),sucre,GNF/kg,7448.0
+2021-05-09,Conakry (Madina),sucre,GNF/kg,7544.0
+2021-05-16,Conakry (Madina),sucre,GNF/kg,7898.0
+2021-05-23,Conakry (Madina),sucre,GNF/kg,7859.0
+2021-05-30,Conakry (Madina),sucre,GNF/kg,7763.0
+2021-06-06,Conakry (Madina),sucre,GNF/kg,8002.0
+2021-06-13,Conakry (Madina),sucre,GNF/kg,7786.0
+2021-06-20,Conakry (Madina),sucre,GNF/kg,8300.0
+2021-06-27,Conakry (Madina),sucre,GNF/kg,8023.0
+2021-07-04,Conakry (Madina),sucre,GNF/kg,
+2021-07-11,Conakry (Madina),sucre,GNF/kg,7904.0
+2021-07-18,Conakry (Madina),sucre,GNF/kg,7863.0
+2021-07-25,Conakry (Madina),sucre,GNF/kg,8117.0
+2021-08-01,Conakry (Madina),sucre,GNF/kg,7969.0
+2021-08-08,Conakry (Madina),sucre,GNF/kg,7828.0
+2021-08-15,Conakry (Madina),sucre,GNF/kg,8168.0
+2021-08-22,Conakry (Madina),sucre,GNF/kg,8340.0
+2021-08-29,Conakry (Madina),sucre,GNF/kg,8189.0
+2021-09-05,Conakry (Madina),sucre,GNF/kg,7839.0
+2021-09-12,Conakry (Madina),sucre,GNF/kg,7935.0
+2021-09-19,Conakry (Madina),sucre,GNF/kg,8261.0
+2021-09-26,Conakry (Madina),sucre,GNF/kg,8203.0
+2021-10-03,Conakry (Madina),sucre,GNF/kg,7799.0
+2021-10-10,Conakry (Madina),sucre,GNF/kg,8139.0
+2021-10-17,Conakry (Madina),sucre,GNF/kg,8116.0
+2021-10-24,Conakry (Madina),sucre,GNF/kg,8209.0
+2021-10-31,Conakry (Madina),sucre,GNF/kg,8173.0
+2021-11-07,Conakry (Madina),sucre,GNF/kg,8216.0
+2021-11-14,Conakry (Madina),sucre,GNF/kg,8246.0
+2021-11-21,Conakry (Madina),sucre,GNF/kg,8232.0
+2021-11-28,Conakry (Madina),sucre,GNF/kg,7997.0
+2021-12-05,Conakry (Madina),sucre,GNF/kg,8497.0
+2021-12-12,Conakry (Madina),sucre,GNF/kg,7984.0
+2021-12-19,Conakry (Madina),sucre,GNF/kg,8210.0
+2021-12-26,Conakry (Madina),sucre,GNF/kg,8010.0
+2022-01-02,Conakry (Madina),sucre,GNF/kg,8343.0
+2022-01-09,Conakry (Madina),sucre,GNF/kg,7924.0
+2022-01-16,Conakry (Madina),sucre,GNF/kg,8249.0
+2022-01-23,Conakry (Madina),sucre,GNF/kg,8279.0
+2022-01-30,Conakry (Madina),sucre,GNF/kg,
+2022-02-06,Conakry (Madina),sucre,GNF/kg,8161.0
+2022-02-13,Conakry (Madina),sucre,GNF/kg,7862.0
+2022-02-20,Conakry (Madina),sucre,GNF/kg,8147.0
+2022-02-27,Conakry (Madina),sucre,GNF/kg,8285.0
+2022-03-06,Conakry (Madina),sucre,GNF/kg,8407.0
+2022-03-13,Conakry (Madina),sucre,GNF/kg,8336.0
+2022-03-20,Conakry (Madina),sucre,GNF/kg,8836.0
+2022-03-27,Conakry (Madina),sucre,GNF/kg,8880.0
+2022-04-03,Conakry (Madina),sucre,GNF/kg,8797.0
+2022-04-10,Conakry (Madina),sucre,GNF/kg,8969.0
+2022-04-17,Conakry (Madina),sucre,GNF/kg,9095.0
+2022-04-24,Conakry (Madina),sucre,GNF/kg,9219.0
+2022-05-01,Conakry (Madina),sucre,GNF/kg,9396.0
+2022-05-08,Conakry (Madina),sucre,GNF/kg,9134.0
+2022-05-15,Conakry (Madina),sucre,GNF/kg,8907.0
+2022-05-22,Conakry (Madina),sucre,GNF/kg,8901.0
+2022-05-29,Conakry (Madina),sucre,GNF/kg,8940.0
+2022-06-05,Conakry (Madina),sucre,GNF/kg,9449.0
+2022-06-12,Conakry (Madina),sucre,GNF/kg,9497.0
+2022-06-19,Conakry (Madina),sucre,GNF/kg,
+2022-06-26,Conakry (Madina),sucre,GNF/kg,9738.0
+2022-07-03,Conakry (Madina),sucre,GNF/kg,9570.0
+2022-07-10,Conakry (Madina),sucre,GNF/kg,10005.0
+2022-07-17,Conakry (Madina),sucre,GNF/kg,9743.0
+2022-07-24,Conakry (Madina),sucre,GNF/kg,9687.0
+2022-07-31,Conakry (Madina),sucre,GNF/kg,
+2022-08-07,Conakry (Madina),sucre,GNF/kg,9554.0
+2022-08-14,Conakry (Madina),sucre,GNF/kg,9648.0
+2022-08-21,Conakry (Madina),sucre,GNF/kg,9833.0
+2022-08-28,Conakry (Madina),sucre,GNF/kg,9523.0
+2022-09-04,Conakry (Madina),sucre,GNF/kg,10092.0
+2022-09-11,Conakry (Madina),sucre,GNF/kg,10101.0
+2022-09-18,Conakry (Madina),sucre,GNF/kg,9921.0
+2022-09-25,Conakry (Madina),sucre,GNF/kg,9755.0
+2022-10-02,Conakry (Madina),sucre,GNF/kg,9750.0
+2022-10-09,Conakry (Madina),sucre,GNF/kg,9529.0
+2022-10-16,Conakry (Madina),sucre,GNF/kg,9683.0
+2022-10-23,Conakry (Madina),sucre,GNF/kg,9735.0
+2022-10-30,Conakry (Madina),sucre,GNF/kg,9685.0
+2022-11-06,Conakry (Madina),sucre,GNF/kg,9551.0
+2022-11-13,Conakry (Madina),sucre,GNF/kg,9726.0
+2022-11-20,Conakry (Madina),sucre,GNF/kg,9638.0
+2022-11-27,Conakry (Madina),sucre,GNF/kg,9427.0
+2022-12-04,Conakry (Madina),sucre,GNF/kg,9438.0
+2022-12-11,Conakry (Madina),sucre,GNF/kg,9408.0
+2022-12-18,Conakry (Madina),sucre,GNF/kg,9585.0
+2022-12-25,Conakry (Madina),sucre,GNF/kg,10008.0
+2023-01-01,Conakry (Madina),sucre,GNF/kg,9897.0
+2023-01-08,Conakry (Madina),sucre,GNF/kg,9759.0
+2023-01-15,Conakry (Madina),sucre,GNF/kg,9833.0
+2023-01-22,Conakry (Madina),sucre,GNF/kg,9632.0
+2023-01-29,Conakry (Madina),sucre,GNF/kg,9528.0
+2023-02-05,Conakry (Madina),sucre,GNF/kg,8479.0
+2023-02-12,Conakry (Madina),sucre,GNF/kg,8817.0
+2023-02-19,Conakry (Madina),sucre,GNF/kg,8208.0
+2023-02-26,Conakry (Madina),sucre,GNF/kg,8720.0
+2023-03-05,Conakry (Madina),sucre,GNF/kg,8451.0
+2023-03-12,Conakry (Madina),sucre,GNF/kg,8618.0
+2023-03-19,Conakry (Madina),sucre,GNF/kg,9063.0
+2023-03-26,Conakry (Madina),sucre,GNF/kg,8903.0
+2023-04-02,Conakry (Madina),sucre,GNF/kg,8799.0
+2023-04-09,Conakry (Madina),sucre,GNF/kg,8936.0
+2023-04-16,Conakry (Madina),sucre,GNF/kg,9066.0
+2023-04-23,Conakry (Madina),sucre,GNF/kg,8900.0
+2023-04-30,Conakry (Madina),sucre,GNF/kg,8818.0
+2023-05-07,Conakry (Madina),sucre,GNF/kg,9010.0
+2023-05-14,Conakry (Madina),sucre,GNF/kg,9370.0
+2023-05-21,Conakry (Madina),sucre,GNF/kg,9126.0
+2023-05-28,Conakry (Madina),sucre,GNF/kg,9160.0
+2023-06-04,Conakry (Madina),sucre,GNF/kg,9110.0
+2023-06-11,Conakry (Madina),sucre,GNF/kg,9048.0
+2023-06-18,Conakry (Madina),sucre,GNF/kg,9466.0
+2023-06-25,Conakry (Madina),sucre,GNF/kg,9134.0
+2023-07-02,Conakry (Madina),sucre,GNF/kg,9260.0
+2023-07-09,Conakry (Madina),sucre,GNF/kg,9710.0
+2023-07-16,Conakry (Madina),sucre,GNF/kg,
+2023-07-23,Conakry (Madina),sucre,GNF/kg,9401.0
+2023-07-30,Conakry (Madina),sucre,GNF/kg,9411.0
+2023-08-06,Conakry (Madina),sucre,GNF/kg,9443.0
+2023-08-13,Conakry (Madina),sucre,GNF/kg,9471.0
+2023-08-20,Conakry (Madina),sucre,GNF/kg,9917.0
+2023-08-27,Conakry (Madina),sucre,GNF/kg,9572.0
+2023-09-03,Conakry (Madina),sucre,GNF/kg,9279.0
+2023-09-10,Conakry (Madina),sucre,GNF/kg,9693.0
+2023-09-17,Conakry (Madina),sucre,GNF/kg,9579.0
+2023-09-24,Conakry (Madina),sucre,GNF/kg,9476.0
+2023-10-01,Conakry (Madina),sucre,GNF/kg,9431.0
+2023-10-08,Conakry (Madina),sucre,GNF/kg,9523.0
+2023-10-15,Conakry (Madina),sucre,GNF/kg,9533.0
+2023-10-22,Conakry (Madina),sucre,GNF/kg,9876.0
+2023-10-29,Conakry (Madina),sucre,GNF/kg,9728.0
+2023-11-05,Conakry (Madina),sucre,GNF/kg,9962.0
+2023-11-12,Conakry (Madina),sucre,GNF/kg,10534.0
+2023-11-19,Conakry (Madina),sucre,GNF/kg,9926.0
+2023-11-26,Conakry (Madina),sucre,GNF/kg,9932.0
+2023-12-03,Conakry (Madina),sucre,GNF/kg,9808.0
+2023-12-10,Conakry (Madina),sucre,GNF/kg,10080.0
+2023-12-17,Conakry (Madina),sucre,GNF/kg,9886.0
+2023-12-24,Conakry (Madina),sucre,GNF/kg,10011.0
+2023-12-31,Conakry (Madina),sucre,GNF/kg,10410.0
+2024-01-07,Conakry (Madina),sucre,GNF/kg,10222.0
+2024-01-14,Conakry (Madina),sucre,GNF/kg,10153.0
+2024-01-21,Conakry (Madina),sucre,GNF/kg,9887.0
+2024-01-28,Conakry (Madina),sucre,GNF/kg,10533.0
+2024-02-04,Conakry (Madina),sucre,GNF/kg,9879.0
+2024-02-11,Conakry (Madina),sucre,GNF/kg,10314.0
+2024-02-18,Conakry (Madina),sucre,GNF/kg,10231.0
+2024-02-25,Conakry (Madina),sucre,GNF/kg,10183.0
+2024-03-03,Conakry (Madina),sucre,GNF/kg,9758.0
+2024-03-10,Conakry (Madina),sucre,GNF/kg,9814.0
+2024-03-17,Conakry (Madina),sucre,GNF/kg,9717.0
+2024-03-24,Conakry (Madina),sucre,GNF/kg,9812.0
+2024-03-31,Conakry (Madina),sucre,GNF/kg,9814.0
+2024-04-07,Conakry (Madina),sucre,GNF/kg,
+2024-04-14,Conakry (Madina),sucre,GNF/kg,10277.0
+2024-04-21,Conakry (Madina),sucre,GNF/kg,10139.0
+2024-04-28,Conakry (Madina),sucre,GNF/kg,9957.0
+2024-05-05,Conakry (Madina),sucre,GNF/kg,9489.0
+2024-05-12,Conakry (Madina),sucre,GNF/kg,9807.0
+2024-05-19,Conakry (Madina),sucre,GNF/kg,9693.0
+2024-05-26,Conakry (Madina),sucre,GNF/kg,9373.0
+2024-06-02,Conakry (Madina),sucre,GNF/kg,10112.0
+2024-06-09,Conakry (Madina),sucre,GNF/kg,10428.0
+2024-06-16,Conakry (Madina),sucre,GNF/kg,10227.0
+2024-06-23,Conakry (Madina),sucre,GNF/kg,9947.0
+2024-06-30,Conakry (Madina),sucre,GNF/kg,10173.0
+2024-07-07,Conakry (Madina),sucre,GNF/kg,9942.0
+2024-07-14,Conakry (Madina),sucre,GNF/kg,10029.0
+2024-07-21,Conakry (Madina),sucre,GNF/kg,10108.0
+2024-07-28,Conakry (Madina),sucre,GNF/kg,10252.0
+2024-08-04,Conakry (Madina),sucre,GNF/kg,10016.0
+2024-08-11,Conakry (Madina),sucre,GNF/kg,10094.0
+2024-08-18,Conakry (Madina),sucre,GNF/kg,10589.0
+2024-08-25,Conakry (Madina),sucre,GNF/kg,10295.0
+2024-09-01,Conakry (Madina),sucre,GNF/kg,10341.0
+2024-09-08,Conakry (Madina),sucre,GNF/kg,10275.0
+2024-09-15,Conakry (Madina),sucre,GNF/kg,10376.0
+2024-09-22,Conakry (Madina),sucre,GNF/kg,10055.0
+2024-09-29,Conakry (Madina),sucre,GNF/kg,10672.0
+2024-10-06,Conakry (Madina),sucre,GNF/kg,10289.0
+2024-10-13,Conakry (Madina),sucre,GNF/kg,10259.0
+2024-10-20,Conakry (Madina),sucre,GNF/kg,10294.0
+2024-10-27,Conakry (Madina),sucre,GNF/kg,10530.0
+2024-11-03,Conakry (Madina),sucre,GNF/kg,10137.0
+2024-11-10,Conakry (Madina),sucre,GNF/kg,10314.0
+2024-11-17,Conakry (Madina),sucre,GNF/kg,
+2024-11-24,Conakry (Madina),sucre,GNF/kg,10654.0
+2024-12-01,Conakry (Madina),sucre,GNF/kg,10583.0
+2024-12-08,Conakry (Madina),sucre,GNF/kg,9860.0
+2024-12-15,Conakry (Madina),sucre,GNF/kg,9896.0
+2024-12-22,Conakry (Madina),sucre,GNF/kg,10196.0
+2024-12-29,Conakry (Madina),sucre,GNF/kg,10189.0
+2019-01-06,Kankan,sucre,GNF/kg,6702.0
+2019-01-13,Kankan,sucre,GNF/kg,6676.0
+2019-01-20,Kankan,sucre,GNF/kg,6904.0
+2019-01-27,Kankan,sucre,GNF/kg,6756.0
+2019-02-03,Kankan,sucre,GNF/kg,6813.0
+2019-02-10,Kankan,sucre,GNF/kg,6967.0
+2019-02-17,Kankan,sucre,GNF/kg,6583.0
+2019-02-24,Kankan,sucre,GNF/kg,6608.0
+2019-03-03,Kankan,sucre,GNF/kg,7130.0
+2019-03-10,Kankan,sucre,GNF/kg,7008.0
+2019-03-17,Kankan,sucre,GNF/kg,6968.0
+2019-03-24,Kankan,sucre,GNF/kg,6888.0
+2019-03-31,Kankan,sucre,GNF/kg,7044.0
+2019-04-07,Kankan,sucre,GNF/kg,7006.0
+2019-04-14,Kankan,sucre,GNF/kg,7267.0
+2019-04-21,Kankan,sucre,GNF/kg,7101.0
+2019-04-28,Kankan,sucre,GNF/kg,7362.0
+2019-05-05,Kankan,sucre,GNF/kg,7091.0
+2019-05-12,Kankan,sucre,GNF/kg,6891.0
+2019-05-19,Kankan,sucre,GNF/kg,7061.0
+2019-05-26,Kankan,sucre,GNF/kg,6851.0
+2019-06-02,Kankan,sucre,GNF/kg,7418.0
+2019-06-09,Kankan,sucre,GNF/kg,7307.0
+2019-06-16,Kankan,sucre,GNF/kg,7384.0
+2019-06-23,Kankan,sucre,GNF/kg,7128.0
+2019-06-30,Kankan,sucre,GNF/kg,7544.0
+2019-07-07,Kankan,sucre,GNF/kg,7362.0
+2019-07-14,Kankan,sucre,GNF/kg,7540.0
+2019-07-21,Kankan,sucre,GNF/kg,7257.0
+2019-07-28,Kankan,sucre,GNF/kg,
+2019-08-04,Kankan,sucre,GNF/kg,7305.0
+2019-08-11,Kankan,sucre,GNF/kg,7769.0
+2019-08-18,Kankan,sucre,GNF/kg,7420.0
+2019-08-25,Kankan,sucre,GNF/kg,7294.0
+2019-09-01,Kankan,sucre,GNF/kg,7393.0
+2019-09-08,Kankan,sucre,GNF/kg,7717.0
+2019-09-15,Kankan,sucre,GNF/kg,7515.0
+2019-09-22,Kankan,sucre,GNF/kg,7621.0
+2019-09-29,Kankan,sucre,GNF/kg,7481.0
+2019-10-06,Kankan,sucre,GNF/kg,7213.0
+2019-10-13,Kankan,sucre,GNF/kg,7727.0
+2019-10-20,Kankan,sucre,GNF/kg,7501.0
+2019-10-27,Kankan,sucre,GNF/kg,7258.0
+2019-11-03,Kankan,sucre,GNF/kg,7275.0
+2019-11-10,Kankan,sucre,GNF/kg,7391.0
+2019-11-17,Kankan,sucre,GNF/kg,7467.0
+2019-11-24,Kankan,sucre,GNF/kg,7444.0
+2019-12-01,Kankan,sucre,GNF/kg,7555.0
+2019-12-08,Kankan,sucre,GNF/kg,7261.0
+2019-12-15,Kankan,sucre,GNF/kg,7380.0
+2019-12-22,Kankan,sucre,GNF/kg,7431.0
+2019-12-29,Kankan,sucre,GNF/kg,7492.0
+2020-01-05,Kankan,sucre,GNF/kg,7209.0
+2020-01-12,Kankan,sucre,GNF/kg,7274.0
+2020-01-19,Kankan,sucre,GNF/kg,7361.0
+2020-01-26,Kankan,sucre,GNF/kg,
+2020-02-02,Kankan,sucre,GNF/kg,7567.0
+2020-02-09,Kankan,sucre,GNF/kg,7357.0
+2020-02-16,Kankan,sucre,GNF/kg,7431.0
+2020-02-23,Kankan,sucre,GNF/kg,7387.0
+2020-03-01,Kankan,sucre,GNF/kg,8018.0
+2020-03-08,Kankan,sucre,GNF/kg,7819.0
+2020-03-15,Kankan,sucre,GNF/kg,8150.0
+2020-03-22,Kankan,sucre,GNF/kg,7954.0
+2020-03-29,Kankan,sucre,GNF/kg,8257.0
+2020-04-05,Kankan,sucre,GNF/kg,8183.0
+2020-04-12,Kankan,sucre,GNF/kg,8175.0
+2020-04-19,Kankan,sucre,GNF/kg,8532.0
+2020-04-26,Kankan,sucre,GNF/kg,8315.0
+2020-05-03,Kankan,sucre,GNF/kg,8466.0
+2020-05-10,Kankan,sucre,GNF/kg,8261.0
+2020-05-17,Kankan,sucre,GNF/kg,8289.0
+2020-05-24,Kankan,sucre,GNF/kg,8244.0
+2020-05-31,Kankan,sucre,GNF/kg,8467.0
+2020-06-07,Kankan,sucre,GNF/kg,8429.0
+2020-06-14,Kankan,sucre,GNF/kg,8410.0
+2020-06-21,Kankan,sucre,GNF/kg,8355.0
+2020-06-28,Kankan,sucre,GNF/kg,8421.0
+2020-07-05,Kankan,sucre,GNF/kg,8653.0
+2020-07-12,Kankan,sucre,GNF/kg,8742.0
+2020-07-19,Kankan,sucre,GNF/kg,8753.0
+2020-07-26,Kankan,sucre,GNF/kg,8603.0
+2020-08-02,Kankan,sucre,GNF/kg,8639.0
+2020-08-09,Kankan,sucre,GNF/kg,8575.0
+2020-08-16,Kankan,sucre,GNF/kg,9026.0
+2020-08-23,Kankan,sucre,GNF/kg,8746.0
+2020-08-30,Kankan,sucre,GNF/kg,8768.0
+2020-09-06,Kankan,sucre,GNF/kg,8396.0
+2020-09-13,Kankan,sucre,GNF/kg,8645.0
+2020-09-20,Kankan,sucre,GNF/kg,8238.0
+2020-09-27,Kankan,sucre,GNF/kg,
+2020-10-04,Kankan,sucre,GNF/kg,8304.0
+2020-10-11,Kankan,sucre,GNF/kg,8221.0
+2020-10-18,Kankan,sucre,GNF/kg,7812.0
+2020-10-25,Kankan,sucre,GNF/kg,8107.0
+2020-11-01,Kankan,sucre,GNF/kg,8132.0
+2020-11-08,Kankan,sucre,GNF/kg,8331.0
+2020-11-15,Kankan,sucre,GNF/kg,8289.0
+2020-11-22,Kankan,sucre,GNF/kg,8013.0
+2020-11-29,Kankan,sucre,GNF/kg,7914.0
+2020-12-06,Kankan,sucre,GNF/kg,7813.0
+2020-12-13,Kankan,sucre,GNF/kg,8116.0
+2020-12-20,Kankan,sucre,GNF/kg,7774.0
+2020-12-27,Kankan,sucre,GNF/kg,7767.0
+2021-01-03,Kankan,sucre,GNF/kg,7993.0
+2021-01-10,Kankan,sucre,GNF/kg,7896.0
+2021-01-17,Kankan,sucre,GNF/kg,7980.0
+2021-01-24,Kankan,sucre,GNF/kg,7916.0
+2021-01-31,Kankan,sucre,GNF/kg,8162.0
+2021-02-07,Kankan,sucre,GNF/kg,8183.0
+2021-02-14,Kankan,sucre,GNF/kg,8245.0
+2021-02-21,Kankan,sucre,GNF/kg,8083.0
+2021-02-28,Kankan,sucre,GNF/kg,7884.0
+2021-03-07,Kankan,sucre,GNF/kg,
+2021-03-14,Kankan,sucre,GNF/kg,8339.0
+2021-03-21,Kankan,sucre,GNF/kg,8264.0
+2021-03-28,Kankan,sucre,GNF/kg,8058.0
+2021-04-04,Kankan,sucre,GNF/kg,8192.0
+2021-04-11,Kankan,sucre,GNF/kg,8117.0
+2021-04-18,Kankan,sucre,GNF/kg,8049.0
+2021-04-25,Kankan,sucre,GNF/kg,8282.0
+2021-05-02,Kankan,sucre,GNF/kg,8096.0
+2021-05-09,Kankan,sucre,GNF/kg,8387.0
+2021-05-16,Kankan,sucre,GNF/kg,8172.0
+2021-05-23,Kankan,sucre,GNF/kg,8271.0
+2021-05-30,Kankan,sucre,GNF/kg,8041.0
+2021-06-06,Kankan,sucre,GNF/kg,8477.0
+2021-06-13,Kankan,sucre,GNF/kg,
+2021-06-20,Kankan,sucre,GNF/kg,
+2021-06-27,Kankan,sucre,GNF/kg,8630.0
+2021-07-04,Kankan,sucre,GNF/kg,8779.0
+2021-07-11,Kankan,sucre,GNF/kg,8769.0
+2021-07-18,Kankan,sucre,GNF/kg,8794.0
+2021-07-25,Kankan,sucre,GNF/kg,8548.0
+2021-08-01,Kankan,sucre,GNF/kg,8722.0
+2021-08-08,Kankan,sucre,GNF/kg,8652.0
+2021-08-15,Kankan,sucre,GNF/kg,8218.0
+2021-08-22,Kankan,sucre,GNF/kg,8525.0
+2021-08-29,Kankan,sucre,GNF/kg,8714.0
+2021-09-05,Kankan,sucre,GNF/kg,8169.0
+2021-09-12,Kankan,sucre,GNF/kg,8507.0
+2021-09-19,Kankan,sucre,GNF/kg,8947.0
+2021-09-26,Kankan,sucre,GNF/kg,8486.0
+2021-10-03,Kankan,sucre,GNF/kg,8398.0
+2021-10-10,Kankan,sucre,GNF/kg,
+2021-10-17,Kankan,sucre,GNF/kg,8890.0
+2021-10-24,Kankan,sucre,GNF/kg,8684.0
+2021-10-31,Kankan,sucre,GNF/kg,8774.0
+2021-11-07,Kankan,sucre,GNF/kg,9020.0
+2021-11-14,Kankan,sucre,GNF/kg,8711.0
+2021-11-21,Kankan,sucre,GNF/kg,8483.0
+2021-11-28,Kankan,sucre,GNF/kg,8380.0
+2021-12-05,Kankan,sucre,GNF/kg,8900.0
+2021-12-12,Kankan,sucre,GNF/kg,8506.0
+2021-12-19,Kankan,sucre,GNF/kg,8197.0
+2021-12-26,Kankan,sucre,GNF/kg,8477.0
+2022-01-02,Kankan,sucre,GNF/kg,8178.0
+2022-01-09,Kankan,sucre,GNF/kg,8922.0
+2022-01-16,Kankan,sucre,GNF/kg,8963.0
+2022-01-23,Kankan,sucre,GNF/kg,8649.0
+2022-01-30,Kankan,sucre,GNF/kg,8509.0
+2022-02-06,Kankan,sucre,GNF/kg,8123.0
+2022-02-13,Kankan,sucre,GNF/kg,8344.0
+2022-02-20,Kankan,sucre,GNF/kg,8735.0
+2022-02-27,Kankan,sucre,GNF/kg,9035.0
+2022-03-06,Kankan,sucre,GNF/kg,8999.0
+2022-03-13,Kankan,sucre,GNF/kg,9058.0
+2022-03-20,Kankan,sucre,GNF/kg,9160.0
+2022-03-27,Kankan,sucre,GNF/kg,9151.0
+2022-04-03,Kankan,sucre,GNF/kg,9647.0
+2022-04-10,Kankan,sucre,GNF/kg,9534.0
+2022-04-17,Kankan,sucre,GNF/kg,10036.0
+2022-04-24,Kankan,sucre,GNF/kg,10102.0
+2022-05-01,Kankan,sucre,GNF/kg,9669.0
+2022-05-08,Kankan,sucre,GNF/kg,9660.0
+2022-05-15,Kankan,sucre,GNF/kg,9560.0
+2022-05-22,Kankan,sucre,GNF/kg,9681.0
+2022-05-29,Kankan,sucre,GNF/kg,9679.0
+2022-06-05,Kankan,sucre,GNF/kg,10562.0
+2022-06-12,Kankan,sucre,GNF/kg,9990.0
+2022-06-19,Kankan,sucre,GNF/kg,10351.0
+2022-06-26,Kankan,sucre,GNF/kg,10439.0
+2022-07-03,Kankan,sucre,GNF/kg,10343.0
+2022-07-10,Kankan,sucre,GNF/kg,10483.0
+2022-07-17,Kankan,sucre,GNF/kg,10297.0
+2022-07-24,Kankan,sucre,GNF/kg,10454.0
+2022-07-31,Kankan,sucre,GNF/kg,10665.0
+2022-08-07,Kankan,sucre,GNF/kg,10580.0
+2022-08-14,Kankan,sucre,GNF/kg,10548.0
+2022-08-21,Kankan,sucre,GNF/kg,10592.0
+2022-08-28,Kankan,sucre,GNF/kg,10633.0
+2022-09-04,Kankan,sucre,GNF/kg,10625.0
+2022-09-11,Kankan,sucre,GNF/kg,10362.0
+2022-09-18,Kankan,sucre,GNF/kg,10578.0
+2022-09-25,Kankan,sucre,GNF/kg,10352.0
+2022-10-02,Kankan,sucre,GNF/kg,10288.0
+2022-10-09,Kankan,sucre,GNF/kg,10194.0
+2022-10-16,Kankan,sucre,GNF/kg,10059.0
+2022-10-23,Kankan,sucre,GNF/kg,10330.0
+2022-10-30,Kankan,sucre,GNF/kg,10166.0
+2022-11-06,Kankan,sucre,GNF/kg,10315.0
+2022-11-13,Kankan,sucre,GNF/kg,10102.0
+2022-11-20,Kankan,sucre,GNF/kg,9949.0
+2022-11-27,Kankan,sucre,GNF/kg,
+2022-12-04,Kankan,sucre,GNF/kg,10088.0
+2022-12-11,Kankan,sucre,GNF/kg,10314.0
+2022-12-18,Kankan,sucre,GNF/kg,10315.0
+2022-12-25,Kankan,sucre,GNF/kg,10302.0
+2023-01-01,Kankan,sucre,GNF/kg,10449.0
+2023-01-08,Kankan,sucre,GNF/kg,10600.0
+2023-01-15,Kankan,sucre,GNF/kg,10269.0
+2023-01-22,Kankan,sucre,GNF/kg,10214.0
+2023-01-29,Kankan,sucre,GNF/kg,10465.0
+2023-02-05,Kankan,sucre,GNF/kg,
+2023-02-12,Kankan,sucre,GNF/kg,
+2023-02-19,Kankan,sucre,GNF/kg,9378.0
+2023-02-26,Kankan,sucre,GNF/kg,8852.0
+2023-03-05,Kankan,sucre,GNF/kg,9356.0
+2023-03-12,Kankan,sucre,GNF/kg,9360.0
+2023-03-19,Kankan,sucre,GNF/kg,
+2023-03-26,Kankan,sucre,GNF/kg,9717.0
+2023-04-02,Kankan,sucre,GNF/kg,9542.0
+2023-04-09,Kankan,sucre,GNF/kg,9537.0
+2023-04-16,Kankan,sucre,GNF/kg,9692.0
+2023-04-23,Kankan,sucre,GNF/kg,9546.0
+2023-04-30,Kankan,sucre,GNF/kg,9862.0
+2023-05-07,Kankan,sucre,GNF/kg,9515.0
+2023-05-14,Kankan,sucre,GNF/kg,9707.0
+2023-05-21,Kankan,sucre,GNF/kg,10110.0
+2023-05-28,Kankan,sucre,GNF/kg,9612.0
+2023-06-04,Kankan,sucre,GNF/kg,9751.0
+2023-06-11,Kankan,sucre,GNF/kg,9642.0
+2023-06-18,Kankan,sucre,GNF/kg,9892.0
+2023-06-25,Kankan,sucre,GNF/kg,9677.0
+2023-07-02,Kankan,sucre,GNF/kg,9954.0
+2023-07-09,Kankan,sucre,GNF/kg,10346.0
+2023-07-16,Kankan,sucre,GNF/kg,9958.0
+2023-07-23,Kankan,sucre,GNF/kg,10305.0
+2023-07-30,Kankan,sucre,GNF/kg,10214.0
+2023-08-06,Kankan,sucre,GNF/kg,10292.0
+2023-08-13,Kankan,sucre,GNF/kg,10112.0
+2023-08-20,Kankan,sucre,GNF/kg,10817.0
+2023-08-27,Kankan,sucre,GNF/kg,10370.0
+2023-09-03,Kankan,sucre,GNF/kg,10413.0
+2023-09-10,Kankan,sucre,GNF/kg,10156.0
+2023-09-17,Kankan,sucre,GNF/kg,10226.0
+2023-09-24,Kankan,sucre,GNF/kg,10388.0
+2023-10-01,Kankan,sucre,GNF/kg,10355.0
+2023-10-08,Kankan,sucre,GNF/kg,10462.0
+2023-10-15,Kankan,sucre,GNF/kg,10352.0
+2023-10-22,Kankan,sucre,GNF/kg,10229.0
+2023-10-29,Kankan,sucre,GNF/kg,10596.0
+2023-11-05,Kankan,sucre,GNF/kg,10606.0
+2023-11-12,Kankan,sucre,GNF/kg,10452.0
+2023-11-19,Kankan,sucre,GNF/kg,10795.0
+2023-11-26,Kankan,sucre,GNF/kg,10705.0
+2023-12-03,Kankan,sucre,GNF/kg,10932.0
+2023-12-10,Kankan,sucre,GNF/kg,10855.0
+2023-12-17,Kankan,sucre,GNF/kg,10846.0
+2023-12-24,Kankan,sucre,GNF/kg,10612.0
+2023-12-31,Kankan,sucre,GNF/kg,10927.0
+2024-01-07,Kankan,sucre,GNF/kg,10573.0
+2024-01-14,Kankan,sucre,GNF/kg,10390.0
+2024-01-21,Kankan,sucre,GNF/kg,11043.0
+2024-01-28,Kankan,sucre,GNF/kg,10792.0
+2024-02-04,Kankan,sucre,GNF/kg,10953.0
+2024-02-11,Kankan,sucre,GNF/kg,10958.0
+2024-02-18,Kankan,sucre,GNF/kg,10643.0
+2024-02-25,Kankan,sucre,GNF/kg,10898.0
+2024-03-03,Kankan,sucre,GNF/kg,10477.0
+2024-03-10,Kankan,sucre,GNF/kg,10128.0
+2024-03-17,Kankan,sucre,GNF/kg,10508.0
+2024-03-24,Kankan,sucre,GNF/kg,10405.0
+2024-03-31,Kankan,sucre,GNF/kg,10466.0
+2024-04-07,Kankan,sucre,GNF/kg,11122.0
+2024-04-14,Kankan,sucre,GNF/kg,10499.0
+2024-04-21,Kankan,sucre,GNF/kg,10936.0
+2024-04-28,Kankan,sucre,GNF/kg,
+2024-05-05,Kankan,sucre,GNF/kg,10430.0
+2024-05-12,Kankan,sucre,GNF/kg,10482.0
+2024-05-19,Kankan,sucre,GNF/kg,10613.0
+2024-05-26,Kankan,sucre,GNF/kg,10278.0
+2024-06-02,Kankan,sucre,GNF/kg,10597.0
+2024-06-09,Kankan,sucre,GNF/kg,11235.0
+2024-06-16,Kankan,sucre,GNF/kg,11318.0
+2024-06-23,Kankan,sucre,GNF/kg,10953.0
+2024-06-30,Kankan,sucre,GNF/kg,10697.0
+2024-07-07,Kankan,sucre,GNF/kg,10983.0
+2024-07-14,Kankan,sucre,GNF/kg,11392.0
+2024-07-21,Kankan,sucre,GNF/kg,
+2024-07-28,Kankan,sucre,GNF/kg,11089.0
+2024-08-04,Kankan,sucre,GNF/kg,10645.0
+2024-08-11,Kankan,sucre,GNF/kg,10879.0
+2024-08-18,Kankan,sucre,GNF/kg,11072.0
+2024-08-25,Kankan,sucre,GNF/kg,11024.0
+2024-09-01,Kankan,sucre,GNF/kg,10851.0
+2024-09-08,Kankan,sucre,GNF/kg,10910.0
+2024-09-15,Kankan,sucre,GNF/kg,11410.0
+2024-09-22,Kankan,sucre,GNF/kg,11416.0
+2024-09-29,Kankan,sucre,GNF/kg,11525.0
+2024-10-06,Kankan,sucre,GNF/kg,11274.0
+2024-10-13,Kankan,sucre,GNF/kg,11038.0
+2024-10-20,Kankan,sucre,GNF/kg,10980.0
+2024-10-27,Kankan,sucre,GNF/kg,
+2024-11-03,Kankan,sucre,GNF/kg,11291.0
+2024-11-10,Kankan,sucre,GNF/kg,10959.0
+2024-11-17,Kankan,sucre,GNF/kg,10858.0
+2024-11-24,Kankan,sucre,GNF/kg,11148.0
+2024-12-01,Kankan,sucre,GNF/kg,11116.0
+2024-12-08,Kankan,sucre,GNF/kg,
+2024-12-15,Kankan,sucre,GNF/kg,11100.0
+2024-12-22,Kankan,sucre,GNF/kg,11086.0
+2024-12-29,Kankan,sucre,GNF/kg,11260.0
+2019-01-06,Kindia,sucre,GNF/kg,6483.0
+2019-01-13,Kindia,sucre,GNF/kg,6861.0
+2019-01-20,Kindia,sucre,GNF/kg,6633.0
+2019-01-27,Kindia,sucre,GNF/kg,
+2019-02-03,Kindia,sucre,GNF/kg,6438.0
+2019-02-10,Kindia,sucre,GNF/kg,6699.0
+2019-02-17,Kindia,sucre,GNF/kg,6445.0
+2019-02-24,Kindia,sucre,GNF/kg,6498.0
+2019-03-03,Kindia,sucre,GNF/kg,6734.0
+2019-03-10,Kindia,sucre,GNF/kg,6504.0
+2019-03-17,Kindia,sucre,GNF/kg,6954.0
+2019-03-24,Kindia,sucre,GNF/kg,6767.0
+2019-03-31,Kindia,sucre,GNF/kg,7001.0
+2019-04-07,Kindia,sucre,GNF/kg,6758.0
+2019-04-14,Kindia,sucre,GNF/kg,6773.0
+2019-04-21,Kindia,sucre,GNF/kg,6788.0
+2019-04-28,Kindia,sucre,GNF/kg,6983.0
+2019-05-05,Kindia,sucre,GNF/kg,6883.0
+2019-05-12,Kindia,sucre,GNF/kg,6705.0
+2019-05-19,Kindia,sucre,GNF/kg,6724.0
+2019-05-26,Kindia,sucre,GNF/kg,6764.0
+2019-06-02,Kindia,sucre,GNF/kg,7150.0
+2019-06-09,Kindia,sucre,GNF/kg,6997.0
+2019-06-16,Kindia,sucre,GNF/kg,6920.0
+2019-06-23,Kindia,sucre,GNF/kg,7290.0
+2019-06-30,Kindia,sucre,GNF/kg,7106.0
+2019-07-07,Kindia,sucre,GNF/kg,7143.0
+2019-07-14,Kindia,sucre,GNF/kg,7034.0
+2019-07-21,Kindia,sucre,GNF/kg,7023.0
+2019-07-28,Kindia,sucre,GNF/kg,7002.0
+2019-08-04,Kindia,sucre,GNF/kg,7004.0
+2019-08-11,Kindia,sucre,GNF/kg,
+2019-08-18,Kindia,sucre,GNF/kg,7223.0
+2019-08-25,Kindia,sucre,GNF/kg,7325.0
+2019-09-01,Kindia,sucre,GNF/kg,7164.0
+2019-09-08,Kindia,sucre,GNF/kg,7406.0
+2019-09-15,Kindia,sucre,GNF/kg,7228.0
+2019-09-22,Kindia,sucre,GNF/kg,7446.0
+2019-09-29,Kindia,sucre,GNF/kg,7472.0
+2019-10-06,Kindia,sucre,GNF/kg,7261.0
+2019-10-13,Kindia,sucre,GNF/kg,7436.0
+2019-10-20,Kindia,sucre,GNF/kg,7253.0
+2019-10-27,Kindia,sucre,GNF/kg,7219.0
+2019-11-03,Kindia,sucre,GNF/kg,6821.0
+2019-11-10,Kindia,sucre,GNF/kg,6894.0
+2019-11-17,Kindia,sucre,GNF/kg,7004.0
+2019-11-24,Kindia,sucre,GNF/kg,7241.0
+2019-12-01,Kindia,sucre,GNF/kg,7153.0
+2019-12-08,Kindia,sucre,GNF/kg,6904.0
+2019-12-15,Kindia,sucre,GNF/kg,7076.0
+2019-12-22,Kindia,sucre,GNF/kg,6962.0
+2019-12-29,Kindia,sucre,GNF/kg,7241.0
+2020-01-05,Kindia,sucre,GNF/kg,6775.0
+2020-01-12,Kindia,sucre,GNF/kg,7062.0
+2020-01-19,Kindia,sucre,GNF/kg,7131.0
+2020-01-26,Kindia,sucre,GNF/kg,7363.0
+2020-02-02,Kindia,sucre,GNF/kg,7290.0
+2020-02-09,Kindia,sucre,GNF/kg,7155.0
+2020-02-16,Kindia,sucre,GNF/kg,7289.0
+2020-02-23,Kindia,sucre,GNF/kg,6966.0
+2020-03-01,Kindia,sucre,GNF/kg,7545.0
+2020-03-08,Kindia,sucre,GNF/kg,7850.0
+2020-03-15,Kindia,sucre,GNF/kg,7443.0
+2020-03-22,Kindia,sucre,GNF/kg,7741.0
+2020-03-29,Kindia,sucre,GNF/kg,7651.0
+2020-04-05,Kindia,sucre,GNF/kg,7954.0
+2020-04-12,Kindia,sucre,GNF/kg,7733.0
+2020-04-19,Kindia,sucre,GNF/kg,8015.0
+2020-04-26,Kindia,sucre,GNF/kg,8043.0
+2020-05-03,Kindia,sucre,GNF/kg,8171.0
+2020-05-10,Kindia,sucre,GNF/kg,7948.0
+2020-05-17,Kindia,sucre,GNF/kg,7821.0
+2020-05-24,Kindia,sucre,GNF/kg,7893.0
+2020-05-31,Kindia,sucre,GNF/kg,7856.0
+2020-06-07,Kindia,sucre,GNF/kg,8261.0
+2020-06-14,Kindia,sucre,GNF/kg,8308.0
+2020-06-21,Kindia,sucre,GNF/kg,8462.0
+2020-06-28,Kindia,sucre,GNF/kg,8009.0
+2020-07-05,Kindia,sucre,GNF/kg,8324.0
+2020-07-12,Kindia,sucre,GNF/kg,8241.0
+2020-07-19,Kindia,sucre,GNF/kg,8278.0
+2020-07-26,Kindia,sucre,GNF/kg,8466.0
+2020-08-02,Kindia,sucre,GNF/kg,8409.0
+2020-08-09,Kindia,sucre,GNF/kg,8598.0
+2020-08-16,Kindia,sucre,GNF/kg,8328.0
+2020-08-23,Kindia,sucre,GNF/kg,8512.0
+2020-08-30,Kindia,sucre,GNF/kg,8448.0
+2020-09-06,Kindia,sucre,GNF/kg,8264.0
+2020-09-13,Kindia,sucre,GNF/kg,8279.0
+2020-09-20,Kindia,sucre,GNF/kg,8193.0
+2020-09-27,Kindia,sucre,GNF/kg,7935.0
+2020-10-04,Kindia,sucre,GNF/kg,7887.0
+2020-10-11,Kindia,sucre,GNF/kg,7491.0
+2020-10-18,Kindia,sucre,GNF/kg,
+2020-10-25,Kindia,sucre,GNF/kg,8068.0
+2020-11-01,Kindia,sucre,GNF/kg,7856.0
+2020-11-08,Kindia,sucre,GNF/kg,7868.0
+2020-11-15,Kindia,sucre,GNF/kg,7870.0
+2020-11-22,Kindia,sucre,GNF/kg,7660.0
+2020-11-29,Kindia,sucre,GNF/kg,7719.0
+2020-12-06,Kindia,sucre,GNF/kg,7689.0
+2020-12-13,Kindia,sucre,GNF/kg,7718.0
+2020-12-20,Kindia,sucre,GNF/kg,7531.0
+2020-12-27,Kindia,sucre,GNF/kg,7573.0
+2021-01-03,Kindia,sucre,GNF/kg,7641.0
+2021-01-10,Kindia,sucre,GNF/kg,7636.0
+2021-01-17,Kindia,sucre,GNF/kg,7625.0
+2021-01-24,Kindia,sucre,GNF/kg,7857.0
+2021-01-31,Kindia,sucre,GNF/kg,7596.0
+2021-02-07,Kindia,sucre,GNF/kg,7704.0
+2021-02-14,Kindia,sucre,GNF/kg,7808.0
+2021-02-21,Kindia,sucre,GNF/kg,7916.0
+2021-02-28,Kindia,sucre,GNF/kg,7490.0
+2021-03-07,Kindia,sucre,GNF/kg,7633.0
+2021-03-14,Kindia,sucre,GNF/kg,7796.0
+2021-03-21,Kindia,sucre,GNF/kg,7977.0
+2021-03-28,Kindia,sucre,GNF/kg,7763.0
+2021-04-04,Kindia,sucre,GNF/kg,7865.0
+2021-04-11,Kindia,sucre,GNF/kg,7517.0
+2021-04-18,Kindia,sucre,GNF/kg,7856.0
+2021-04-25,Kindia,sucre,GNF/kg,7687.0
+2021-05-02,Kindia,sucre,GNF/kg,7510.0
+2021-05-09,Kindia,sucre,GNF/kg,8032.0
+2021-05-16,Kindia,sucre,GNF/kg,7640.0
+2021-05-23,Kindia,sucre,GNF/kg,8065.0
+2021-05-30,Kindia,sucre,GNF/kg,7775.0
+2021-06-06,Kindia,sucre,GNF/kg,8391.0
+2021-06-13,Kindia,sucre,GNF/kg,8274.0
+2021-06-20,Kindia,sucre,GNF/kg,8216.0
+2021-06-27,Kindia,sucre,GNF/kg,8252.0
+2021-07-04,Kindia,sucre,GNF/kg,
+2021-07-11,Kindia,sucre,GNF/kg,8342.0
+2021-07-18,Kindia,sucre,GNF/kg,8373.0
+2021-07-25,Kindia,sucre,GNF/kg,8501.0
+2021-08-01,Kindia,sucre,GNF/kg,8217.0
+2021-08-08,Kindia,sucre,GNF/kg,8369.0
+2021-08-15,Kindia,sucre,GNF/kg,8474.0
+2021-08-22,Kindia,sucre,GNF/kg,8397.0
+2021-08-29,Kindia,sucre,GNF/kg,
+2021-09-05,Kindia,sucre,GNF/kg,8070.0
+2021-09-12,Kindia,sucre,GNF/kg,7914.0
+2021-09-19,Kindia,sucre,GNF/kg,8220.0
+2021-09-26,Kindia,sucre,GNF/kg,8329.0
+2021-10-03,Kindia,sucre,GNF/kg,8063.0
+2021-10-10,Kindia,sucre,GNF/kg,8390.0
+2021-10-17,Kindia,sucre,GNF/kg,8470.0
+2021-10-24,Kindia,sucre,GNF/kg,8195.0
+2021-10-31,Kindia,sucre,GNF/kg,8403.0
+2021-11-07,Kindia,sucre,GNF/kg,8508.0
+2021-11-14,Kindia,sucre,GNF/kg,8180.0
+2021-11-21,Kindia,sucre,GNF/kg,8513.0
+2021-11-28,Kindia,sucre,GNF/kg,8301.0
+2021-12-05,Kindia,sucre,GNF/kg,8536.0
+2021-12-12,Kindia,sucre,GNF/kg,8553.0
+2021-12-19,Kindia,sucre,GNF/kg,7984.0
+2021-12-26,Kindia,sucre,GNF/kg,8167.0
+2022-01-02,Kindia,sucre,GNF/kg,8152.0
+2022-01-09,Kindia,sucre,GNF/kg,8204.0
+2022-01-16,Kindia,sucre,GNF/kg,8647.0
+2022-01-23,Kindia,sucre,GNF/kg,8295.0
+2022-01-30,Kindia,sucre,GNF/kg,8403.0
+2022-02-06,Kindia,sucre,GNF/kg,8269.0
+2022-02-13,Kindia,sucre,GNF/kg,8242.0
+2022-02-20,Kindia,sucre,GNF/kg,7969.0
+2022-02-27,Kindia,sucre,GNF/kg,8206.0
+2022-03-06,Kindia,sucre,GNF/kg,8638.0
+2022-03-13,Kindia,sucre,GNF/kg,8737.0
+2022-03-20,Kindia,sucre,GNF/kg,8468.0
+2022-03-27,Kindia,sucre,GNF/kg,9148.0
+2022-04-03,Kindia,sucre,GNF/kg,8989.0
+2022-04-10,Kindia,sucre,GNF/kg,9080.0
+2022-04-17,Kindia,sucre,GNF/kg,9487.0
+2022-04-24,Kindia,sucre,GNF/kg,9402.0
+2022-05-01,Kindia,sucre,GNF/kg,9471.0
+2022-05-08,Kindia,sucre,GNF/kg,9459.0
+2022-05-15,Kindia,sucre,GNF/kg,9585.0
+2022-05-22,Kindia,sucre,GNF/kg,9585.0
+2022-05-29,Kindia,sucre,GNF/kg,9383.0
+2022-06-05,Kindia,sucre,GNF/kg,
+2022-06-12,Kindia,sucre,GNF/kg,9910.0
+2022-06-19,Kindia,sucre,GNF/kg,9731.0
+2022-06-26,Kindia,sucre,GNF/kg,10053.0
+2022-07-03,Kindia,sucre,GNF/kg,9841.0
+2022-07-10,Kindia,sucre,GNF/kg,10124.0
+2022-07-17,Kindia,sucre,GNF/kg,10041.0
+2022-07-24,Kindia,sucre,GNF/kg,10125.0
+2022-07-31,Kindia,sucre,GNF/kg,10204.0
+2022-08-07,Kindia,sucre,GNF/kg,9644.0
+2022-08-14,Kindia,sucre,GNF/kg,10092.0
+2022-08-21,Kindia,sucre,GNF/kg,10074.0
+2022-08-28,Kindia,sucre,GNF/kg,10157.0
+2022-09-04,Kindia,sucre,GNF/kg,10200.0
+2022-09-11,Kindia,sucre,GNF/kg,10425.0
+2022-09-18,Kindia,sucre,GNF/kg,10328.0
+2022-09-25,Kindia,sucre,GNF/kg,10071.0
+2022-10-02,Kindia,sucre,GNF/kg,10030.0
+2022-10-09,Kindia,sucre,GNF/kg,9948.0
+2022-10-16,Kindia,sucre,GNF/kg,9689.0
+2022-10-23,Kindia,sucre,GNF/kg,9742.0
+2022-10-30,Kindia,sucre,GNF/kg,9976.0
+2022-11-06,Kindia,sucre,GNF/kg,10090.0
+2022-11-13,Kindia,sucre,GNF/kg,9905.0
+2022-11-20,Kindia,sucre,GNF/kg,9869.0
+2022-11-27,Kindia,sucre,GNF/kg,9764.0
+2022-12-04,Kindia,sucre,GNF/kg,10138.0
+2022-12-11,Kindia,sucre,GNF/kg,9819.0
+2022-12-18,Kindia,sucre,GNF/kg,9884.0
+2022-12-25,Kindia,sucre,GNF/kg,10089.0
+2023-01-01,Kindia,sucre,GNF/kg,10376.0
+2023-01-08,Kindia,sucre,GNF/kg,9836.0
+2023-01-15,Kindia,sucre,GNF/kg,
+2023-01-22,Kindia,sucre,GNF/kg,10100.0
+2023-01-29,Kindia,sucre,GNF/kg,10131.0
+2023-02-05,Kindia,sucre,GNF/kg,8932.0
+2023-02-12,Kindia,sucre,GNF/kg,8800.0
+2023-02-19,Kindia,sucre,GNF/kg,9000.0
+2023-02-26,Kindia,sucre,GNF/kg,8993.0
+2023-03-05,Kindia,sucre,GNF/kg,8722.0
+2023-03-12,Kindia,sucre,GNF/kg,9000.0
+2023-03-19,Kindia,sucre,GNF/kg,9249.0
+2023-03-26,Kindia,sucre,GNF/kg,9604.0
+2023-04-02,Kindia,sucre,GNF/kg,9301.0
+2023-04-09,Kindia,sucre,GNF/kg,9234.0
+2023-04-16,Kindia,sucre,GNF/kg,9259.0
+2023-04-23,Kindia,sucre,GNF/kg,9334.0
+2023-04-30,Kindia,sucre,GNF/kg,9328.0
+2023-05-07,Kindia,sucre,GNF/kg,9458.0
+2023-05-14,Kindia,sucre,GNF/kg,9257.0
+2023-05-21,Kindia,sucre,GNF/kg,9606.0
+2023-05-28,Kindia,sucre,GNF/kg,9166.0
+2023-06-04,Kindia,sucre,GNF/kg,9354.0
+2023-06-11,Kindia,sucre,GNF/kg,9447.0
+2023-06-18,Kindia,sucre,GNF/kg,9803.0
+2023-06-25,Kindia,sucre,GNF/kg,9368.0
+2023-07-02,Kindia,sucre,GNF/kg,9500.0
+2023-07-09,Kindia,sucre,GNF/kg,9720.0
+2023-07-16,Kindia,sucre,GNF/kg,9989.0
+2023-07-23,Kindia,sucre,GNF/kg,9304.0
+2023-07-30,Kindia,sucre,GNF/kg,9520.0
+2023-08-06,Kindia,sucre,GNF/kg,10194.0
+2023-08-13,Kindia,sucre,GNF/kg,9812.0
+2023-08-20,Kindia,sucre,GNF/kg,9665.0
+2023-08-27,Kindia,sucre,GNF/kg,9794.0
+2023-09-03,Kindia,sucre,GNF/kg,9979.0
+2023-09-10,Kindia,sucre,GNF/kg,10074.0
+2023-09-17,Kindia,sucre,GNF/kg,10178.0
+2023-09-24,Kindia,sucre,GNF/kg,9820.0
+2023-10-01,Kindia,sucre,GNF/kg,9578.0
+2023-10-08,Kindia,sucre,GNF/kg,9951.0
+2023-10-15,Kindia,sucre,GNF/kg,9707.0
+2023-10-22,Kindia,sucre,GNF/kg,
+2023-10-29,Kindia,sucre,GNF/kg,9807.0
+2023-11-05,Kindia,sucre,GNF/kg,10153.0
+2023-11-12,Kindia,sucre,GNF/kg,10164.0
+2023-11-19,Kindia,sucre,GNF/kg,10143.0
+2023-11-26,Kindia,sucre,GNF/kg,10268.0
+2023-12-03,Kindia,sucre,GNF/kg,10154.0
+2023-12-10,Kindia,sucre,GNF/kg,9808.0
+2023-12-17,Kindia,sucre,GNF/kg,10163.0
+2023-12-24,Kindia,sucre,GNF/kg,10306.0
+2023-12-31,Kindia,sucre,GNF/kg,10430.0
+2024-01-07,Kindia,sucre,GNF/kg,
+2024-01-14,Kindia,sucre,GNF/kg,10248.0
+2024-01-21,Kindia,sucre,GNF/kg,10655.0
+2024-01-28,Kindia,sucre,GNF/kg,10519.0
+2024-02-04,Kindia,sucre,GNF/kg,10381.0
+2024-02-11,Kindia,sucre,GNF/kg,10201.0
+2024-02-18,Kindia,sucre,GNF/kg,10345.0
+2024-02-25,Kindia,sucre,GNF/kg,10248.0
+2024-03-03,Kindia,sucre,GNF/kg,10235.0
+2024-03-10,Kindia,sucre,GNF/kg,10038.0
+2024-03-17,Kindia,sucre,GNF/kg,9924.0
+2024-03-24,Kindia,sucre,GNF/kg,10279.0
+2024-03-31,Kindia,sucre,GNF/kg,10231.0
+2024-04-07,Kindia,sucre,GNF/kg,10269.0
+2024-04-14,Kindia,sucre,GNF/kg,10409.0
+2024-04-21,Kindia,sucre,GNF/kg,10443.0
+2024-04-28,Kindia,sucre,GNF/kg,10186.0
+2024-05-05,Kindia,sucre,GNF/kg,9888.0
+2024-05-12,Kindia,sucre,GNF/kg,9923.0
+2024-05-19,Kindia,sucre,GNF/kg,9975.0
+2024-05-26,Kindia,sucre,GNF/kg,9770.0
+2024-06-02,Kindia,sucre,GNF/kg,10275.0
+2024-06-09,Kindia,sucre,GNF/kg,10749.0
+2024-06-16,Kindia,sucre,GNF/kg,10444.0
+2024-06-23,Kindia,sucre,GNF/kg,10918.0
+2024-06-30,Kindia,sucre,GNF/kg,10625.0
+2024-07-07,Kindia,sucre,GNF/kg,10750.0
+2024-07-14,Kindia,sucre,GNF/kg,10666.0
+2024-07-21,Kindia,sucre,GNF/kg,10892.0
+2024-07-28,Kindia,sucre,GNF/kg,10258.0
+2024-08-04,Kindia,sucre,GNF/kg,9910.0
+2024-08-11,Kindia,sucre,GNF/kg,10398.0
+2024-08-18,Kindia,sucre,GNF/kg,10647.0
+2024-08-25,Kindia,sucre,GNF/kg,10566.0
+2024-09-01,Kindia,sucre,GNF/kg,10639.0
+2024-09-08,Kindia,sucre,GNF/kg,10899.0
+2024-09-15,Kindia,sucre,GNF/kg,10870.0
+2024-09-22,Kindia,sucre,GNF/kg,10915.0
+2024-09-29,Kindia,sucre,GNF/kg,10635.0
+2024-10-06,Kindia,sucre,GNF/kg,10308.0
+2024-10-13,Kindia,sucre,GNF/kg,10904.0
+2024-10-20,Kindia,sucre,GNF/kg,10647.0
+2024-10-27,Kindia,sucre,GNF/kg,10589.0
+2024-11-03,Kindia,sucre,GNF/kg,10617.0
+2024-11-10,Kindia,sucre,GNF/kg,10612.0
+2024-11-17,Kindia,sucre,GNF/kg,10513.0
+2024-11-24,Kindia,sucre,GNF/kg,10394.0
+2024-12-01,Kindia,sucre,GNF/kg,10449.0
+2024-12-08,Kindia,sucre,GNF/kg,10537.0
+2024-12-15,Kindia,sucre,GNF/kg,10368.0
+2024-12-22,Kindia,sucre,GNF/kg,
+2024-12-29,Kindia,sucre,GNF/kg,10641.0
+2019-01-06,Labe,sucre,GNF/kg,7064.0
+2019-01-13,Labe,sucre,GNF/kg,6917.0
+2019-01-20,Labe,sucre,GNF/kg,6964.0
+2019-01-27,Labe,sucre,GNF/kg,7033.0
+2019-02-03,Labe,sucre,GNF/kg,6994.0
+2019-02-10,Labe,sucre,GNF/kg,6985.0
+2019-02-17,Labe,sucre,GNF/kg,7009.0
+2019-02-24,Labe,sucre,GNF/kg,6914.0
+2019-03-03,Labe,sucre,GNF/kg,7149.0
+2019-03-10,Labe,sucre,GNF/kg,7030.0
+2019-03-17,Labe,sucre,GNF/kg,6918.0
+2019-03-24,Labe,sucre,GNF/kg,7172.0
+2019-03-31,Labe,sucre,GNF/kg,7336.0
+2019-04-07,Labe,sucre,GNF/kg,7366.0
+2019-04-14,Labe,sucre,GNF/kg,7342.0
+2019-04-21,Labe,sucre,GNF/kg,7290.0
+2019-04-28,Labe,sucre,GNF/kg,7252.0
+2019-05-05,Labe,sucre,GNF/kg,7348.0
+2019-05-12,Labe,sucre,GNF/kg,7213.0
+2019-05-19,Labe,sucre,GNF/kg,7175.0
+2019-05-26,Labe,sucre,GNF/kg,7470.0
+2019-06-02,Labe,sucre,GNF/kg,7456.0
+2019-06-09,Labe,sucre,GNF/kg,7389.0
+2019-06-16,Labe,sucre,GNF/kg,7629.0
+2019-06-23,Labe,sucre,GNF/kg,7625.0
+2019-06-30,Labe,sucre,GNF/kg,7484.0
+2019-07-07,Labe,sucre,GNF/kg,7429.0
+2019-07-14,Labe,sucre,GNF/kg,7535.0
+2019-07-21,Labe,sucre,GNF/kg,7034.0
+2019-07-28,Labe,sucre,GNF/kg,7296.0
+2019-08-04,Labe,sucre,GNF/kg,7631.0
+2019-08-11,Labe,sucre,GNF/kg,
+2019-08-18,Labe,sucre,GNF/kg,7695.0
+2019-08-25,Labe,sucre,GNF/kg,7803.0
+2019-09-01,Labe,sucre,GNF/kg,7639.0
+2019-09-08,Labe,sucre,GNF/kg,7718.0
+2019-09-15,Labe,sucre,GNF/kg,7810.0
+2019-09-22,Labe,sucre,GNF/kg,7669.0
+2019-09-29,Labe,sucre,GNF/kg,7844.0
+2019-10-06,Labe,sucre,GNF/kg,7595.0
+2019-10-13,Labe,sucre,GNF/kg,7989.0
+2019-10-20,Labe,sucre,GNF/kg,7215.0
+2019-10-27,Labe,sucre,GNF/kg,7483.0
+2019-11-03,Labe,sucre,GNF/kg,7410.0
+2019-11-10,Labe,sucre,GNF/kg,7284.0
+2019-11-17,Labe,sucre,GNF/kg,7672.0
+2019-11-24,Labe,sucre,GNF/kg,7674.0
+2019-12-01,Labe,sucre,GNF/kg,7540.0
+2019-12-08,Labe,sucre,GNF/kg,7459.0
+2019-12-15,Labe,sucre,GNF/kg,7499.0
+2019-12-22,Labe,sucre,GNF/kg,7558.0
+2019-12-29,Labe,sucre,GNF/kg,7659.0
+2020-01-05,Labe,sucre,GNF/kg,7372.0
+2020-01-12,Labe,sucre,GNF/kg,7435.0
+2020-01-19,Labe,sucre,GNF/kg,7598.0
+2020-01-26,Labe,sucre,GNF/kg,7358.0
+2020-02-02,Labe,sucre,GNF/kg,7452.0
+2020-02-09,Labe,sucre,GNF/kg,7388.0
+2020-02-16,Labe,sucre,GNF/kg,7721.0
+2020-02-23,Labe,sucre,GNF/kg,7601.0
+2020-03-01,Labe,sucre,GNF/kg,8189.0
+2020-03-08,Labe,sucre,GNF/kg,8061.0
+2020-03-15,Labe,sucre,GNF/kg,8427.0
+2020-03-22,Labe,sucre,GNF/kg,8112.0
+2020-03-29,Labe,sucre,GNF/kg,8264.0
+2020-04-05,Labe,sucre,GNF/kg,8523.0
+2020-04-12,Labe,sucre,GNF/kg,8196.0
+2020-04-19,Labe,sucre,GNF/kg,8345.0
+2020-04-26,Labe,sucre,GNF/kg,8534.0
+2020-05-03,Labe,sucre,GNF/kg,8853.0
+2020-05-10,Labe,sucre,GNF/kg,8453.0
+2020-05-17,Labe,sucre,GNF/kg,8613.0
+2020-05-24,Labe,sucre,GNF/kg,8559.0
+2020-05-31,Labe,sucre,GNF/kg,8557.0
+2020-06-07,Labe,sucre,GNF/kg,8543.0
+2020-06-14,Labe,sucre,GNF/kg,8859.0
+2020-06-21,Labe,sucre,GNF/kg,8389.0
+2020-06-28,Labe,sucre,GNF/kg,8793.0
+2020-07-05,Labe,sucre,GNF/kg,8875.0
+2020-07-12,Labe,sucre,GNF/kg,8424.0
+2020-07-19,Labe,sucre,GNF/kg,8681.0
+2020-07-26,Labe,sucre,GNF/kg,8998.0
+2020-08-02,Labe,sucre,GNF/kg,8872.0
+2020-08-09,Labe,sucre,GNF/kg,9046.0
+2020-08-16,Labe,sucre,GNF/kg,8779.0
+2020-08-23,Labe,sucre,GNF/kg,8676.0
+2020-08-30,Labe,sucre,GNF/kg,8852.0
+2020-09-06,Labe,sucre,GNF/kg,8752.0
+2020-09-13,Labe,sucre,GNF/kg,8757.0
+2020-09-20,Labe,sucre,GNF/kg,8496.0
+2020-09-27,Labe,sucre,GNF/kg,8392.0
+2020-10-04,Labe,sucre,GNF/kg,8348.0
+2020-10-11,Labe,sucre,GNF/kg,
+2020-10-18,Labe,sucre,GNF/kg,7869.0
+2020-10-25,Labe,sucre,GNF/kg,8215.0
+2020-11-01,Labe,sucre,GNF/kg,8415.0
+2020-11-08,Labe,sucre,GNF/kg,8542.0
+2020-11-15,Labe,sucre,GNF/kg,8376.0
+2020-11-22,Labe,sucre,GNF/kg,7928.0
+2020-11-29,Labe,sucre,GNF/kg,7598.0
+2020-12-06,Labe,sucre,GNF/kg,8188.0
+2020-12-13,Labe,sucre,GNF/kg,8122.0
+2020-12-20,Labe,sucre,GNF/kg,8145.0
+2020-12-27,Labe,sucre,GNF/kg,7820.0
+2021-01-03,Labe,sucre,GNF/kg,8104.0
+2021-01-10,Labe,sucre,GNF/kg,8198.0
+2021-01-17,Labe,sucre,GNF/kg,8098.0
+2021-01-24,Labe,sucre,GNF/kg,7999.0
+2021-01-31,Labe,sucre,GNF/kg,8199.0
+2021-02-07,Labe,sucre,GNF/kg,8170.0
+2021-02-14,Labe,sucre,GNF/kg,8309.0
+2021-02-21,Labe,sucre,GNF/kg,
+2021-02-28,Labe,sucre,GNF/kg,7992.0
+2021-03-07,Labe,sucre,GNF/kg,7988.0
+2021-03-14,Labe,sucre,GNF/kg,8694.0
+2021-03-21,Labe,sucre,GNF/kg,8301.0
+2021-03-28,Labe,sucre,GNF/kg,8337.0
+2021-04-04,Labe,sucre,GNF/kg,8385.0
+2021-04-11,Labe,sucre,GNF/kg,8292.0
+2021-04-18,Labe,sucre,GNF/kg,8218.0
+2021-04-25,Labe,sucre,GNF/kg,8208.0
+2021-05-02,Labe,sucre,GNF/kg,8168.0
+2021-05-09,Labe,sucre,GNF/kg,8360.0
+2021-05-16,Labe,sucre,GNF/kg,7924.0
+2021-05-23,Labe,sucre,GNF/kg,8701.0
+2021-05-30,Labe,sucre,GNF/kg,8313.0
+2021-06-06,Labe,sucre,GNF/kg,8723.0
+2021-06-13,Labe,sucre,GNF/kg,8429.0
+2021-06-20,Labe,sucre,GNF/kg,8777.0
+2021-06-27,Labe,sucre,GNF/kg,8771.0
+2021-07-04,Labe,sucre,GNF/kg,9220.0
+2021-07-11,Labe,sucre,GNF/kg,8778.0
+2021-07-18,Labe,sucre,GNF/kg,9004.0
+2021-07-25,Labe,sucre,GNF/kg,8698.0
+2021-08-01,Labe,sucre,GNF/kg,8741.0
+2021-08-08,Labe,sucre,GNF/kg,8804.0
+2021-08-15,Labe,sucre,GNF/kg,9019.0
+2021-08-22,Labe,sucre,GNF/kg,8465.0
+2021-08-29,Labe,sucre,GNF/kg,8503.0
+2021-09-05,Labe,sucre,GNF/kg,8280.0
+2021-09-12,Labe,sucre,GNF/kg,8477.0
+2021-09-19,Labe,sucre,GNF/kg,8738.0
+2021-09-26,Labe,sucre,GNF/kg,8511.0
+2021-10-03,Labe,sucre,GNF/kg,8439.0
+2021-10-10,Labe,sucre,GNF/kg,8549.0
+2021-10-17,Labe,sucre,GNF/kg,8639.0
+2021-10-24,Labe,sucre,GNF/kg,9050.0
+2021-10-31,Labe,sucre,GNF/kg,8994.0
+2021-11-07,Labe,sucre,GNF/kg,9004.0
+2021-11-14,Labe,sucre,GNF/kg,8609.0
+2021-11-21,Labe,sucre,GNF/kg,8537.0
+2021-11-28,Labe,sucre,GNF/kg,8459.0
+2021-12-05,Labe,sucre,GNF/kg,8980.0
+2021-12-12,Labe,sucre,GNF/kg,8904.0
+2021-12-19,Labe,sucre,GNF/kg,8833.0
+2021-12-26,Labe,sucre,GNF/kg,8745.0
+2022-01-02,Labe,sucre,GNF/kg,8450.0
+2022-01-09,Labe,sucre,GNF/kg,
+2022-01-16,Labe,sucre,GNF/kg,9050.0
+2022-01-23,Labe,sucre,GNF/kg,8924.0
+2022-01-30,Labe,sucre,GNF/kg,9110.0
+2022-02-06,Labe,sucre,GNF/kg,
+2022-02-13,Labe,sucre,GNF/kg,8640.0
+2022-02-20,Labe,sucre,GNF/kg,8930.0
+2022-02-27,Labe,sucre,GNF/kg,8603.0
+2022-03-06,Labe,sucre,GNF/kg,8945.0
+2022-03-13,Labe,sucre,GNF/kg,9156.0
+2022-03-20,Labe,sucre,GNF/kg,9365.0
+2022-03-27,Labe,sucre,GNF/kg,9217.0
+2022-04-03,Labe,sucre,GNF/kg,9588.0
+2022-04-10,Labe,sucre,GNF/kg,9852.0
+2022-04-17,Labe,sucre,GNF/kg,9960.0
+2022-04-24,Labe,sucre,GNF/kg,9918.0
+2022-05-01,Labe,sucre,GNF/kg,10151.0
+2022-05-08,Labe,sucre,GNF/kg,9802.0
+2022-05-15,Labe,sucre,GNF/kg,9794.0
+2022-05-22,Labe,sucre,GNF/kg,10231.0
+2022-05-29,Labe,sucre,GNF/kg,9885.0
+2022-06-05,Labe,sucre,GNF/kg,10066.0
+2022-06-12,Labe,sucre,GNF/kg,10386.0
+2022-06-19,Labe,sucre,GNF/kg,10282.0
+2022-06-26,Labe,sucre,GNF/kg,10332.0
+2022-07-03,Labe,sucre,GNF/kg,10363.0
+2022-07-10,Labe,sucre,GNF/kg,10586.0
+2022-07-17,Labe,sucre,GNF/kg,10821.0
+2022-07-24,Labe,sucre,GNF/kg,10728.0
+2022-07-31,Labe,sucre,GNF/kg,10866.0
+2022-08-07,Labe,sucre,GNF/kg,10538.0
+2022-08-14,Labe,sucre,GNF/kg,10558.0
+2022-08-21,Labe,sucre,GNF/kg,10598.0
+2022-08-28,Labe,sucre,GNF/kg,
+2022-09-04,Labe,sucre,GNF/kg,10765.0
+2022-09-11,Labe,sucre,GNF/kg,10829.0
+2022-09-18,Labe,sucre,GNF/kg,10818.0
+2022-09-25,Labe,sucre,GNF/kg,10622.0
+2022-10-02,Labe,sucre,GNF/kg,
+2022-10-09,Labe,sucre,GNF/kg,10437.0
+2022-10-16,Labe,sucre,GNF/kg,10608.0
+2022-10-23,Labe,sucre,GNF/kg,10821.0
+2022-10-30,Labe,sucre,GNF/kg,10388.0
+2022-11-06,Labe,sucre,GNF/kg,10359.0
+2022-11-13,Labe,sucre,GNF/kg,10399.0
+2022-11-20,Labe,sucre,GNF/kg,10160.0
+2022-11-27,Labe,sucre,GNF/kg,10291.0
+2022-12-04,Labe,sucre,GNF/kg,10613.0
+2022-12-11,Labe,sucre,GNF/kg,10658.0
+2022-12-18,Labe,sucre,GNF/kg,10433.0
+2022-12-25,Labe,sucre,GNF/kg,10512.0
+2023-01-01,Labe,sucre,GNF/kg,10359.0
+2023-01-08,Labe,sucre,GNF/kg,10717.0
+2023-01-15,Labe,sucre,GNF/kg,10590.0
+2023-01-22,Labe,sucre,GNF/kg,10573.0
+2023-01-29,Labe,sucre,GNF/kg,
+2023-02-05,Labe,sucre,GNF/kg,9626.0
+2023-02-12,Labe,sucre,GNF/kg,9501.0
+2023-02-19,Labe,sucre,GNF/kg,9223.0
+2023-02-26,Labe,sucre,GNF/kg,9275.0
+2023-03-05,Labe,sucre,GNF/kg,9276.0
+2023-03-12,Labe,sucre,GNF/kg,9330.0
+2023-03-19,Labe,sucre,GNF/kg,9668.0
+2023-03-26,Labe,sucre,GNF/kg,9893.0
+2023-04-02,Labe,sucre,GNF/kg,9519.0
+2023-04-09,Labe,sucre,GNF/kg,9976.0
+2023-04-16,Labe,sucre,GNF/kg,9826.0
+2023-04-23,Labe,sucre,GNF/kg,9472.0
+2023-04-30,Labe,sucre,GNF/kg,9883.0
+2023-05-07,Labe,sucre,GNF/kg,10026.0
+2023-05-14,Labe,sucre,GNF/kg,10158.0
+2023-05-21,Labe,sucre,GNF/kg,9874.0
+2023-05-28,Labe,sucre,GNF/kg,
+2023-06-04,Labe,sucre,GNF/kg,10010.0
+2023-06-11,Labe,sucre,GNF/kg,9744.0
+2023-06-18,Labe,sucre,GNF/kg,9762.0
+2023-06-25,Labe,sucre,GNF/kg,10192.0
+2023-07-02,Labe,sucre,GNF/kg,10389.0
+2023-07-09,Labe,sucre,GNF/kg,10444.0
+2023-07-16,Labe,sucre,GNF/kg,10541.0
+2023-07-23,Labe,sucre,GNF/kg,10546.0
+2023-07-30,Labe,sucre,GNF/kg,10380.0
+2023-08-06,Labe,sucre,GNF/kg,10127.0
+2023-08-13,Labe,sucre,GNF/kg,10590.0
+2023-08-20,Labe,sucre,GNF/kg,10527.0
+2023-08-27,Labe,sucre,GNF/kg,10302.0
+2023-09-03,Labe,sucre,GNF/kg,10426.0
+2023-09-10,Labe,sucre,GNF/kg,10553.0
+2023-09-17,Labe,sucre,GNF/kg,10129.0
+2023-09-24,Labe,sucre,GNF/kg,10449.0
+2023-10-01,Labe,sucre,GNF/kg,10060.0
+2023-10-08,Labe,sucre,GNF/kg,10454.0
+2023-10-15,Labe,sucre,GNF/kg,10305.0
+2023-10-22,Labe,sucre,GNF/kg,10603.0
+2023-10-29,Labe,sucre,GNF/kg,10564.0
+2023-11-05,Labe,sucre,GNF/kg,11004.0
+2023-11-12,Labe,sucre,GNF/kg,11272.0
+2023-11-19,Labe,sucre,GNF/kg,11209.0
+2023-11-26,Labe,sucre,GNF/kg,10873.0
+2023-12-03,Labe,sucre,GNF/kg,10964.0
+2023-12-10,Labe,sucre,GNF/kg,11122.0
+2023-12-17,Labe,sucre,GNF/kg,11161.0
+2023-12-24,Labe,sucre,GNF/kg,10840.0
+2023-12-31,Labe,sucre,GNF/kg,11137.0
+2024-01-07,Labe,sucre,GNF/kg,10712.0
+2024-01-14,Labe,sucre,GNF/kg,11171.0
+2024-01-21,Labe,sucre,GNF/kg,11498.0
+2024-01-28,Labe,sucre,GNF/kg,11151.0
+2024-02-04,Labe,sucre,GNF/kg,10593.0
+2024-02-11,Labe,sucre,GNF/kg,11068.0
+2024-02-18,Labe,sucre,GNF/kg,10788.0
+2024-02-25,Labe,sucre,GNF/kg,10864.0
+2024-03-03,Labe,sucre,GNF/kg,10917.0
+2024-03-10,Labe,sucre,GNF/kg,10716.0
+2024-03-17,Labe,sucre,GNF/kg,10588.0
+2024-03-24,Labe,sucre,GNF/kg,
+2024-03-31,Labe,sucre,GNF/kg,10769.0
+2024-04-07,Labe,sucre,GNF/kg,10875.0
+2024-04-14,Labe,sucre,GNF/kg,10775.0
+2024-04-21,Labe,sucre,GNF/kg,11003.0
+2024-04-28,Labe,sucre,GNF/kg,11011.0
+2024-05-05,Labe,sucre,GNF/kg,10416.0
+2024-05-12,Labe,sucre,GNF/kg,10349.0
+2024-05-19,Labe,sucre,GNF/kg,10929.0
+2024-05-26,Labe,sucre,GNF/kg,10123.0
+2024-06-02,Labe,sucre,GNF/kg,10857.0
+2024-06-09,Labe,sucre,GNF/kg,11145.0
+2024-06-16,Labe,sucre,GNF/kg,11215.0
+2024-06-23,Labe,sucre,GNF/kg,11174.0
+2024-06-30,Labe,sucre,GNF/kg,11290.0
+2024-07-07,Labe,sucre,GNF/kg,10983.0
+2024-07-14,Labe,sucre,GNF/kg,11246.0
+2024-07-21,Labe,sucre,GNF/kg,11203.0
+2024-07-28,Labe,sucre,GNF/kg,10675.0
+2024-08-04,Labe,sucre,GNF/kg,11361.0
+2024-08-11,Labe,sucre,GNF/kg,
+2024-08-18,Labe,sucre,GNF/kg,
+2024-08-25,Labe,sucre,GNF/kg,11228.0
+2024-09-01,Labe,sucre,GNF/kg,11259.0
+2024-09-08,Labe,sucre,GNF/kg,11176.0
+2024-09-15,Labe,sucre,GNF/kg,11591.0
+2024-09-22,Labe,sucre,GNF/kg,11084.0
+2024-09-29,Labe,sucre,GNF/kg,11428.0
+2024-10-06,Labe,sucre,GNF/kg,11014.0
+2024-10-13,Labe,sucre,GNF/kg,11083.0
+2024-10-20,Labe,sucre,GNF/kg,11333.0
+2024-10-27,Labe,sucre,GNF/kg,11545.0
+2024-11-03,Labe,sucre,GNF/kg,11291.0
+2024-11-10,Labe,sucre,GNF/kg,11516.0
+2024-11-17,Labe,sucre,GNF/kg,11278.0
+2024-11-24,Labe,sucre,GNF/kg,11078.0
+2024-12-01,Labe,sucre,GNF/kg,11308.0
+2024-12-08,Labe,sucre,GNF/kg,11130.0
+2024-12-15,Labe,sucre,GNF/kg,10951.0
+2024-12-22,Labe,sucre,GNF/kg,
+2024-12-29,Labe,sucre,GNF/kg,11249.0
+2019-01-06,Nzerekore,sucre,GNF/kg,6970.0
+2019-01-13,Nzerekore,sucre,GNF/kg,7238.0
+2019-01-20,Nzerekore,sucre,GNF/kg,7263.0
+2019-01-27,Nzerekore,sucre,GNF/kg,6978.0
+2019-02-03,Nzerekore,sucre,GNF/kg,7006.0
+2019-02-10,Nzerekore,sucre,GNF/kg,7078.0
+2019-02-17,Nzerekore,sucre,GNF/kg,7062.0
+2019-02-24,Nzerekore,sucre,GNF/kg,7319.0
+2019-03-03,Nzerekore,sucre,GNF/kg,7509.0
+2019-03-10,Nzerekore,sucre,GNF/kg,7181.0
+2019-03-17,Nzerekore,sucre,GNF/kg,7419.0
+2019-03-24,Nzerekore,sucre,GNF/kg,7408.0
+2019-03-31,Nzerekore,sucre,GNF/kg,7493.0
+2019-04-07,Nzerekore,sucre,GNF/kg,7545.0
+2019-04-14,Nzerekore,sucre,GNF/kg,7529.0
+2019-04-21,Nzerekore,sucre,GNF/kg,7763.0
+2019-04-28,Nzerekore,sucre,GNF/kg,7708.0
+2019-05-05,Nzerekore,sucre,GNF/kg,7334.0
+2019-05-12,Nzerekore,sucre,GNF/kg,7461.0
+2019-05-19,Nzerekore,sucre,GNF/kg,7568.0
+2019-05-26,Nzerekore,sucre,GNF/kg,7568.0
+2019-06-02,Nzerekore,sucre,GNF/kg,7934.0
+2019-06-09,Nzerekore,sucre,GNF/kg,7697.0
+2019-06-16,Nzerekore,sucre,GNF/kg,7644.0
+2019-06-23,Nzerekore,sucre,GNF/kg,7734.0
+2019-06-30,Nzerekore,sucre,GNF/kg,7464.0
+2019-07-07,Nzerekore,sucre,GNF/kg,7584.0
+2019-07-14,Nzerekore,sucre,GNF/kg,7631.0
+2019-07-21,Nzerekore,sucre,GNF/kg,7441.0
+2019-07-28,Nzerekore,sucre,GNF/kg,7817.0
+2019-08-04,Nzerekore,sucre,GNF/kg,7917.0
+2019-08-11,Nzerekore,sucre,GNF/kg,8030.0
+2019-08-18,Nzerekore,sucre,GNF/kg,7795.0
+2019-08-25,Nzerekore,sucre,GNF/kg,7903.0
+2019-09-01,Nzerekore,sucre,GNF/kg,8030.0
+2019-09-08,Nzerekore,sucre,GNF/kg,7962.0
+2019-09-15,Nzerekore,sucre,GNF/kg,7979.0
+2019-09-22,Nzerekore,sucre,GNF/kg,8045.0
+2019-09-29,Nzerekore,sucre,GNF/kg,7813.0
+2019-10-06,Nzerekore,sucre,GNF/kg,7837.0
+2019-10-13,Nzerekore,sucre,GNF/kg,7838.0
+2019-10-20,Nzerekore,sucre,GNF/kg,7707.0
+2019-10-27,Nzerekore,sucre,GNF/kg,7673.0
+2019-11-03,Nzerekore,sucre,GNF/kg,7634.0
+2019-11-10,Nzerekore,sucre,GNF/kg,
+2019-11-17,Nzerekore,sucre,GNF/kg,7711.0
+2019-11-24,Nzerekore,sucre,GNF/kg,7812.0
+2019-12-01,Nzerekore,sucre,GNF/kg,8034.0
+2019-12-08,Nzerekore,sucre,GNF/kg,7625.0
+2019-12-15,Nzerekore,sucre,GNF/kg,7976.0
+2019-12-22,Nzerekore,sucre,GNF/kg,7781.0
+2019-12-29,Nzerekore,sucre,GNF/kg,8133.0
+2020-01-05,Nzerekore,sucre,GNF/kg,7708.0
+2020-01-12,Nzerekore,sucre,GNF/kg,7647.0
+2020-01-19,Nzerekore,sucre,GNF/kg,7691.0
+2020-01-26,Nzerekore,sucre,GNF/kg,7647.0
+2020-02-02,Nzerekore,sucre,GNF/kg,7818.0
+2020-02-09,Nzerekore,sucre,GNF/kg,7968.0
+2020-02-16,Nzerekore,sucre,GNF/kg,7808.0
+2020-02-23,Nzerekore,sucre,GNF/kg,7729.0
+2020-03-01,Nzerekore,sucre,GNF/kg,
+2020-03-08,Nzerekore,sucre,GNF/kg,8630.0
+2020-03-15,Nzerekore,sucre,GNF/kg,
+2020-03-22,Nzerekore,sucre,GNF/kg,8327.0
+2020-03-29,Nzerekore,sucre,GNF/kg,8371.0
+2020-04-05,Nzerekore,sucre,GNF/kg,8689.0
+2020-04-12,Nzerekore,sucre,GNF/kg,8785.0
+2020-04-19,Nzerekore,sucre,GNF/kg,
+2020-04-26,Nzerekore,sucre,GNF/kg,8562.0
+2020-05-03,Nzerekore,sucre,GNF/kg,8644.0
+2020-05-10,Nzerekore,sucre,GNF/kg,8506.0
+2020-05-17,Nzerekore,sucre,GNF/kg,8577.0
+2020-05-24,Nzerekore,sucre,GNF/kg,8853.0
+2020-05-31,Nzerekore,sucre,GNF/kg,8531.0
+2020-06-07,Nzerekore,sucre,GNF/kg,8687.0
+2020-06-14,Nzerekore,sucre,GNF/kg,8826.0
+2020-06-21,Nzerekore,sucre,GNF/kg,8882.0
+2020-06-28,Nzerekore,sucre,GNF/kg,8891.0
+2020-07-05,Nzerekore,sucre,GNF/kg,9155.0
+2020-07-12,Nzerekore,sucre,GNF/kg,9219.0
+2020-07-19,Nzerekore,sucre,GNF/kg,8710.0
+2020-07-26,Nzerekore,sucre,GNF/kg,9325.0
+2020-08-02,Nzerekore,sucre,GNF/kg,9105.0
+2020-08-09,Nzerekore,sucre,GNF/kg,9297.0
+2020-08-16,Nzerekore,sucre,GNF/kg,8951.0
+2020-08-23,Nzerekore,sucre,GNF/kg,9110.0
+2020-08-30,Nzerekore,sucre,GNF/kg,9142.0
+2020-09-06,Nzerekore,sucre,GNF/kg,9161.0
+2020-09-13,Nzerekore,sucre,GNF/kg,8813.0
+2020-09-20,Nzerekore,sucre,GNF/kg,8551.0
+2020-09-27,Nzerekore,sucre,GNF/kg,8588.0
+2020-10-04,Nzerekore,sucre,GNF/kg,
+2020-10-11,Nzerekore,sucre,GNF/kg,8375.0
+2020-10-18,Nzerekore,sucre,GNF/kg,8513.0
+2020-10-25,Nzerekore,sucre,GNF/kg,8559.0
+2020-11-01,Nzerekore,sucre,GNF/kg,8784.0
+2020-11-08,Nzerekore,sucre,GNF/kg,8684.0
+2020-11-15,Nzerekore,sucre,GNF/kg,8270.0
+2020-11-22,Nzerekore,sucre,GNF/kg,8501.0
+2020-11-29,Nzerekore,sucre,GNF/kg,8424.0
+2020-12-06,Nzerekore,sucre,GNF/kg,8263.0
+2020-12-13,Nzerekore,sucre,GNF/kg,8176.0
+2020-12-20,Nzerekore,sucre,GNF/kg,8339.0
+2020-12-27,Nzerekore,sucre,GNF/kg,7986.0
+2021-01-03,Nzerekore,sucre,GNF/kg,8247.0
+2021-01-10,Nzerekore,sucre,GNF/kg,8288.0
+2021-01-17,Nzerekore,sucre,GNF/kg,8499.0
+2021-01-24,Nzerekore,sucre,GNF/kg,8188.0
+2021-01-31,Nzerekore,sucre,GNF/kg,8316.0
+2021-02-07,Nzerekore,sucre,GNF/kg,8327.0
+2021-02-14,Nzerekore,sucre,GNF/kg,8695.0
+2021-02-21,Nzerekore,sucre,GNF/kg,8690.0
+2021-02-28,Nzerekore,sucre,GNF/kg,8051.0
+2021-03-07,Nzerekore,sucre,GNF/kg,8462.0
+2021-03-14,Nzerekore,sucre,GNF/kg,8459.0
+2021-03-21,Nzerekore,sucre,GNF/kg,8782.0
+2021-03-28,Nzerekore,sucre,GNF/kg,8509.0
+2021-04-04,Nzerekore,sucre,GNF/kg,8521.0
+2021-04-11,Nzerekore,sucre,GNF/kg,8418.0
+2021-04-18,Nzerekore,sucre,GNF/kg,8493.0
+2021-04-25,Nzerekore,sucre,GNF/kg,8487.0
+2021-05-02,Nzerekore,sucre,GNF/kg,8475.0
+2021-05-09,Nzerekore,sucre,GNF/kg,8562.0
+2021-05-16,Nzerekore,sucre,GNF/kg,8304.0
+2021-05-23,Nzerekore,sucre,GNF/kg,8759.0
+2021-05-30,Nzerekore,sucre,GNF/kg,8557.0
+2021-06-06,Nzerekore,sucre,GNF/kg,9055.0
+2021-06-13,Nzerekore,sucre,GNF/kg,8767.0
+2021-06-20,Nzerekore,sucre,GNF/kg,8840.0
+2021-06-27,Nzerekore,sucre,GNF/kg,9114.0
+2021-07-04,Nzerekore,sucre,GNF/kg,9447.0
+2021-07-11,Nzerekore,sucre,GNF/kg,9139.0
+2021-07-18,Nzerekore,sucre,GNF/kg,9100.0
+2021-07-25,Nzerekore,sucre,GNF/kg,8902.0
+2021-08-01,Nzerekore,sucre,GNF/kg,9335.0
+2021-08-08,Nzerekore,sucre,GNF/kg,8921.0
+2021-08-15,Nzerekore,sucre,GNF/kg,8946.0
+2021-08-22,Nzerekore,sucre,GNF/kg,9092.0
+2021-08-29,Nzerekore,sucre,GNF/kg,8650.0
+2021-09-05,Nzerekore,sucre,GNF/kg,9026.0
+2021-09-12,Nzerekore,sucre,GNF/kg,8987.0
+2021-09-19,Nzerekore,sucre,GNF/kg,9254.0
+2021-09-26,Nzerekore,sucre,GNF/kg,9096.0
+2021-10-03,Nzerekore,sucre,GNF/kg,8764.0
+2021-10-10,Nzerekore,sucre,GNF/kg,8938.0
+2021-10-17,Nzerekore,sucre,GNF/kg,9019.0
+2021-10-24,Nzerekore,sucre,GNF/kg,8945.0
+2021-10-31,Nzerekore,sucre,GNF/kg,9255.0
+2021-11-07,Nzerekore,sucre,GNF/kg,9353.0
+2021-11-14,Nzerekore,sucre,GNF/kg,9251.0
+2021-11-21,Nzerekore,sucre,GNF/kg,9083.0
+2021-11-28,Nzerekore,sucre,GNF/kg,9029.0
+2021-12-05,Nzerekore,sucre,GNF/kg,9186.0
+2021-12-12,Nzerekore,sucre,GNF/kg,8927.0
+2021-12-19,Nzerekore,sucre,GNF/kg,9006.0
+2021-12-26,Nzerekore,sucre,GNF/kg,8818.0
+2022-01-02,Nzerekore,sucre,GNF/kg,8849.0
+2022-01-09,Nzerekore,sucre,GNF/kg,8897.0
+2022-01-16,Nzerekore,sucre,GNF/kg,9207.0
+2022-01-23,Nzerekore,sucre,GNF/kg,9309.0
+2022-01-30,Nzerekore,sucre,GNF/kg,
+2022-02-06,Nzerekore,sucre,GNF/kg,8652.0
+2022-02-13,Nzerekore,sucre,GNF/kg,9028.0
+2022-02-20,Nzerekore,sucre,GNF/kg,8885.0
+2022-02-27,Nzerekore,sucre,GNF/kg,9088.0
+2022-03-06,Nzerekore,sucre,GNF/kg,9535.0
+2022-03-13,Nzerekore,sucre,GNF/kg,9632.0
+2022-03-20,Nzerekore,sucre,GNF/kg,9793.0
+2022-03-27,Nzerekore,sucre,GNF/kg,10059.0
+2022-04-03,Nzerekore,sucre,GNF/kg,9633.0
+2022-04-10,Nzerekore,sucre,GNF/kg,9845.0
+2022-04-17,Nzerekore,sucre,GNF/kg,10027.0
+2022-04-24,Nzerekore,sucre,GNF/kg,10295.0
+2022-05-01,Nzerekore,sucre,GNF/kg,10017.0
+2022-05-08,Nzerekore,sucre,GNF/kg,10189.0
+2022-05-15,Nzerekore,sucre,GNF/kg,
+2022-05-22,Nzerekore,sucre,GNF/kg,10280.0
+2022-05-29,Nzerekore,sucre,GNF/kg,10201.0
+2022-06-05,Nzerekore,sucre,GNF/kg,10443.0
+2022-06-12,Nzerekore,sucre,GNF/kg,10742.0
+2022-06-19,Nzerekore,sucre,GNF/kg,10920.0
+2022-06-26,Nzerekore,sucre,GNF/kg,10690.0
+2022-07-03,Nzerekore,sucre,GNF/kg,10742.0
+2022-07-10,Nzerekore,sucre,GNF/kg,
+2022-07-17,Nzerekore,sucre,GNF/kg,10770.0
+2022-07-24,Nzerekore,sucre,GNF/kg,10796.0
+2022-07-31,Nzerekore,sucre,GNF/kg,11088.0
+2022-08-07,Nzerekore,sucre,GNF/kg,10854.0
+2022-08-14,Nzerekore,sucre,GNF/kg,10854.0
+2022-08-21,Nzerekore,sucre,GNF/kg,10631.0
+2022-08-28,Nzerekore,sucre,GNF/kg,10997.0
+2022-09-04,Nzerekore,sucre,GNF/kg,11183.0
+2022-09-11,Nzerekore,sucre,GNF/kg,
+2022-09-18,Nzerekore,sucre,GNF/kg,11179.0
+2022-09-25,Nzerekore,sucre,GNF/kg,10606.0
+2022-10-02,Nzerekore,sucre,GNF/kg,10616.0
+2022-10-09,Nzerekore,sucre,GNF/kg,10683.0
+2022-10-16,Nzerekore,sucre,GNF/kg,10622.0
+2022-10-23,Nzerekore,sucre,GNF/kg,11034.0
+2022-10-30,Nzerekore,sucre,GNF/kg,11182.0
+2022-11-06,Nzerekore,sucre,GNF/kg,10981.0
+2022-11-13,Nzerekore,sucre,GNF/kg,10659.0
+2022-11-20,Nzerekore,sucre,GNF/kg,10710.0
+2022-11-27,Nzerekore,sucre,GNF/kg,10704.0
+2022-12-04,Nzerekore,sucre,GNF/kg,10653.0
+2022-12-11,Nzerekore,sucre,GNF/kg,10880.0
+2022-12-18,Nzerekore,sucre,GNF/kg,10637.0
+2022-12-25,Nzerekore,sucre,GNF/kg,10630.0
+2023-01-01,Nzerekore,sucre,GNF/kg,11096.0
+2023-01-08,Nzerekore,sucre,GNF/kg,11038.0
+2023-01-15,Nzerekore,sucre,GNF/kg,10836.0
+2023-01-22,Nzerekore,sucre,GNF/kg,10824.0
+2023-01-29,Nzerekore,sucre,GNF/kg,10611.0
+2023-02-05,Nzerekore,sucre,GNF/kg,9778.0
+2023-02-12,Nzerekore,sucre,GNF/kg,9614.0
+2023-02-19,Nzerekore,sucre,GNF/kg,9680.0
+2023-02-26,Nzerekore,sucre,GNF/kg,9687.0
+2023-03-05,Nzerekore,sucre,GNF/kg,9340.0
+2023-03-12,Nzerekore,sucre,GNF/kg,9565.0
+2023-03-19,Nzerekore,sucre,GNF/kg,9444.0
+2023-03-26,Nzerekore,sucre,GNF/kg,10203.0
+2023-04-02,Nzerekore,sucre,GNF/kg,
+2023-04-09,Nzerekore,sucre,GNF/kg,10057.0
+2023-04-16,Nzerekore,sucre,GNF/kg,10146.0
+2023-04-23,Nzerekore,sucre,GNF/kg,10158.0
+2023-04-30,Nzerekore,sucre,GNF/kg,9944.0
+2023-05-07,Nzerekore,sucre,GNF/kg,10238.0
+2023-05-14,Nzerekore,sucre,GNF/kg,10566.0
+2023-05-21,Nzerekore,sucre,GNF/kg,10522.0
+2023-05-28,Nzerekore,sucre,GNF/kg,
+2023-06-04,Nzerekore,sucre,GNF/kg,10313.0
+2023-06-11,Nzerekore,sucre,GNF/kg,10070.0
+2023-06-18,Nzerekore,sucre,GNF/kg,
+2023-06-25,Nzerekore,sucre,GNF/kg,10236.0
+2023-07-02,Nzerekore,sucre,GNF/kg,10557.0
+2023-07-09,Nzerekore,sucre,GNF/kg,10554.0
+2023-07-16,Nzerekore,sucre,GNF/kg,10521.0
+2023-07-23,Nzerekore,sucre,GNF/kg,10671.0
+2023-07-30,Nzerekore,sucre,GNF/kg,10584.0
+2023-08-06,Nzerekore,sucre,GNF/kg,10668.0
+2023-08-13,Nzerekore,sucre,GNF/kg,10450.0
+2023-08-20,Nzerekore,sucre,GNF/kg,10465.0
+2023-08-27,Nzerekore,sucre,GNF/kg,10962.0
+2023-09-03,Nzerekore,sucre,GNF/kg,11305.0
+2023-09-10,Nzerekore,sucre,GNF/kg,10879.0
+2023-09-17,Nzerekore,sucre,GNF/kg,10473.0
+2023-09-24,Nzerekore,sucre,GNF/kg,10459.0
+2023-10-01,Nzerekore,sucre,GNF/kg,10612.0
+2023-10-08,Nzerekore,sucre,GNF/kg,10925.0
+2023-10-15,Nzerekore,sucre,GNF/kg,10458.0
+2023-10-22,Nzerekore,sucre,GNF/kg,10922.0
+2023-10-29,Nzerekore,sucre,GNF/kg,11035.0
+2023-11-05,Nzerekore,sucre,GNF/kg,11502.0
+2023-11-12,Nzerekore,sucre,GNF/kg,11158.0
+2023-11-19,Nzerekore,sucre,GNF/kg,10956.0
+2023-11-26,Nzerekore,sucre,GNF/kg,11224.0
+2023-12-03,Nzerekore,sucre,GNF/kg,11486.0
+2023-12-10,Nzerekore,sucre,GNF/kg,11251.0
+2023-12-17,Nzerekore,sucre,GNF/kg,11329.0
+2023-12-24,Nzerekore,sucre,GNF/kg,11206.0
+2023-12-31,Nzerekore,sucre,GNF/kg,11296.0
+2024-01-07,Nzerekore,sucre,GNF/kg,
+2024-01-14,Nzerekore,sucre,GNF/kg,11337.0
+2024-01-21,Nzerekore,sucre,GNF/kg,11511.0
+2024-01-28,Nzerekore,sucre,GNF/kg,11733.0
+2024-02-04,Nzerekore,sucre,GNF/kg,11091.0
+2024-02-11,Nzerekore,sucre,GNF/kg,11148.0
+2024-02-18,Nzerekore,sucre,GNF/kg,11291.0
+2024-02-25,Nzerekore,sucre,GNF/kg,
+2024-03-03,Nzerekore,sucre,GNF/kg,11248.0
+2024-03-10,Nzerekore,sucre,GNF/kg,10925.0
+2024-03-17,Nzerekore,sucre,GNF/kg,10781.0
+2024-03-24,Nzerekore,sucre,GNF/kg,10996.0
+2024-03-31,Nzerekore,sucre,GNF/kg,11074.0
+2024-04-07,Nzerekore,sucre,GNF/kg,11438.0
+2024-04-14,Nzerekore,sucre,GNF/kg,11367.0
+2024-04-21,Nzerekore,sucre,GNF/kg,11462.0
+2024-04-28,Nzerekore,sucre,GNF/kg,11311.0
+2024-05-05,Nzerekore,sucre,GNF/kg,10701.0
+2024-05-12,Nzerekore,sucre,GNF/kg,10772.0
+2024-05-19,Nzerekore,sucre,GNF/kg,
+2024-05-26,Nzerekore,sucre,GNF/kg,10879.0
+2024-06-02,Nzerekore,sucre,GNF/kg,11580.0
+2024-06-09,Nzerekore,sucre,GNF/kg,11843.0
+2024-06-16,Nzerekore,sucre,GNF/kg,11621.0
+2024-06-23,Nzerekore,sucre,GNF/kg,11445.0
+2024-06-30,Nzerekore,sucre,GNF/kg,11358.0
+2024-07-07,Nzerekore,sucre,GNF/kg,11176.0
+2024-07-14,Nzerekore,sucre,GNF/kg,11395.0
+2024-07-21,Nzerekore,sucre,GNF/kg,11492.0
+2024-07-28,Nzerekore,sucre,GNF/kg,11359.0
+2024-08-04,Nzerekore,sucre,GNF/kg,11386.0
+2024-08-11,Nzerekore,sucre,GNF/kg,11582.0
+2024-08-18,Nzerekore,sucre,GNF/kg,11325.0
+2024-08-25,Nzerekore,sucre,GNF/kg,11320.0
+2024-09-01,Nzerekore,sucre,GNF/kg,11807.0
+2024-09-08,Nzerekore,sucre,GNF/kg,11740.0
+2024-09-15,Nzerekore,sucre,GNF/kg,11663.0
+2024-09-22,Nzerekore,sucre,GNF/kg,11685.0
+2024-09-29,Nzerekore,sucre,GNF/kg,11735.0
+2024-10-06,Nzerekore,sucre,GNF/kg,11439.0
+2024-10-13,Nzerekore,sucre,GNF/kg,11623.0
+2024-10-20,Nzerekore,sucre,GNF/kg,12076.0
+2024-10-27,Nzerekore,sucre,GNF/kg,11681.0
+2024-11-03,Nzerekore,sucre,GNF/kg,11808.0
+2024-11-10,Nzerekore,sucre,GNF/kg,11326.0
+2024-11-17,Nzerekore,sucre,GNF/kg,11478.0
+2024-11-24,Nzerekore,sucre,GNF/kg,11820.0
+2024-12-01,Nzerekore,sucre,GNF/kg,11755.0
+2024-12-08,Nzerekore,sucre,GNF/kg,10591.0
+2024-12-15,Nzerekore,sucre,GNF/kg,11536.0
+2024-12-22,Nzerekore,sucre,GNF/kg,11844.0
+2024-12-29,Nzerekore,sucre,GNF/kg,
